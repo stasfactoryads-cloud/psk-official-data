@@ -20,45 +20,52 @@ TEMPLATE = r"""<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>ГК ПСК: данные API</title>
 <style>
-:root { --bg:#f6f7f9; --card:#fff; --ink:#1d2330; --muted:#6b7280; --line:#e3e6eb; --accent:#2563eb; --ok:#15803d; --warn:#b45309; }
-@media (prefers-color-scheme: dark) { :root { --bg:#0f1115; --card:#181b22; --ink:#e7e9ee; --muted:#9aa3b2; --line:#2a2f3a; --accent:#60a5fa; } }
+:root { --brand:#C62A2D; --dark:#373A41; --bg:#F3F3F3; --card:#FFFFFF; --line:#E3E3E3; --muted:#6b6f76; --ok:#2e7d32; }
 * { box-sizing: border-box; }
-body { margin:0; font:15px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; background:var(--bg); color:var(--ink); }
-header { padding:20px 16px 0; max-width:1200px; margin:0 auto; }
-h1 { font-size:22px; margin:0 0 4px; }
-.meta { color:var(--muted); font-size:13px; }
-nav { display:flex; gap:6px; flex-wrap:wrap; margin:14px 0 0; border-bottom:1px solid var(--line); }
-nav button { background:none; border:0; padding:10px 12px; cursor:pointer; color:var(--muted); font:inherit; border-bottom:2px solid transparent; }
-nav button.active { color:var(--accent); border-bottom-color:var(--accent); }
-main { max-width:1200px; margin:0 auto; padding:16px; }
+body { margin:0; font:15px/1.5 Arial, Helvetica, sans-serif; background:var(--bg); color:var(--dark); }
+header { background:var(--dark); color:#fff; padding:18px 16px 0; }
+.inner { max-width:1200px; margin:0 auto; }
+.brand { display:flex; align-items:center; gap:12px; }
+.mark { background:var(--brand); color:#fff; font-weight:700; padding:6px 10px; letter-spacing:.5px; }
+h1 { font-size:21px; margin:0; color:#fff; font-weight:700; }
+.meta { color:#c9cdd3; font-size:13px; margin-top:6px; }
+nav { display:flex; gap:4px; flex-wrap:wrap; margin-top:14px; border-bottom:1px solid #4a4e57; }
+nav button { background:none; border:0; padding:12px 14px; cursor:pointer; color:#c9cdd3; font:inherit; border-bottom:3px solid transparent; }
+nav button:hover { color:#fff; }
+nav button.active { color:#fff; border-bottom-color:var(--brand); font-weight:700; }
+main { max-width:1200px; margin:0 auto; padding:18px 16px 32px; }
 .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(200px,1fr)); gap:12px; margin-bottom:16px; }
-.card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px; }
-.card .n { font-size:24px; font-weight:600; }
+.card { background:var(--card); border:1px solid var(--line); padding:14px 16px; border-top:3px solid var(--dark); }
+.card.accent { border-top-color:var(--brand); }
+.card .n { font-size:26px; font-weight:700; }
 .card .l { color:var(--muted); font-size:13px; }
-table { width:100%; border-collapse:collapse; background:var(--card); border:1px solid var(--line); border-radius:10px; overflow:hidden; font-size:14px; }
-th, td { padding:8px 10px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; }
-th { background:var(--bg); font-weight:600; position:sticky; top:0; }
+table { width:100%; border-collapse:collapse; background:var(--card); border:1px solid var(--line); font-size:14px; }
+th, td { padding:9px 10px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; }
+th { background:var(--dark); color:#fff; font-weight:600; position:sticky; top:0; }
 td.num, th.num { text-align:right; white-space:nowrap; }
-.wrap { overflow-x:auto; max-height:70vh; border-radius:10px; }
-.controls { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px; }
-input, select { padding:8px 10px; border:1px solid var(--line); border-radius:8px; background:var(--card); color:var(--ink); font:inherit; }
+.wrap { overflow-x:auto; max-height:70vh; }
+.controls { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px; align-items:center; }
+input, select { padding:8px 10px; border:1px solid #cdcecf; background:#fff; color:var(--dark); font:inherit; border-radius:2px; }
 input { min-width:240px; }
-.proj { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:16px; margin-bottom:14px; }
-.proj h3 { margin:0 0 6px; font-size:18px; }
-.tag { display:inline-block; font-size:12px; padding:2px 8px; border-radius:999px; border:1px solid var(--line); color:var(--muted); margin:2px 4px 2px 0; }
-.ok { color:var(--ok); } .warn { color:var(--warn); }
+.proj { background:var(--card); border:1px solid var(--line); border-left:4px solid var(--brand); padding:16px 18px; margin-bottom:14px; }
+.proj h3 { margin:0 0 8px; font-size:18px; color:var(--dark); }
+.tag { display:inline-block; font-size:12px; padding:2px 8px; border:1px solid #cdcecf; color:var(--dark); margin:2px 6px 2px 0; background:#fafafa; }
+.ok { color:var(--ok); } .warn { color:var(--brand); }
 .desc { white-space:pre-wrap; margin:10px 0; }
 ul { margin:6px 0; padding-left:20px; }
-a { color:var(--accent); }
+a { color:var(--brand); }
 .gallery { display:flex; gap:6px; overflow-x:auto; padding:6px 0; }
-.gallery img { height:90px; border-radius:6px; border:1px solid var(--line); }
+.gallery img { height:90px; border:1px solid var(--line); }
 .hidden { display:none; }
 .small { font-size:13px; color:var(--muted); }
+p { margin:6px 0; }
+@media (max-width:640px) { main { padding:14px 12px 28px; } th, td { padding:7px 6px; font-size:13px; } }
 </style>
 </head>
 <body>
 <header>
-  <h1>ГК ПСК: данные API</h1>
+  <div class="inner">
+  <div class="brand"><span class="mark">ПСК</span><h1>Данные API ГК ПСК</h1></div>
   <div class="meta" id="gen"></div>
   <nav id="tabs">
     <button data-tab="overview" class="active">Наличие</button>
@@ -67,8 +74,9 @@ a { color:var(--accent); }
     <button data-tab="flats">Лоты</button>
     <button data-tab="files">Файлы</button>
   </nav>
+  </div>
 </header>
-<main>
+<main class="inner">
   <section id="overview"></section>
   <section id="projects" class="hidden"></section>
   <section id="marketing" class="hidden"></section>
