@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:10:05+00:00",
+  "generated_at": "2026-10-20T19:13:32+00:00",
   "source": "https://psk-info.ru/api/projects/<slug>/",
   "count": 13,
   "projects": {
@@ -533,7 +533,9 @@
         }
       ],
       "media": {
-        "videos": [],
+        "videos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/fcccc68f578ec1ddcb2ccb4e862a0a0cd3b29eff.mp4"
+        ],
         "video_previews": [
           "https://storage.yandexcloud.net/psk-media/media/p/gv/v/15287217349cae5ba2c7ebdb18c980eb981a60f1.jpg"
         ],
@@ -823,7 +825,9 @@
         }
       ],
       "media": {
-        "videos": [],
+        "videos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/79d79ae74002fd0f246e8ea948f28f6c2db75aa9.mp4"
+        ],
         "video_previews": [
           "https://storage.yandexcloud.net/psk-media/media/p/gv/v/072989bf58328b24b2944f0d160774e987a52b37.jpg"
         ],
@@ -1370,7 +1374,9 @@
         }
       ],
       "media": {
-        "videos": [],
+        "videos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/ec0622553701596325abe056b16adb09571c0605.mp4"
+        ],
         "video_previews": [
           "https://storage.yandexcloud.net/psk-media/media/p/gv/v/85285cd083cf25c6df1740e4deef6abc31bfeebb.jpg"
         ],
@@ -1640,7 +1646,9 @@
         }
       ],
       "media": {
-        "videos": [],
+        "videos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/44512f2d14762bc24a3e2c77caa02722443d9811.mp4"
+        ],
         "video_previews": [
           "https://storage.yandexcloud.net/psk-media/media/p/gv/v/29ec47013d19a7b16a13db9adfc7240975eae569.jpg"
         ],
@@ -1939,7 +1947,9 @@
         }
       ],
       "media": {
-        "videos": [],
+        "videos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/ef5da3985ad54175dafcf1c64cf330732b297cf9.mp4"
+        ],
         "video_previews": [
           "https://storage.yandexcloud.net/psk-media/media/p/gv/v/661b7136ef784a80220e4ae90b2500eb11ec11fc.jpg"
         ],
@@ -2199,7 +2209,9 @@
         }
       ],
       "media": {
-        "videos": [],
+        "videos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/d744ae543c98dfc28a7b45f2a088fec84e30e90b.mp4"
+        ],
         "video_previews": [
           "https://storage.yandexcloud.net/psk-media/media/p/gv/v/daa7dba3c81d48eab74ee94ea4abc9c410370961.jpg"
         ],
@@ -2440,7 +2452,9 @@
         }
       ],
       "media": {
-        "videos": [],
+        "videos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/d3f42687d822c8e76445162959a94638f3ba9800.mp4"
+        ],
         "video_previews": [
           "https://storage.yandexcloud.net/psk-media/media/p/gv/v/a118333fe915eb6d4df3ec628fd983d8d03b0b4f.jpg"
         ],
@@ -2658,7 +2672,9 @@
         }
       ],
       "media": {
-        "videos": [],
+        "videos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/01cfa926771e5d983243c14d82f08dfd2f10da10.mp4"
+        ],
         "video_previews": [
           "https://storage.yandexcloud.net/psk-media/media/p/gv/v/22490b3f581ef39514a1a19cec81af6d44eeca64.jpg"
         ],
@@ -2827,7 +2843,9 @@
         }
       ],
       "media": {
-        "videos": [],
+        "videos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/4ccb406d61de76a6b3bdbdb6bced7437793ec2f3.mp4"
+        ],
         "video_previews": [
           "https://storage.yandexcloud.net/psk-media/media/p/gv/v/b498006183a26eb60ab47fcd8e66a371824c62bc.jpg"
         ],
@@ -2994,7 +3012,9 @@
         }
       ],
       "media": {
-        "videos": [],
+        "videos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/73f93d45b03e545bc1af13b546c4eec384c4856a.mp4"
+        ],
         "video_previews": [
           "https://storage.yandexcloud.net/psk-media/media/p/gv/v/4a64e4e62f2ac69da31deea485c6d5cef1672ee0.jpg"
         ],
@@ -3243,7 +3263,9 @@
         }
       ],
       "media": {
-        "videos": [],
+        "videos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/0222c40d512cc547774156fd2ba050c27541d770.mp4"
+        ],
         "video_previews": [
           "https://storage.yandexcloud.net/psk-media/media/p/gv/v/c6bdec0bf68ed6a157fb6c40f13963c581e6701c.jpeg"
         ],

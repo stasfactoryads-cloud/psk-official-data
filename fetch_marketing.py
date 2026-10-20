@@ -57,7 +57,7 @@ def list_projects():
 
 
 def parse_project(slug, d):
-    video_mp4 = d.get("project_video_link") or d.get("about_project_video_link")
+    video_links = [d.get("project_video_link"), d.get("about_project_video_link"), d.get("project_video")]
     video_preview = d.get("project_video_preview") or d.get("about_project_video_preview")
     advantages = [
         {
@@ -112,7 +112,7 @@ def parse_project(slug, d):
             for i in d.get("infrastructure_advantages", [])
         ],
         "media": {
-            "videos": unique([video_mp4]),
+            "videos": unique(video_links),
             "video_previews": unique([video_preview]),
             "photos": unique(gallery + adv_images),
             "photo_report_preview": d.get("photo_reports_preview") or None,
