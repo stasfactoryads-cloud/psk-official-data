@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:51:23+00:00",
+  "generated_at": "2026-10-20T18:56:18+00:00",
   "source": "https://psk-info.ru/api/projects/<slug>/",
   "count": 13,
   "projects": {
@@ -245,27 +245,75 @@
           "time": "10 минут на машине"
         }
       ],
-      "video": {
-        "mp4_url": "https://storage.yandexcloud.net/psk-media/media/p/gv/v/d80139807d5927f734767b619b71176c0b22268d.mp4",
-        "preview_url": "https://storage.yandexcloud.net/psk-media/media/p/gv/v/058137e1b0568da8cb54e8a4818f5700ac37def1.jpg"
+      "media": {
+        "videos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/d80139807d5927f734767b619b71176c0b22268d.mp4"
+        ],
+        "video_previews": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/058137e1b0568da8cb54e8a4818f5700ac37def1.jpg"
+        ],
+        "photos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/3ac2307ddd5f3ee9ce39d72c438271abeee9e467.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/07a6ccbb4bf1f58cec4ca39d293dee05a2f6dfa8.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/57deaff88e33ac1538e5c2af7adbd581dac5b5f5.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/7d065f9fdd464d458bb6ea32d7899d3f3111f46e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/8271509e092a61a9ff8f62a44fe9ccc58c784ad4.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/fbff986c46f1164e7b9621f658156bf7a2ef2ff7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/6f40903d9ee39374c0d71db45935a10460bf9cb8.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/153349571e0e90a7143acf7ec68acb105088555f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3c1cf02575a9ed71af2784496eba0adc4f8827e8.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0d4389e067db01999e236b93f4e11e29dbd2df19.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7908c884b037815e44e0b29e45e7856b8cf89997.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/5ea9fe422000f244a99a310cc277966aad79ee31.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3ef6d50e8f3e212ef14e72a84d4a55793d788970.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4ac7a4a24d62252480cc7dd24aeed53cfd204f0d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/058137e1b0568da8cb54e8a4818f5700ac37def1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/724e8d91ff41bc95fcf15e9c59136af1842fa857.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ba97be0f74d19f75b230071c8d8b525f755f2e22.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/e87ffa0efe04e0964fb6ae187706b2618e7295a1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/34cff69448bd8c507aaef35faaea7358f482aa44.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/f2841e48e2c6244dc7e9182cf2b03bb43c611038.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/efcc4285d248774a939655b858569388a4ab2533.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/170da934ab32dee89e195b44e44459a955c0f19e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/07a6ccbb4bf1f58cec4ca39d293dee05a2f6dfa8.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/1ce1213d37a1d1ac95d7d0e441c7dcfd76902d29.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3ac2307ddd5f3ee9ce39d72c438271abeee9e467.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8271509e092a61a9ff8f62a44fe9ccc58c784ad4.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/f5a522e8db3948a4dcce946ce24bf402bf7eb792.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0c0f383a2af64184cc55b426579ee26ec96aea41.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3c1796875a1c514554d4060cf7d6f87804957ea3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6e8a155f46303b0fdea07c82a44b4c4cb83cbdc2.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/104d978028f635558ce4eafbf6ea74bfc34c6095.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c9dd4b8b9e336c559253d8a33e932ef9de4cfdb4.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/13a7a0041cc6b755ea2b04ae75619b1d32f919ae.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/09a59c4a5639641c642ca8a29d1dd9172725bae2.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/153349571e0e90a7143acf7ec68acb105088555f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/239e11a42bcd7783e22211bf636f6fba55689f77.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/f69ad02c5af31b65ff38dfcfba06900b92c5538e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/711a9dac80b520c7fbfbbc358838a70d796ce3bf.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/e78636dda2c20ece53da91f4ab5cc5d480750e3d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/68d5feb4a6facfa6edabdbbbc58a1b3cfffbf8fc.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3bcb84d7bb3586f0ddf1a726f43f31ef02cd9e06.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ec2c4c9d412870dfe5482a5f1f1ce6d8662727e3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6229d85be4d78beaa155e82eca80c8344af06323.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/54a51f6db7d42c9d0d1dcb517d4d26a3b1074eea.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/be1e3ff02942dd118058e02dcae9a9a8b9c68a0b.jpg"
+        ],
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/30323e4103975f025c17005e9c2b3cc684ad4cbe.jpg",
+        "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/36109191360938551e3f790857303d8b996202e6.png",
+        "facade_or_plan_images": [
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/a033fe5b746e336aba0578e562235800f8d196fe.jpg"
+        ]
       },
-      "gallery": [
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/3ac2307ddd5f3ee9ce39d72c438271abeee9e467.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/07a6ccbb4bf1f58cec4ca39d293dee05a2f6dfa8.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/57deaff88e33ac1538e5c2af7adbd581dac5b5f5.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/7d065f9fdd464d458bb6ea32d7899d3f3111f46e.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/8271509e092a61a9ff8f62a44fe9ccc58c784ad4.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/fbff986c46f1164e7b9621f658156bf7a2ef2ff7.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/6f40903d9ee39374c0d71db45935a10460bf9cb8.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/153349571e0e90a7143acf7ec68acb105088555f.jpg"
-      ],
-      "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/30323e4103975f025c17005e9c2b3cc684ad4cbe.jpg",
       "tags": []
     },
     "assambleya-klubnyj-kvartal": {
@@ -484,23 +532,64 @@
           "time": "5 минут на машине"
         }
       ],
-      "video": {
-        "mp4_url": "",
-        "preview_url": "https://storage.yandexcloud.net/psk-media/media/p/gv/v/15287217349cae5ba2c7ebdb18c980eb981a60f1.jpg"
+      "media": {
+        "videos": [],
+        "video_previews": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/15287217349cae5ba2c7ebdb18c980eb981a60f1.jpg"
+        ],
+        "photos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/cb748a7143c8e9a21662b64c613c3a31a9f18f7d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/6ee21fc9843ad8d84a01b60bc089d3f3e4c96b6b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/30e25b2ee81cb5639dc229a94770b92d74725850.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/c4a12a81f08c5784abc792282b7f391b0ae5840a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/4c3e87c5a184ff9828fc820d84936138c74cc851.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/902a3cb709b9e9328994365593bf0698c5489411.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/6ef9d8aa936f0f424aa30131836e190b2197ddda.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/79d91736ad0b1489a0185fc89ec03041a7e098a8.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/1778f9ee5dab1823a30ff8e7888549cf4e235132.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/b952d04f94ab20fe15623bdd9780051490b89dfb.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4e5e3c65db7d719ab5057768e63131deca63a0c7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7a2b4dfc1d5e634f15990d66915f8ca5cdcb1d00.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7543819708c8f67061cfb0df9c981ad2079c0d51.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ff0e10176a43c504a4a14fef64f0e75e4c6ba8dc.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/e12289c29b1db113e60d4211a69ed0ee89ebcf1d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9ba8cfc3fb654737e68f27fc1e7d1c73023003ff.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/18e5564cb920390ebdab15a7b135b500ed33c371.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9640dfca299e8d6af5cf9871d9a351966ff77ffc.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c40fc0b6cd429aa92e6ff5dc7ddcfbd56af68f20.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/cb748a7143c8e9a21662b64c613c3a31a9f18f7d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/5e72c4e183fb4a1f72c8366080a6055e6326a978.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/cb74982c2547c4f610e6ae22a2334d9ca3a36793.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/5f49b173a868bd91ad661d1205bccc9342dc9439.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/997542752248a30d676581bcf35389409eb1fae3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/acc8ea62684397aa7752a30f21fbfdf61e1d720f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9b14330c13b361f171e712bffa370c06e92f3250.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/fc83c2cfd81b7a67a8163924dc269e6a35012287.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/30e25b2ee81cb5639dc229a94770b92d74725850.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/cdf8bd7766f51a1c89a49fbf224a3d466e1d6ea6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/25bfaa3f7686c427ccc6383921ed0eb8a62f0f2f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/f27767dba40758462e7efd7351ba70996c76da78.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/2b34735d1832d46bdad7eec09866365a476ef3a6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/67272e57187d801fbe86ffc33344862af2daa4bb.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6e836e7f85d2831c7d6af25a92c71df03be9899f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/33a619dc501508ffaca64a3b165ae1236673bd84.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/239e11a42bcd7783e22211bf636f6fba55689f77.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c4a12a81f08c5784abc792282b7f391b0ae5840a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8fe1b5d6674f5e01705256e8eb5be806558048f0.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9775c3c8151ce758615c9da415c04b4751433ce5.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7e5ea9f2b986ae3f14d068fa5604b03146a921b8.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/44ebadaf3fbf3d7a926d1395e9ef142365f9e0b9.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/2d2e6d7e3c08214294278697fd30d79b3b077a3f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/293f6be40d97b9ed44ba3ba11865fc5ee42776f1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/039883b341449f5f50052feba0eebba7f0e1950b.jpg"
+        ],
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/136aaa527327e8fbd59aea1371b75cd9492d80d2.jpg",
+        "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/d63bbd1e6e72bc86bb0dc3af053e736ed50238d9.svg",
+        "facade_or_plan_images": [
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/fc83c2cfd81b7a67a8163924dc269e6a35012287.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/a9731844093beca865a1a987e93ea54b50bce1cb.jpg"
+        ]
       },
-      "gallery": [
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/cb748a7143c8e9a21662b64c613c3a31a9f18f7d.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/6ee21fc9843ad8d84a01b60bc089d3f3e4c96b6b.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/30e25b2ee81cb5639dc229a94770b92d74725850.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/c4a12a81f08c5784abc792282b7f391b0ae5840a.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/4c3e87c5a184ff9828fc820d84936138c74cc851.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/902a3cb709b9e9328994365593bf0698c5489411.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/6ef9d8aa936f0f424aa30131836e190b2197ddda.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/79d91736ad0b1489a0185fc89ec03041a7e098a8.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/1778f9ee5dab1823a30ff8e7888549cf4e235132.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/b952d04f94ab20fe15623bdd9780051490b89dfb.jpg"
-      ],
-      "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/136aaa527327e8fbd59aea1371b75cd9492d80d2.jpg",
       "tags": []
     },
     "galernaya-gavan": {
@@ -733,29 +822,82 @@
           "time": "15 минут на машине"
         }
       ],
-      "video": {
-        "mp4_url": "",
-        "preview_url": "https://storage.yandexcloud.net/psk-media/media/p/gv/v/072989bf58328b24b2944f0d160774e987a52b37.jpg"
+      "media": {
+        "videos": [],
+        "video_previews": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/072989bf58328b24b2944f0d160774e987a52b37.jpg"
+        ],
+        "photos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/46f8732c1d9b4327d84e9382d99560a62c54d8fd.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/8b496ef1b428bc64bb3feeafb5db62b498719c20.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/2372c1544b0ca579c1f1642a4ada026ff9b746c3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/2d92a3b0621aa50559b9f5fe052f31138f559cdb.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/bb674c48ef387d49eae17bdebce7863bc88f1431.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/99cf3b04964035b6f2e9378ae7a626ba890ed198.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/21c1f34cd9ec5e20d131448a8a49cdff40bb4592.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/acb1c2608d7f58b5491cc818445b3ebda878531b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/63748adccdb324e4c9074df94d5b2523fedc72a6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/a50201533db4ccd40039e2f428fe0d5b19feb1bc.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/852325cdfc1c49952338b696baebf847349b724e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/8a099ca6217e61e7b1db8924917f38113196c063.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/252b30d3a01abb41bec12f0e9dccb485fd29bf95.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/d6b1b2c118665b19e0ab3e1d73173d6d51d261b3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/8a1823dc7944a320568f00b5ab3943fc6ddae82b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/d9ce41c64c3076c166f389fa08bd58001ef3159c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/475a1efab7149269491bd8459b90c02e29128cd4.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/fce9170b17a5f9d8f77e088c40a90720054303bc.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/377d675e394d5c6bb7ee4aa8d210399faf31449c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4d1eabeccefa80f296afa8506abf3102c60db9e5.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/cb74982c2547c4f610e6ae22a2334d9ca3a36793.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/87cd34e64b1b87e819cbc25be96ae654244c5e24.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9640dfca299e8d6af5cf9871d9a351966ff77ffc.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4e81c21285f09dcca80a6596c96a725de998c8c9.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/cfe3a715e9396ae46b43ec45094f0e1ee515501a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d7aa2c44ba486963f190d7a41845d8c2bc715746.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3495d77a15b2990e83c0099e4459c12ee2d7260d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/afd8b2c9292f6f4180183db25ff77228696ab836.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/a93d6c3cdac770d1f231003a17f12d622eb18223.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/bb171464427be9507b730542e0a53f71d7b6367e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/e51169d88e4a0439c49768aec12364b4ef0bd665.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/fc049c11c22b5d6bb1097d339129d7cc01c8bc7c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9af62ba017a0eb4f8e14329918253948d8a391ee.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ed1749450ae216f2ec6c624676ff33cb89a23ef6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ba8a2a0cf4c4d94d7419d845f0c2b5ba9c892983.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d49dbe3f363540ccb4526f48864ae7342f01d504.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/10756a89baf02cf33b0978b03f8b290850ddb103.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/49c35eb0bb4ece98c713a62ecf110fb35e83867e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6d7398c46bed2925e95c2b8dc577edfb76fb4bda.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8f3e5add31e316e31d4bb3e463ddcbcb37a221b9.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/a074c5ceea9a072087be2efcb46fdf0a46d0188b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ed495a8b22564f2ed602e98121e65cc2cdd9053e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d28cb48e0e4d223518ef263099da8c1d65cb5d36.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/68ee5dc9ba9cfd1b4efbf4ee2b603cab6dee89c4.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4f08887a1abe1f9ee227f733a0023fe0f7740d07.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/edf65083209497eea56c039c35bc72d50a55060d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/120270ea276ba5bf0136c800cce980dfc2b2d085.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/2d92a3b0621aa50559b9f5fe052f31138f559cdb.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/da77232396b49e395bc6c6c1c965e14df1d64c7b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d9ce41c64c3076c166f389fa08bd58001ef3159c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/cc475a27a187e0ecc6d55eb9e4dcc338d3dd788f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/220f40df419f3739b5d81a8554a772e3cd45ec13.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3c6a3917e470b88a3476d9dac63fb531f8f13196.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/798c3cd1714a784ec550a22609d0ae00f28a6b2a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/1fb3eece9eddc36c2114f02ed4a66dc7d5796d0c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/63748adccdb324e4c9074df94d5b2523fedc72a6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8e3e6c6f89c3b29e77c88d7b95a8588b7cf8ff16.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/239e11a42bcd7783e22211bf636f6fba55689f77.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7e5ea9f2b986ae3f14d068fa5604b03146a921b8.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7e9f796b451f3fe709dd20dced5f8f2596415272.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/5b519fdac4e2ea71317e0738be0d09cba655141c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/03fa65627375e0c88826f298516fea299d8b70d5.jpg"
+        ],
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/7693b5f8be7009ac6b29f12bc42cc91b88783076.jpg",
+        "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/38a0f647319ead154d4b8642c2325d74d9d75188.svg",
+        "facade_or_plan_images": [
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/884e45d5851d4f5a4271ef99f85ae1419053d951.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/77c6101675b17a3bdf24daaa38d0623fa3020841.jpg"
+        ]
       },
-      "gallery": [
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/46f8732c1d9b4327d84e9382d99560a62c54d8fd.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/8b496ef1b428bc64bb3feeafb5db62b498719c20.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/2372c1544b0ca579c1f1642a4ada026ff9b746c3.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/2d92a3b0621aa50559b9f5fe052f31138f559cdb.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/bb674c48ef387d49eae17bdebce7863bc88f1431.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/99cf3b04964035b6f2e9378ae7a626ba890ed198.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/21c1f34cd9ec5e20d131448a8a49cdff40bb4592.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/acb1c2608d7f58b5491cc818445b3ebda878531b.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/63748adccdb324e4c9074df94d5b2523fedc72a6.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/a50201533db4ccd40039e2f428fe0d5b19feb1bc.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/852325cdfc1c49952338b696baebf847349b724e.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/8a099ca6217e61e7b1db8924917f38113196c063.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/252b30d3a01abb41bec12f0e9dccb485fd29bf95.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/d6b1b2c118665b19e0ab3e1d73173d6d51d261b3.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/8a1823dc7944a320568f00b5ab3943fc6ddae82b.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/d9ce41c64c3076c166f389fa08bd58001ef3159c.jpg"
-      ],
-      "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/7693b5f8be7009ac6b29f12bc42cc91b88783076.jpg",
       "tags": []
     },
     "optimist-zhiloj-kompleks": {
@@ -960,28 +1102,68 @@
           "time": "5 минут пешком"
         }
       ],
-      "video": {
-        "mp4_url": "https://static.psk-info.ru/optimist-zhiloj-kompleks/video.mp4",
-        "preview_url": "https://storage.yandexcloud.net/psk-media/media/p/gv/v/0775c5750234ae6e81ff05ede72d50210ad4c78e.jpg"
+      "media": {
+        "videos": [
+          "https://static.psk-info.ru/optimist-zhiloj-kompleks/video.mp4"
+        ],
+        "video_previews": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/0775c5750234ae6e81ff05ede72d50210ad4c78e.jpg"
+        ],
+        "photos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/dd6f4d8c0ddc182e5392a59657fe88d3ec68635f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/62df8906c2ec9d67b08f827ab5b2afa0fb8ef5d1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/029129977548f703c12da9081ad57437c10b54e1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/67d8568460cfe3c23ec8a39287ed5b477ed5099f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/9a6d404f31a080dfdf93f0e00a9e22381966ca0a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/ae5e6c376e863ea813bd6bf90b986e066b00dc98.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/23ff2c2453aa4575d63db7ae6c7c1544178c9126.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/cb2353349c593a0d83305abbf90a75d9ec40b8d7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/9c7d50bc4f89400605a07b56d156f80acb687793.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/7e0e3648e1b5c143f868b740f3b039b48506188e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/85c07c8b6f01f9bf795929da050b7268815854da.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/6a59494b84606cc78db50ed30d91ecce5b5694d8.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/2daf693aecbd93b58f1f7ef32dc44f983ab8e356.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/86d930818976ac8efacf0e484469a8da07d523aa.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/9239e170eb14de0569f16d33e3b65fbe4c011446.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6b492f77b6cff3de2dd7578f7ff5a2590d1061b1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/771cfa9ae0be0b2eb1eb20294dc57d650adeff0f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/08c936535f1d4cb806f7e96ab4f12fd0c263732d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0b663dd97d38e9080ff5d68188ff8a732da1bfdd.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6ba3f21d4a34cd32bacb200074bef6fa8458f344.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7f26382449c484dbef93a4d3b212128652260021.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9a6d404f31a080dfdf93f0e00a9e22381966ca0a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ae5e6c376e863ea813bd6bf90b986e066b00dc98.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/23ff2c2453aa4575d63db7ae6c7c1544178c9126.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/429ac18f53f50ad7584433ded5bf23980c4c5b19.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9c7d50bc4f89400605a07b56d156f80acb687793.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9f4ee9beec3ef256bb07c5eff9fca1bf5ca6bc5b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c203110faccda55f3f4f8ab054f6aab1e307da4a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d1f333c89341c9305fbb4c008036a1983fdc9ec4.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/cae8b7ae62101fa7431c00f520fda5835c67e4f2.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0bc8cee114a7376ef07bc33fe545b9c13b892417.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/2daf693aecbd93b58f1f7ef32dc44f983ab8e356.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d2ba4bc1422c0734b0b6b3237cd9256bd950818a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/751fafa2414970f37f74c18c5744d53bde224cf2.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4cde9fdbfd77fa1f350ab46e666712b59a265c94.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/23420156b99cc13394c25e71efb85118ee5d60b8.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0b65c06384aa0138333b799498a8bbb5fc6507c3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/525b016dcc040aab8c2d0016038d79d6e458b7f2.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/e0ea1f13c2a6b00921ff0b5875b68bad6ee5c087.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/239e11a42bcd7783e22211bf636f6fba55689f77.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/2a1a8c718b74b3f5a995c262c1822e5fa70d129a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7d5ff547c82cbe2bed0aecc8fa08283063f291c5.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c3192ec28939cfdec873128e79b9f22d127fb4c0.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/05cc60922a4b6d0b884d092658c59c51ce4700d3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4b6cff1d7565d7b59a6e697fb6c7d3ca232d91e0.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/907ea229905039b9d65741b87a9abd059a3694cf.jpg"
+        ],
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/4464473f02864d8a447105c01439b07049443476.jpg",
+        "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/952858861cb9dcb54532a455c23bd52162da2505.png",
+        "facade_or_plan_images": [
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/429a90f50596538812a297ba411617bcdbfe8dfc.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/91d1731afc00633e82c66dd5b1f02a3093d8b29a.jpg"
+        ]
       },
-      "gallery": [
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/dd6f4d8c0ddc182e5392a59657fe88d3ec68635f.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/62df8906c2ec9d67b08f827ab5b2afa0fb8ef5d1.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/029129977548f703c12da9081ad57437c10b54e1.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/67d8568460cfe3c23ec8a39287ed5b477ed5099f.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/9a6d404f31a080dfdf93f0e00a9e22381966ca0a.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/ae5e6c376e863ea813bd6bf90b986e066b00dc98.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/23ff2c2453aa4575d63db7ae6c7c1544178c9126.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/cb2353349c593a0d83305abbf90a75d9ec40b8d7.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/9c7d50bc4f89400605a07b56d156f80acb687793.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/7e0e3648e1b5c143f868b740f3b039b48506188e.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/85c07c8b6f01f9bf795929da050b7268815854da.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/6a59494b84606cc78db50ed30d91ecce5b5694d8.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/2daf693aecbd93b58f1f7ef32dc44f983ab8e356.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/86d930818976ac8efacf0e484469a8da07d523aa.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/9239e170eb14de0569f16d33e3b65fbe4c011446.jpg"
-      ],
-      "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/4464473f02864d8a447105c01439b07049443476.jpg",
       "tags": []
     },
     "sezony-vidovoj-kompleks": {
@@ -1187,24 +1369,59 @@
           "time": "40 минут на машине"
         }
       ],
-      "video": {
-        "mp4_url": "",
-        "preview_url": "https://storage.yandexcloud.net/psk-media/media/p/gv/v/85285cd083cf25c6df1740e4deef6abc31bfeebb.jpg"
+      "media": {
+        "videos": [],
+        "video_previews": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/85285cd083cf25c6df1740e4deef6abc31bfeebb.jpg"
+        ],
+        "photos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/7051004f3281621ea66f55c4b1d5499807fedbde.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/ce864efc2712537fc1dc82cfd5e87f7fdb4e857b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/1c9cfdb20a22e10cd2f23c23292304a4c9407d36.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/fb107de6ae6a87ee1faeab2a6cc5d6124e30a0be.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/614bf8e723fe955ac2ac2e35e786678c8f50fc93.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/98f3bc3457b03df035e34d5f9d315177ee4d77b0.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/29333a2288576e1e5c876eb7f167e3b89a4cd7e7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/23719089108ce70ad6342a7ee2a98ff02855e903.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/81de8ed4353e76ac5a39a769d2f1ea47ddc7e72f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/d8ab0249f98ea8f39238b78fde105f4d821479a3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/d4b8405f703827fcfceec263300b4992f0d0bb17.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/99340c0fec8760a7bcfbe182d5b17b91ce582aa2.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ac941919304d87e11b17131059e02c7e0190ad47.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/84b88c7f80c7976bf04df469c8afc156c282e6b0.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/988f2dd868de8d4433080118eeeca1bcc89ae642.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ce864efc2712537fc1dc82cfd5e87f7fdb4e857b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0727db515f2c14aa5f535c960a4b8ee77c119fe6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/23719089108ce70ad6342a7ee2a98ff02855e903.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/81de8ed4353e76ac5a39a769d2f1ea47ddc7e72f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c1b53d55ba2e0fa78c13d2aaa38b1279fb3bb186.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3921b7265936d481e48476f05f115db814405b1e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d077806595dd898551a3d8e39930a01d310c1aba.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/54c191bd14cd5973df788d74b9fa52b579bd3a16.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3f3bb15ae595bd4825a34771718f938c33acc39e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/eb9fba9b435b54b61c0c4e0e601783a2c6614145.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d4b8405f703827fcfceec263300b4992f0d0bb17.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0958d2aaf0811c0d07dfff4aae1a5d553216617d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/80791f551a377ee7e773cca3ebd5e13975feed8e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/daab0a27637c4a0497188d0be6d9676003e9f1aa.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/68f52acbb894fd956393b8d9aca341e6b7a7f5f4.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8bc55e9997745da90b0fb0626d473fa9879446df.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6b35f0dedd94fcfb4b2ccdb8fb7e480eefb6d594.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c23983b141b99f59df6f08cd6d69445e8c0b0729.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/497c623c8c7b86e081637dd7c589c60365ac6880.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/89c5e28d382d8711a426ec1c876a5991d2f82cb1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0efddbae7162d8f171e6d8f0952543bd762d6770.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/96274d3f4374a33e228114a76e48d6e7dd017a4d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0d04f5ac0864bab8a8f673a5265cc4bc66334c02.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/1c5917fab2a6da80073d95ba284491a06c3ea535.jpg"
+        ],
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/79557dce15c7f93f6b3333655f0d4e99f118eb04.jpg",
+        "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/f2c5a7d5dcbce2c67d2e1c394b1fafe8462d0627.png",
+        "facade_or_plan_images": [
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/5a5ab77cf12d20fc67f3bf546b343b2104779df1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/650311d5a705cba348e30d8ca5afc5f87bedba0b.jpg"
+        ]
       },
-      "gallery": [
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/7051004f3281621ea66f55c4b1d5499807fedbde.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/ce864efc2712537fc1dc82cfd5e87f7fdb4e857b.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/1c9cfdb20a22e10cd2f23c23292304a4c9407d36.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/fb107de6ae6a87ee1faeab2a6cc5d6124e30a0be.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/614bf8e723fe955ac2ac2e35e786678c8f50fc93.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/98f3bc3457b03df035e34d5f9d315177ee4d77b0.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/29333a2288576e1e5c876eb7f167e3b89a4cd7e7.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/23719089108ce70ad6342a7ee2a98ff02855e903.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/81de8ed4353e76ac5a39a769d2f1ea47ddc7e72f.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/d8ab0249f98ea8f39238b78fde105f4d821479a3.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/d4b8405f703827fcfceec263300b4992f0d0bb17.jpg"
-      ],
-      "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/79557dce15c7f93f6b3333655f0d4e99f118eb04.jpg",
       "tags": []
     },
     "plus-pulkovskij": {
@@ -1422,31 +1639,83 @@
           "time": "20 минут на машине"
         }
       ],
-      "video": {
-        "mp4_url": "",
-        "preview_url": "https://storage.yandexcloud.net/psk-media/media/p/gv/v/29ec47013d19a7b16a13db9adfc7240975eae569.jpg"
+      "media": {
+        "videos": [],
+        "video_previews": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/29ec47013d19a7b16a13db9adfc7240975eae569.jpg"
+        ],
+        "photos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/4172e167c1486ef8c1ec930ab9f2c77a3d27a188.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/8dd31f830a8def502ac62ca1c1ad51b4b2f45fec.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/c9bcb6758c537a43e24b0d4ecce2e7df8a5b5244.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/2fb9ae67b2ddedf4d0d2eec2e01f35155429b024.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/8e909f0157337f8de740e9ddf44f5dff74e461b0.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/330de16ee8f7aad7ad8eba81235af307d904df04.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/0557c1e9d1c2d7afa53a488a7367d5a279c2f6d4.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/900f38733e3abf1f9b8b3209e24de454e39e29f1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/076131eb8515af047164753a4175910339bcee60.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/dfa9d57e38bb02be0f3a772e8a90eb0f8d8a8ac9.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/d28e759bc407bc203259c0124583aa3e8ef998f2.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/460a9c15043ac11bbcd6980b31d7c7866871e05e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/a514a1ad15d8efb5d1dc3fcd233b06e6de5f51ba.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/214d7710738a3ae5abe40212a0f7e2a130c128f3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/c2328e6bd4d54e788be60893d5bbe9579df1be88.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/bbcca57c6abf2f44293f5b28d60671d5f91f8377.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/08458c62cde0f5926ec0312de86566058c670846.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/556813b8e2e5d9f9c949b6780f11bbd69a70e197.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c2328e6bd4d54e788be60893d5bbe9579df1be88.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/214d7710738a3ae5abe40212a0f7e2a130c128f3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d28e759bc407bc203259c0124583aa3e8ef998f2.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/076131eb8515af047164753a4175910339bcee60.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/faa322c71e204a0f07a079e651cbb96fb29e17ca.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/5a45c146bcfe8bc1ee7371a0431ed3470cc00bf5.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3c26dd68ea5f8d9a0320899def67aad8683056f7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/149ebef7cd28c96ce1c8aa3e50cd3ac0fab1bd2f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/15dfd78cc4c0b7d992c1ee458a3f559cdec78d2b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/98e361c04f403704a3b455d7a97a9e29000367e3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/16b7a46ecff056c7fde68e735567ba14d72e2fa6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0d392cf50c24ad6c77b1dcac960748855c4b1d88.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/748584bc57a2238ecb74597bafa5a19d5b28a12e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/46ae3c49778be1247719228311575c6a6684dd72.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c9477651b503633ab4e60d67fa30cc2208a94d4e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/a8e9055a97c6c5d4fe57ab63822bfd11b86ba39e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7245c736cde596b33a253a59fd0b57510b48aea9.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/bcdda4d74b4e538caab1e2140a5af591c2d4a332.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ff0ba05d02b6be7d2711333ad154882b67c0174a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8dd31f830a8def502ac62ca1c1ad51b4b2f45fec.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/69ae4d38e2c208cb32284c054e87cf50cb142c57.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d0409c61d0b3df275769f1e0664abbd0164b6950.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8709cb866c5d98aeb21550886281c98efaad887d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/bde9d81281f81b7a8e19a732202d3d39d446370f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d5c44a603edf9607c16515b7cdd8c5ae415b7c53.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/1fe60b567291b80ea763a1627133d2dda2a5f629.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9b31837c71afa77428fb3fe1486eb33681d57cf3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/a5c33c5af31740e630c783abcb6bb99950e66c24.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/89c5e28d382d8711a426ec1c876a5991d2f82cb1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c9bcb6758c537a43e24b0d4ecce2e7df8a5b5244.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/accf40046202b75a5fbc959866857254f3890ff8.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/439e027c13f5a9452b5bbe4cd27f1dfc94135b6e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/28602b47036276bb424b722ea01a536f03c85442.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9ccfd19d211f1b00c50a43348102bc760e301f69.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/a5ef6f7450a07e8169c4b1cdb6b2d420fca5cdd4.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c1f1b49a38479352b30377e6eb0d83ab3cae7369.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c7ffe4e2ad443aa1b559797eedae86bbc5f68540.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7ff509f7457b6e3d39a5c8a98846818cb1030811.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/af8f3289cf053fe8c1d36871d0c05c861a6daa37.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/f26195cd250c6e34a5c1714accab04d3210d38ce.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/a9445874b73e763e015f45efda71f4849a9cccb7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/e59a01a7c2e6d75aa31ecace20423421f129c562.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9cde572785fed91e1af6c9955776ef67cbbf7569.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/29139a5e4f0c00eac536a03bdb5d745d23b50967.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/a8dfec2b5e6fbd8194b665e9d6741f5e4e68ced4.jpg"
+        ],
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/631e4b4663c795e4c9369fb7b2cabbe46fb6f938.jpg",
+        "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/168beda3f68745a1ac49827fdc7efc031f095f74.png",
+        "facade_or_plan_images": [
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/2fb9ae67b2ddedf4d0d2eec2e01f35155429b024.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/fce6bed9ed6b64e23d7ab687ae5dab0fe11e3d10.jpg"
+        ]
       },
-      "gallery": [
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/4172e167c1486ef8c1ec930ab9f2c77a3d27a188.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/8dd31f830a8def502ac62ca1c1ad51b4b2f45fec.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/c9bcb6758c537a43e24b0d4ecce2e7df8a5b5244.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/2fb9ae67b2ddedf4d0d2eec2e01f35155429b024.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/8e909f0157337f8de740e9ddf44f5dff74e461b0.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/330de16ee8f7aad7ad8eba81235af307d904df04.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/0557c1e9d1c2d7afa53a488a7367d5a279c2f6d4.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/900f38733e3abf1f9b8b3209e24de454e39e29f1.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/076131eb8515af047164753a4175910339bcee60.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/dfa9d57e38bb02be0f3a772e8a90eb0f8d8a8ac9.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/d28e759bc407bc203259c0124583aa3e8ef998f2.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/460a9c15043ac11bbcd6980b31d7c7866871e05e.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/a514a1ad15d8efb5d1dc3fcd233b06e6de5f51ba.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/214d7710738a3ae5abe40212a0f7e2a130c128f3.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/c2328e6bd4d54e788be60893d5bbe9579df1be88.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/bbcca57c6abf2f44293f5b28d60671d5f91f8377.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/08458c62cde0f5926ec0312de86566058c670846.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/556813b8e2e5d9f9c949b6780f11bbd69a70e197.jpg"
-      ],
-      "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/631e4b4663c795e4c9369fb7b2cabbe46fb6f938.jpg",
       "tags": [
         "военная ипотека"
       ]
@@ -1669,30 +1938,89 @@
           "time": "2 минуты  <br> пешком"
         }
       ],
-      "video": {
-        "mp4_url": "",
-        "preview_url": "https://storage.yandexcloud.net/psk-media/media/p/gv/v/661b7136ef784a80220e4ae90b2500eb11ec11fc.jpg"
+      "media": {
+        "videos": [],
+        "video_previews": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/661b7136ef784a80220e4ae90b2500eb11ec11fc.jpg"
+        ],
+        "photos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/cd2c0412ec9758b132ede0de07def11f0e5b0427.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/354fe95c63e6ba3d0955725e731325fd5792b6a3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/0c0948c8f6c72acfcf8bb8a9284c1a60bf5b8f83.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/275570ea49ee06f3e6e12542da0897d5a858cbe6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/7542bf33e643fe49a6f8b8b8942e70c13d3fb3b8.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/83f88906eda9da8cb97d57967abe1ce23dcc79dc.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/954309860a3665520a7eeb86c982989fa665c638.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/5a1150a174a03ad725bdf34bf269af05e6d27992.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/6532197d8b88aad3019bb633075ca66b0b27ddc0.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/0baf203f87c06c4ea175e436956887de91d530c8.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/0fe1176a1adf927e8a5c6fe471768ea6ca2f6696.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/3d4309fe4d42b8aaedaa27cdd39a8610b35ce096.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/9a502b839cb56f2bbc4e6c68d8c4bf2cf2dae005.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/34ce988aab4ea3853c6edde34b6bfa51fd7b2811.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/96ce242f70cbefcabb51fa01e7f754d39ef89319.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/fe85a886361d404ac86ab9fca3977a73e2f31805.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/628aa1d89a520e66ea3a34e19950abdfa011fa82.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0c0948c8f6c72acfcf8bb8a9284c1a60bf5b8f83.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/e06b5fff25b7df646454a33811411c745e3507be.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/bc80dc6a5d12539cb04b589218c5694b566269d4.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9a502b839cb56f2bbc4e6c68d8c4bf2cf2dae005.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/04f17f3199cf19571598b454f022a5891a67f559.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/661b7136ef784a80220e4ae90b2500eb11ec11fc.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8049bfdf271dc3cb309707151b3dbed5c8f7fc62.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/fde655c07f47400422fd16ba92be9c06c6ca7ebc.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/fe85a886361d404ac86ab9fca3977a73e2f31805.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/17ad8f761d88659450ac8fbf9576e268b7612e4b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7542bf33e643fe49a6f8b8b8942e70c13d3fb3b8.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/954309860a3665520a7eeb86c982989fa665c638.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/71914ee9a087a661198fb044897d426000de2d43.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/e4ee7e230d332f5baf77c8537f625c3ccf569755.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/81c30c61aec0eaf583518b38aa69b335af68c040.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/de6f3f383d247085c6badaf7d3743d58aa80e669.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/5a1150a174a03ad725bdf34bf269af05e6d27992.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6532197d8b88aad3019bb633075ca66b0b27ddc0.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/83f88906eda9da8cb97d57967abe1ce23dcc79dc.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/46b3ab98989c63022cebf6d3d803d268d33f14b9.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/a6e4397c860c952e97e60a9fbe8e895d8f2d8771.png",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/69d5e66f0123d540fb98e6a581ac9cdbbc5bf0f7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7dab351848c9b2d249d6a294f59ff03b83b4652c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8bc55e9997745da90b0fb0626d473fa9879446df.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/fa151790f2688128f49617cdf8acb494f0ce42f3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/5230b743e7d29d25e6f7345428710c8296bf9f91.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/647d89caec0302d4155530c869bf863fd564b08a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d0e554470b27dc5eb6a6ba1ac8ac94956d885a24.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/01fe4f17e2ba581555030c317539a032a1ca056a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0f19a9e28e6eb9ecfb8cce1ea389a939f4d8a461.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/af254a9f120c20ce15520d4bf4f3e2a5b8d65a67.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/31e6eb26c9827f25fb5b4b6be2d19ca1f111ead4.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/22441e739afe559e1cdacf1c6b17a119b170b10c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/20a91d8ec32b47f4385eb07ae30b5d237814db5e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ce9eaeff57659d864ca1728c6a5c0e873da6283e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/1f56f58e72f7ee4cecb0ff87c36ea1e8b09ec646.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0639c5e1acd2aa8670bd33f6a831a09fb66bbe6b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/efaa01d9f4d478e1907daa264ec8d5076b6de60f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3e3435eb6fcc0934c8c2455471a4539152620f67.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0fe1176a1adf927e8a5c6fe471768ea6ca2f6696.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8513db5e1b58194b634a7addfc1b21f47e03371c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/e44e389d33a49ceb6765ae2b11ce86f16e6b4565.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c291fd9f1480b40c51ca814b5c7d74fb1f8e81e7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9ae73984ef0204e61d152e6f3d5b13991634ac2a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/df51337b37d5dec4ed83e17ddd0554592e00f338.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/b93e340978cc68b818bca1655a75ed1608e19847.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9e23d5dc58993bbbc869e330acaf3703c0191487.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/eded70e04103b6d29e575e88fcd0e2785baa7432.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/45ec77bb1ce8c65215cd197ee041099fd0b3b39f.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/a0f06c04c5bda1759cec9c195a26b731b14ac988.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8caf3fe62aac56ad7645e5490b115203525e4f03.jpeg"
+        ],
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/2ffcd448e32797c71b30e0ed72e393aff8a71cad.jpg",
+        "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/1987707702113edb3f6e1fc154a607899eb538a9.png",
+        "facade_or_plan_images": [
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/bdc1ef71821ed3edb5bcfef7431cb5df82018e1e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/2a2d8ee430652c3299a7ad087cbf9e34b8646b43.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/cmi/8f9ad930b7ed9147438ef194f76f95b6e2a5ae7c.jpg"
+        ]
       },
-      "gallery": [
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/cd2c0412ec9758b132ede0de07def11f0e5b0427.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/354fe95c63e6ba3d0955725e731325fd5792b6a3.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/0c0948c8f6c72acfcf8bb8a9284c1a60bf5b8f83.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/275570ea49ee06f3e6e12542da0897d5a858cbe6.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/7542bf33e643fe49a6f8b8b8942e70c13d3fb3b8.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/83f88906eda9da8cb97d57967abe1ce23dcc79dc.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/954309860a3665520a7eeb86c982989fa665c638.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/5a1150a174a03ad725bdf34bf269af05e6d27992.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/6532197d8b88aad3019bb633075ca66b0b27ddc0.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/0baf203f87c06c4ea175e436956887de91d530c8.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/0fe1176a1adf927e8a5c6fe471768ea6ca2f6696.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/3d4309fe4d42b8aaedaa27cdd39a8610b35ce096.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/9a502b839cb56f2bbc4e6c68d8c4bf2cf2dae005.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/34ce988aab4ea3853c6edde34b6bfa51fd7b2811.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/96ce242f70cbefcabb51fa01e7f754d39ef89319.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/fe85a886361d404ac86ab9fca3977a73e2f31805.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/628aa1d89a520e66ea3a34e19950abdfa011fa82.jpg"
-      ],
-      "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/2ffcd448e32797c71b30e0ed72e393aff8a71cad.jpg",
       "tags": []
     },
     "industrial-avenir": {
@@ -1870,23 +2198,61 @@
           "time": "15 минут без пробок"
         }
       ],
-      "video": {
-        "mp4_url": "",
-        "preview_url": "https://storage.yandexcloud.net/psk-media/media/p/gv/v/daa7dba3c81d48eab74ee94ea4abc9c410370961.jpg"
+      "media": {
+        "videos": [],
+        "video_previews": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/daa7dba3c81d48eab74ee94ea4abc9c410370961.jpg"
+        ],
+        "photos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/745c4746e04d88b53a9ca5d3141cf8408278e4fe.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/d6fa69f85893a50cc542c56b1c31caa3d10988f7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/511075561c7df0cc5d88adecd472209b1d8411c3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/9ef905047c9a540385a918af1f7c3e8bb2b1c502.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/dec917d7e2f2a2c1468361948509bf318bfa0eb9.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/b0e5a3c106b7a490d6bf8b84449bb3c3930e789c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/97d1c5c8c2ad21eeed6a629a8f7a2d5c3de73200.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/511075561c7df0cc5d88adecd472209b1d8411c3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/39b261ba254a331432ec96851cab4c06bff3f5f1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8d92dd778c9bcdb07edddb12f34dcf3eab8c5c2a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/85264a752e01622170f9141f20dbefdbbcad38d8.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/569cdc30f330bf5d1567ed396bd71df79d69e6cf.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9ad1e3dd14aaf2999c81a7c93aab3794918d8107.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/003f472d96bdaeb2f44ad6c75b60e01fa9833fc5.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3eb77fcea7a99a8fc6a1fb93c9993ea63da142a5.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/90ac1f6d64090ff9655329967ae0711ab66a6730.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/2a1ccc9c59624e54bcab812a60be86e7e243d4a6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/39d871897f9c10107444e9482e3aaff6293c2e48.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/55a6bfff41c0824dfe46a90476199e05ee28f8c7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/5a18a13a442b18bce7f8d8318b155d4da6391871.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/96f775850127af85e1053f8a8e8d26d0d5c73195.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/48d6b330e99d502c7e79070635195fa59dd8e752.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/31588ec720226a8715df34cc4a007e438180c84e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/2cc4879d27cf10c0f626648323f1a86e10f55101.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/e285445da62e21b78e78bafc7196fc2785785415.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/745c4746e04d88b53a9ca5d3141cf8408278e4fe.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d6fa69f85893a50cc542c56b1c31caa3d10988f7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/e7326caaae4ca19a79bcf5b8fe0e7e272eb46123.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/a4978703d0c5b6f9ad4828178e270d8778c5dcec.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/fdba75d92baf0d6b3b948f4317bd898dcf758a56.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4d96596f0a1f11f88c100812357f86dd514bba7f.jpg"
+        ],
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/3b11bd19ee3badb5a9dd0d3add6c97c455ab102e.jpg",
+        "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/8723c7c1a0690a12b81fab79286cf004caeeaefc.png",
+        "facade_or_plan_images": [
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/23cb7f55134d072d086f65540df70785bba9b0d9.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/f9268795e60f06a81dab9b31db161a8fb950260e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/cmi/ea45baca3556001a6c190809e5545748ba1cd0fa.jpg"
+        ]
       },
-      "gallery": [
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/745c4746e04d88b53a9ca5d3141cf8408278e4fe.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/d6fa69f85893a50cc542c56b1c31caa3d10988f7.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/511075561c7df0cc5d88adecd472209b1d8411c3.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/9ef905047c9a540385a918af1f7c3e8bb2b1c502.jpg"
-      ],
-      "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/3b11bd19ee3badb5a9dd0d3add6c97c455ab102e.jpg",
       "tags": [
         "Рассрочка"
       ]
@@ -2073,27 +2439,65 @@
           "time": "10 минут пешком"
         }
       ],
-      "video": {
-        "mp4_url": "",
-        "preview_url": "https://storage.yandexcloud.net/psk-media/media/p/gv/v/a118333fe915eb6d4df3ec628fd983d8d03b0b4f.jpg"
+      "media": {
+        "videos": [],
+        "video_previews": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/a118333fe915eb6d4df3ec628fd983d8d03b0b4f.jpg"
+        ],
+        "photos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/007385340fc7dabb9ffd27bba7a3667ba9fba092.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/afcb405214b83e6feb78762d4da3255abdae1d70.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/1a70071136421f05353ab6de09c070db40366f58.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/0305bd10d104265f6212638e6c62ccdf9d0c9a61.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/1f25c9e38711ed1dee15f1244d11b0db5b56e020.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/539a7f1505784549a5cb59931db867698a984dda.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/200fb06d9a9dc550113a04338dd473e858a89c1c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/72d84a04abcf335e82ee83e6daf1a0170628f7e6.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ac012b33d32f54b60b8f94afb13498d84443f973.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/106ae9457cc70cb05b574b6e178027058dc4fb6b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/439539c7f1521d8a684c22bc5d63d332910f482a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/007385340fc7dabb9ffd27bba7a3667ba9fba092.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4db24357f247a5797164c26411396317b4ef66c2.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7caafd81f94ca84e895ad02e78b83df06242857c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/265858dc1ccea6f96ca0ead5deba3d68baeaef4d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/faca10fd5e73952b2cef6a15521704a0732835aa.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6aec7fad848701cb2abe5ef8e414686ee9542937.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c8307879f4454c4f790231f8078bcfe50a6e8e3f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/bfd2496976085ddde2db96891ff3c1ca327e946d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/e2f47cff0eb34c877ec36a517789fead80c96d1f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8b3d07650776ac194d92cd130eaede5c3b043786.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/293f6be40d97b9ed44ba3ba11865fc5ee42776f1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/2d2e6d7e3c08214294278697fd30d79b3b077a3f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0cba2531ec490127c94b18a9c2792d49d01c16ff.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3b9ba539517366b2a70336a2d0fcc902bd84b23b.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/bd6e323e932095a489905d399cae0da64a01fd11.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/be9129598f0c0ac0901c29b738914d764fc4ad52.png",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8cc45f88eddadadf7c6389724ebcb6d3385e4131.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/b64f4c92e426a6e101fb7687d22d2209647b304d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/f917aec9aaa80a92dc75aa3fa69e715581119d22.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/550d4ac2db91eafe0a339321a43b0722c55de85c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/a5dc4bb76700dc4849ed1ff49877f11805656633.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/f9882b47b1a024ffd22ab1a9b2d44c2c4a43bca7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/311a53b76cfbc6c2239f3335a8aca2b5d3bb318d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d9dadbda9fd6ef7e537dd75541f192a3f330ed20.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/de46757add8022b50f08580ae0d00313cf83b831.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ec7b768e0b8d646d9423f27120548c1e15e8d78d.jpg"
+        ],
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/837ca8e1af16bc07673a8735badfccddf3d71dd2.jpg",
+        "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/773261c99447d3df1773f2d814bb9661bb1d495c.png",
+        "facade_or_plan_images": [
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/951a2fc1c4d537a697d47eaf995393cae735013d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/771fea0b167be4e188439c245ee2384544aac34a.jpg"
+        ]
       },
-      "gallery": [
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/007385340fc7dabb9ffd27bba7a3667ba9fba092.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/afcb405214b83e6feb78762d4da3255abdae1d70.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/1a70071136421f05353ab6de09c070db40366f58.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/0305bd10d104265f6212638e6c62ccdf9d0c9a61.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/1f25c9e38711ed1dee15f1244d11b0db5b56e020.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/539a7f1505784549a5cb59931db867698a984dda.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/200fb06d9a9dc550113a04338dd473e858a89c1c.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/72d84a04abcf335e82ee83e6daf1a0170628f7e6.jpeg"
-      ],
-      "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/837ca8e1af16bc07673a8735badfccddf3d71dd2.jpg",
       "tags": []
     },
     "korona": {
@@ -2253,34 +2657,56 @@
           "time": "10 минут на машине"
         }
       ],
-      "video": {
-        "mp4_url": "",
-        "preview_url": "https://storage.yandexcloud.net/psk-media/media/p/gv/v/22490b3f581ef39514a1a19cec81af6d44eeca64.jpg"
+      "media": {
+        "videos": [],
+        "video_previews": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/22490b3f581ef39514a1a19cec81af6d44eeca64.jpg"
+        ],
+        "photos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/80a795ce0a57e6bdd1d209a8f4066f5dbbdc8183.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/06a3457b92c402578fb891fce2bd39b82af38fc6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/483f824c81943ddbe2bd58d4c858d0abdb677946.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/11f31233c97a6980e90d1f7df4bb075fcb2075cf.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/fc1bb2f74363b2f37177b60e8f8ce0bf2d0b3a04.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/10ff2e12a1b4e2bed71a7e0c67914db4a4ab813a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/349f6093c3579175e1b6c75a64bec906b5e27362.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/76b55d4cc0d6d73a7d2a4ca574f5d06dcc9ce75b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/47839a4c3e61fbd243c96a860c21716326270270.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/f8882f2e8331782ffa01705181aa90c83f290718.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/106aef53023e2a1203f47b0ed1a713dbf20089ed.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/13741d69832239cd3a64942b21a657c389434c6b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/c9276ad0ea763b78cb0b5ae73159276730b419a4.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/0e02de1a7ecb941368781e289f3144ba3a002963.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/09c1162dcd6bac6897370714fb517e10c0c0a8e6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/61d9dd594b3ae06d63e8942055c757966dde46e6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/19ffef8e37b01ff6909993a5e25672632aa5ce47.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/ffadc7fef362eb919c67ca9bf45a4aacd5bf1984.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/fc9d68567661a27111e7c43c02138a6276a991be.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/b2e253b49b7159afb2cb09377ba121c4deac4570.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/059a9d1cd35b4c15d0c588feefbb72ab06a71ff1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8b10fc43df41ba261e204fd4617f99a21a0bd747.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/de3726f669c9e4fcf5dbd2532194910c8b0a5714.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8c3ceb715bcda648c277b68d23cb2428085bce9d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/dbe08689a273d37d0e44337f75b8c039e53add41.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6989a85108885c3fa70d4bcf4006e70693f69879.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/95b098ffc663c3b1c4b1525cca5ffd1bf86a9fef.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7d66559b3a4944bc5f9e96b551b78103ac66c1d3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/51d3f61edd5de9c1499162b6ff9130f58b0b5219.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/af38d97c11022a4ac2ca8cf5d6dd6f5d55fef12e.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/f0eef9dd761bcf930258d6db0a39f64936aa7cad.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/2e2378e17d7705d2b2da5dba80e335eae15c44f6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8b3d07650776ac194d92cd130eaede5c3b043786.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/474c793d57249fbc9b61e88c133386e073024503.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/2d2e6d7e3c08214294278697fd30d79b3b077a3f.jpg"
+        ],
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/3210909e318bbe58a2a0b46c761288bc4b676f5a.jpg",
+        "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/8e71216aa84912a9d43c76a9924782e9b3cbee8b.png",
+        "facade_or_plan_images": [
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/a4417500cf44e885d15a0e6ace675700e7e6695c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/0ec5070ad98a5f617e2cd8d27353c5180dbd18ab.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/cmi/1f74b46f6c589a067f5ab03423b472302aa335e7.jpg"
+        ]
       },
-      "gallery": [
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/80a795ce0a57e6bdd1d209a8f4066f5dbbdc8183.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/06a3457b92c402578fb891fce2bd39b82af38fc6.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/483f824c81943ddbe2bd58d4c858d0abdb677946.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/11f31233c97a6980e90d1f7df4bb075fcb2075cf.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/fc1bb2f74363b2f37177b60e8f8ce0bf2d0b3a04.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/10ff2e12a1b4e2bed71a7e0c67914db4a4ab813a.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/349f6093c3579175e1b6c75a64bec906b5e27362.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/76b55d4cc0d6d73a7d2a4ca574f5d06dcc9ce75b.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/47839a4c3e61fbd243c96a860c21716326270270.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/f8882f2e8331782ffa01705181aa90c83f290718.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/106aef53023e2a1203f47b0ed1a713dbf20089ed.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/13741d69832239cd3a64942b21a657c389434c6b.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/c9276ad0ea763b78cb0b5ae73159276730b419a4.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/0e02de1a7ecb941368781e289f3144ba3a002963.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/09c1162dcd6bac6897370714fb517e10c0c0a8e6.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/61d9dd594b3ae06d63e8942055c757966dde46e6.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/19ffef8e37b01ff6909993a5e25672632aa5ce47.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/ffadc7fef362eb919c67ca9bf45a4aacd5bf1984.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/fc9d68567661a27111e7c43c02138a6276a991be.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/b2e253b49b7159afb2cb09377ba121c4deac4570.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/059a9d1cd35b4c15d0c588feefbb72ab06a71ff1.jpg"
-      ],
-      "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/3210909e318bbe58a2a0b46c761288bc4b676f5a.jpg",
       "tags": []
     },
     "korona_apart": {
@@ -2400,19 +2826,38 @@
           "time": "10 минут на машине"
         }
       ],
-      "video": {
-        "mp4_url": "",
-        "preview_url": "https://storage.yandexcloud.net/psk-media/media/p/gv/v/b498006183a26eb60ab47fcd8e66a371824c62bc.jpg"
+      "media": {
+        "videos": [],
+        "video_previews": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/b498006183a26eb60ab47fcd8e66a371824c62bc.jpg"
+        ],
+        "photos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/0efde6c156e7c77efe4b5f0c8ea567eb89ee4f91.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/10ab3e0808b2116a00a312eab8a9197c63560275.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/268b42c2e6db92aa44ac57ec37909089c3e26028.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/65481e3ac487d745b200d3582a0c4d2d7f4586e7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/ac0607d48f81325d59e3f6e6d01d6e5f513121e2.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/d4f7eab505e3cd864efc4bd42bdc21cf2afec0a2.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/1af2d5b8f7d52f72efb9ac29c03b13c922f65b80.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d344aeae262dad3a4cb99954d83f24dccbadedb1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/de7ec9b300c357f830cc1699a10df62ae82aa1b3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8c0eeffb4aae941fb2d10e77d5811da109e2a3d9.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/58bf3e6acd94f1157723e047c6f2ab03d6e54ffd.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/b6916abe241eccf45a38693fb0954db227307f01.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c59213db2dd71e7bee3988c2877a5fe8bda5708b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/e11de3f5b7cf0117dc52b81b334651f908d5c4d3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ac66053a225e2cc40c1aab7047546d1c3ec2de31.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/65481e3ac487d745b200d3582a0c4d2d7f4586e7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/5c925158f57f9df02c20f467a539d276d7c3f163.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ac0607d48f81325d59e3f6e6d01d6e5f513121e2.jpg"
+        ],
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/030c9d10a4907293eb93fe4b2f8c8b074c71bff8.jpg",
+        "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/8e71216aa84912a9d43c76a9924782e9b3cbee8b.png",
+        "facade_or_plan_images": [
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/268b42c2e6db92aa44ac57ec37909089c3e26028.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/4bc67bfb0afdc3e94fa210f0427a82bbd3beb625.jpg"
+        ]
       },
-      "gallery": [
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/0efde6c156e7c77efe4b5f0c8ea567eb89ee4f91.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/10ab3e0808b2116a00a312eab8a9197c63560275.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/268b42c2e6db92aa44ac57ec37909089c3e26028.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/65481e3ac487d745b200d3582a0c4d2d7f4586e7.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/ac0607d48f81325d59e3f6e6d01d6e5f513121e2.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/d4f7eab505e3cd864efc4bd42bdc21cf2afec0a2.jpg"
-      ],
-      "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/030c9d10a4907293eb93fe4b2f8c8b074c71bff8.jpg",
       "tags": []
     },
     "ladozhsky": {
@@ -2548,25 +2993,50 @@
           "time": "30 минут на машине"
         }
       ],
-      "video": {
-        "mp4_url": "",
-        "preview_url": "https://storage.yandexcloud.net/psk-media/media/p/gv/v/4a64e4e62f2ac69da31deea485c6d5cef1672ee0.jpg"
+      "media": {
+        "videos": [],
+        "video_previews": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/4a64e4e62f2ac69da31deea485c6d5cef1672ee0.jpg"
+        ],
+        "photos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/a3e31d2e668fab6d7f37188add04f192b206789d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/ba7a4cd5591f6ca7c60ec052c391f04c9d37e095.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/d7e9194ec4b75747c4e29b857477a0d0616efdf4.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/43eb0c95d976b836d27fd13646b74630a6cb8200.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/c539efb56106d785b51b4b7b14b9083f10709d65.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/33059eb4b4e452056a38608b2ee11c14d7820b31.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/da239a681ea9f3819008252d82614a86b0dcd0d0.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/3f2d60784cb17f8d5484aa3de4c5650bde978040.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/85fc75c213d01b2e3da5af02307f7983a39ffa24.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/e0d1f51e420ff11e5f079e4c24c4f054257f1c25.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/c2cb42319d2c9e27a3a2d1f085e6d5cffc95e1b0.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/01bfd6eebe9353cc2fd1206f6cd0c4e994594cc1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7fd4cf90af378e0f20072f502635d659a5fb77e1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/33059eb4b4e452056a38608b2ee11c14d7820b31.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3f2d60784cb17f8d5484aa3de4c5650bde978040.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0cbd14acc9e4dc42ac1870462b9e18f8ed11a9b3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c539efb56106d785b51b4b7b14b9083f10709d65.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3e04569c7e68a15b36387e0730a896f49cbb1931.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/f6c151fb7633b457587e78188e7832f93a2a9976.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4a64e4e62f2ac69da31deea485c6d5cef1672ee0.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/308d06fbb98b6afbdbc47c8d565a78b1c89f7311.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6448ec625adb5cd226cda02616e5aa9ee5c5b1c1.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/f5ee848c8a7023fe949975ff1aff26d412c971d2.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/e0d1f51e420ff11e5f079e4c24c4f054257f1c25.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c2cb42319d2c9e27a3a2d1f085e6d5cffc95e1b0.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6e01184f5b00121a23b6754716e3d415dd4b2c4d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8fbb580465778ca07b6b7d4cba69bb731d6bdc3b.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7ff624ebad01ebf751e5bc45a21f7a6f2c7755ea.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7e8222e13abf7d1bdd07ac02f01ddade10d3e823.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9ba0e2e2e0028199638e4877cc8f6e2c8a58a811.jpg"
+        ],
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/585357075111037c7c6ecfe77d95589253e281f7.jpg",
+        "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/0f86b99469a9f821ff0156cfab5eb1d83e54e8c9.png",
+        "facade_or_plan_images": [
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/1a954c32e36852d153a5bf2c31b242aea95d0692.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/cmi/6448ec625adb5cd226cda02616e5aa9ee5c5b1c1.jpg"
+        ]
       },
-      "gallery": [
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/a3e31d2e668fab6d7f37188add04f192b206789d.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/ba7a4cd5591f6ca7c60ec052c391f04c9d37e095.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/d7e9194ec4b75747c4e29b857477a0d0616efdf4.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/43eb0c95d976b836d27fd13646b74630a6cb8200.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/c539efb56106d785b51b4b7b14b9083f10709d65.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/33059eb4b4e452056a38608b2ee11c14d7820b31.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/da239a681ea9f3819008252d82614a86b0dcd0d0.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/3f2d60784cb17f8d5484aa3de4c5650bde978040.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/85fc75c213d01b2e3da5af02307f7983a39ffa24.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/e0d1f51e420ff11e5f079e4c24c4f054257f1c25.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/c2cb42319d2c9e27a3a2d1f085e6d5cffc95e1b0.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/01bfd6eebe9353cc2fd1206f6cd0c4e994594cc1.jpg"
-      ],
-      "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/585357075111037c7c6ecfe77d95589253e281f7.jpg",
       "tags": [
         "Выгодная рассрочка"
       ]
@@ -2772,31 +3242,65 @@
           "time": "10 минут"
         }
       ],
-      "video": {
-        "mp4_url": "",
-        "preview_url": "https://storage.yandexcloud.net/psk-media/media/p/gv/v/c6bdec0bf68ed6a157fb6c40f13963c581e6701c.jpeg"
+      "media": {
+        "videos": [],
+        "video_previews": [
+          "https://storage.yandexcloud.net/psk-media/media/p/gv/v/c6bdec0bf68ed6a157fb6c40f13963c581e6701c.jpeg"
+        ],
+        "photos": [
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/8a3715a7426420f57883cfabb3fb1d8f360c8690.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/1417df9de2307b2dbe6f39dc69ee0795feba927d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/99a1cf6e811530bfd95f89a7a9c839fc18f0e980.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/98105c0bb7e189baa022f8b708b05e9260192821.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/40914c4bec7f352e75f9a944a8a41cd5b31ed4d5.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/8e3b8e3597c57102e1e882b3b7bd588e2f81741a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/ebd85489e0518c7517b94e563b094ddf91382de7.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/e21d118702d2f80f5f5144ea9f22aef9af07e3c9.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/7bd7c8cda0ea30214e6da3f3636820f0fec38621.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/fd243df5448008135d0b6cdce865e33079f9fc04.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/b048062245ce4be4a2c4c1779da25e998d083516.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/fc0d5ef32aff39c248e1b0e84a05748c850460da.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/738696516cb2705099fecf05c7444a33c3d04024.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/91a0198df230b3a04893c694ca842b5d907d2b8f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/56276b60c87f3d62df6a1f2d9fd39c9696323e0d.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/0012d3219e2274a67d5b756203532fb8ad2eeeef.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/6f021d1d515143b928a025a1bf24f6c416f4db76.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/2071e0bbaf89fc601fbf33a8676c63fe0bb57ffb.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/fbe96b983f28a4245109103eeb0838956dda9d5c.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/fc0d5ef32aff39c248e1b0e84a05748c850460da.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/307689074d872d17b412d0a53365f28a91176248.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3b97aee90473736efc2cc0fa43840c75e3164fe2.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4be3b0edfb744a912c37cc2829f54e7212fa103d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/2f05cecea109e32c2de6e85ba08b33fb087da88d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6f021d1d515143b928a025a1bf24f6c416f4db76.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/35bdab18f9c7ab554dd9bb710e273a9693089d74.jpeg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/24e1600509a23178fe459898b1317f1b3bb32bf6.png",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4c0ae1bc92bc8c91a687f04cd3ad888777eb593a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/ddfb2c1871cdce37875e038f04eaf8200a3415a2.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/b3a6827576445e9c193425c56623bdc44341cc7c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/e5ffe6400e87df31eefe7e1b1bb3acf95f348776.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/d76c5cc6f9f8c44798b88db9770cc3f91cd4eb91.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/3c43afd480544a33cad84519b913c0958bda55bb.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/bfd0cb75c34808f72238addb19d4c27464031280.png",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/169dbdcbc594f28d2c3950ada538e0a9f533c921.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/68f52acbb894fd956393b8d9aca341e6b7a7f5f4.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8bc55e9997745da90b0fb0626d473fa9879446df.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/fa151790f2688128f49617cdf8acb494f0ce42f3.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/81c7ce999d1178c0a970603713a4cf1b5dbe73c6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/5349da6be04c0519181b7e0c014a75d748c146cc.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/018429b9e373486580d1222c986493b4437aaf10.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/bd8ee0bf99f686279edec45da423efd7a337ac4c.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/b7348e2e35d494855bcc3b1cfe523d9f0699e51a.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/46b4dc1ce02a560556b9477a3e5ccfee3ef4cac3.jpg"
+        ],
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/742dc50ad451213efeeb4975b7ecb5c5cf18786e.jpg",
+        "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/7f5b1355f0b97a5818f1edf23be14c3b6dc988c5.png",
+        "facade_or_plan_images": [
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/843b09a38e9ba99325e007641865406c43e4535f.png",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/g/12cf957ebb63a167f0b6d173180315cf38095694.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/p/cmi/d5b0cbe12d8aba1dad0882965b9e22880783c7a7.jpg"
+        ]
       },
-      "gallery": [
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/8a3715a7426420f57883cfabb3fb1d8f360c8690.jpeg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/1417df9de2307b2dbe6f39dc69ee0795feba927d.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/99a1cf6e811530bfd95f89a7a9c839fc18f0e980.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/98105c0bb7e189baa022f8b708b05e9260192821.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/40914c4bec7f352e75f9a944a8a41cd5b31ed4d5.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/8e3b8e3597c57102e1e882b3b7bd588e2f81741a.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/ebd85489e0518c7517b94e563b094ddf91382de7.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/e21d118702d2f80f5f5144ea9f22aef9af07e3c9.jpeg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/7bd7c8cda0ea30214e6da3f3636820f0fec38621.jpeg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/fd243df5448008135d0b6cdce865e33079f9fc04.jpeg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/b048062245ce4be4a2c4c1779da25e998d083516.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/fc0d5ef32aff39c248e1b0e84a05748c850460da.jpeg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/738696516cb2705099fecf05c7444a33c3d04024.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/91a0198df230b3a04893c694ca842b5d907d2b8f.jpg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/56276b60c87f3d62df6a1f2d9fd39c9696323e0d.jpeg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/0012d3219e2274a67d5b756203532fb8ad2eeeef.jpeg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/6f021d1d515143b928a025a1bf24f6c416f4db76.jpeg",
-        "https://storage.yandexcloud.net/psk-media/media/p/si/i/2071e0bbaf89fc601fbf33a8676c63fe0bb57ffb.jpeg"
-      ],
-      "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/742dc50ad451213efeeb4975b7ecb5c5cf18786e.jpg",
       "tags": [
         "Рассрочка"
       ]

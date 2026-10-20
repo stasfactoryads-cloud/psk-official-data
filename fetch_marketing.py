@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Парсит карточки всех проектов с psk-info.ru/api/projects/<slug>/ и собирает
-маркетинговые данные: описание, УТП, видео, галереи, ссылки.
+маркетинговые данные: описание, УТП, видео, фото, ссылки на статический контент.
 Результат: api/marketing.json. Только стандартная библиотека.
 Запуск: python3 fetch_marketing.py
 """
@@ -34,6 +34,15 @@ def strip_html(text):
     return "\n".join(ln for ln in lines if ln)
 
 
+def unique(items):
+    seen, out = set(), []
+    for i in items:
+        if i and i not in seen:
+            seen.add(i)
+            out.append(i)
+    return out
+
+
 def list_projects():
     url, items = f"{BASE}/projects/", []
     while url:
@@ -49,6 +58,18 @@ def list_projects():
 
 def parse_project(slug, d):
     video_mp4 = d.get("project_video_link") or d.get("about_project_video_link")
+    video_preview = d.get("project_video_preview") or d.get("about_project_video_preview")
+    advantages = [
+        {
+            "name": info.get("name"),
+            "text": strip_html(info.get("text")),
+            "images": [g.get("image") for g in info.get("gallery_images", []) if g.get("image")],
+        }
+        for adv in d.get("project_advantages", [])
+        for info in adv.get("advantages_info", [])
+    ]
+    gallery = [s.get("image") for s in d.get("slider_images", []) if s.get("image")]
+    adv_images = [img for a in advantages for img in a["images"]]
     return {
         "id": d.get("id"),
         "slug": slug,
@@ -85,25 +106,19 @@ def parse_project(slug, d):
             {"title": u.get("title"), "text": strip_html(u.get("text"))}
             for u in d.get("projectutpslide_set", [])
         ],
-        "advantages": [
-            {
-                "name": info.get("name"),
-                "text": strip_html(info.get("text")),
-                "images": [g.get("image") for g in info.get("gallery_images", []) if g.get("image")],
-            }
-            for adv in d.get("project_advantages", [])
-            for info in adv.get("advantages_info", [])
-        ],
+        "advantages": advantages,
         "infrastructure": [
             {"title": i.get("title"), "time": i.get("path")}
             for i in d.get("infrastructure_advantages", [])
         ],
-        "video": {
-            "mp4_url": video_mp4,
-            "preview_url": d.get("project_video_preview") or d.get("about_project_video_preview"),
+        "media": {
+            "videos": unique([video_mp4]),
+            "video_previews": unique([video_preview]),
+            "photos": unique(gallery + adv_images),
+            "photo_report_preview": d.get("photo_reports_preview") or None,
+            "logo": d.get("project_logo") or None,
+            "facade_or_plan_images": unique([d.get("map_image"), d.get("genplan"), d.get("commercial_menu_image")]),
         },
-        "gallery": [s.get("image") for s in d.get("slider_images", []) if s.get("image")],
-        "photo_report_preview": d.get("photo_reports_preview"),
         "tags": d.get("tags", []),
     }
 
@@ -129,8 +144,10 @@ def main():
     }
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Проектов с маркетинговыми данными: {len(projects)} → {OUT}")
-    with_video = [s for s, p in projects.items() if p["video"]["mp4_url"]]
+    with_video = [s for s, p in projects.items() if p["media"]["videos"]]
     print(f"С видео: {len(with_video)}")
+    for s, p in projects.items():
+        print(f"  {s}: описание {len(p['description'])} зн., фото {len(p['media']['photos'])}, видео {len(p['media']['videos'])}")
     for e in errors:
         print("Ошибка:", e)
 
