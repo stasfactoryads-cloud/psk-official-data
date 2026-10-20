@@ -12,7 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 PROJECTS_DIR = ROOT / "projects"
 OUT = ROOT / "api" / "projects.json"
-REQUIRED = ["slug", "name", "developer", "landing_url"]
+REQUIRED = ["slug", "name", "developer"]
 
 
 def main():
