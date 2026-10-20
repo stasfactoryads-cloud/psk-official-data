@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T19:10:12+00:00",
-  "count": 15,
+  "generated_at": "2026-10-20T19:10:28+00:00",
+  "count": 13,
   "projects": [
     {
       "slug": "akvatoriya-premialnyj-dom",
@@ -619,18 +619,27 @@
       ]
     },
     {
-      "slug": "ladozhsky-avenir",
+      "slug": "ladozhsky",
       "name": "Ladozhsky AVENIR",
       "developer": "ГК ПСК",
       "project_class": "Бизнес",
       "property_type": "апарт-отель",
-      "district": "Красногвардейский район, Санкт-Петербург",
+      "address": {
+        "value": "Санкт-Петербург, пр. Энергетиков, д. 8, корпус 2, стр.1",
+        "source": "psk-info-api"
+      },
       "metro": "Ладожская",
       "landing_url": "https://ladoczsky.avenirspb.ru/",
       "psk_info_slug": "ladozhsky",
+      "psk_info_id": 2,
       "status": {
         "value": "Дом сдан, ключи сразу",
         "source": "landing",
+        "checked": "2026-10-20"
+      },
+      "construction": {
+        "progress_pct": 100,
+        "source": "psk-info-api",
         "checked": "2026-10-20"
       },
       "commissioning": {
@@ -646,19 +655,13 @@
         "status": "partial",
         "note": "Выборка API неполная, минимум по проекту не подтверждён полным обходом страниц"
       },
-      "landing_claims": {
-        "min_price_headline": {
-          "value": "от 5,6 млн руб.",
-          "status": "mismatch",
-          "note": "расхождение с API −4,7%"
-        }
-      },
-      "installment": {
-        "first_payment_pct": {
-          "value": 30,
-          "status": "unverified",
-          "note": "не подтверждено, относится ли 30% к рассрочке или к ипотеке"
-        }
+      "availability": {
+        "total": 71,
+        "free": 64,
+        "reserved": 7,
+        "free_min_price": 6920891.67,
+        "source": "api/availability.json",
+        "checked": "2026-10-20"
       },
       "mortgage": {
         "monthly_payment_example": {
@@ -671,6 +674,13 @@
         "term_years": null,
         "rate_pct": null,
         "bank": null
+      },
+      "installment": {
+        "first_payment_pct": {
+          "value": 30,
+          "status": "unverified",
+          "note": "не подтверждено, относится ли 30% к рассрочке или к ипотеке"
+        }
       },
       "yield": {
         "claimed_pct": {
@@ -698,172 +708,27 @@
       ],
       "manual_overrides": {},
       "sources_checked": [
-        "https://ladoczsky.avenirspb.ru/",
-        "https://psk-info.ru/api/flats/"
-      ]
-    },
-    {
-      "slug": "ladozhsky",
-      "name": "Апарт‐отель Ladozhsky AVENIR",
-      "developer": "ГК ПСК",
-      "project_class": "Бизнес",
-      "property_type": "Апарт-отель",
-      "address": {
-        "value": "Санкт-Петербург, пр. Энергетиков, д. 8, корпус 2, стр.1",
-        "source": "psk-info-api"
-      },
-      "metro": {
-        "value": "Ладожская",
-        "walk_min": 10,
-        "source": "psk-info-api"
-      },
-      "landing_url": null,
-      "psk_info_slug": "ladozhsky",
-      "psk_info_id": 2,
-      "status": {
-        "value": "Ипотека 4,4%",
-        "source": "psk-info-api",
-        "checked": "2026-10-20"
-      },
-      "construction": {
-        "progress_pct": 100,
-        "source": "psk-info-api",
-        "checked": "2026-10-20"
-      },
-      "commissioning": {
-        "value": "4 квартал 2024",
-        "source": "psk-info-api",
-        "checked": "2026-10-20"
-      },
-      "min_price": {
-        "value": 5874072.0,
-        "currency": "RUB",
-        "source": "psk-info-api /api/projects/ (min_price)",
-        "checked": "2026-10-20",
-        "status": "partial",
-        "note": "Из API, не сверено с лендингом и квартирами"
-      },
-      "availability": {
-        "total": 71,
-        "free": 64,
-        "reserved": 7,
-        "free_min_price": 6920891.67,
-        "source": "api/availability.json",
-        "checked": "2026-10-20"
-      },
-      "mortgage": {
-        "monthly_payment_example": 60855,
-        "source": "psk-info-api /api/flats/ dvizh_min_mortgage (свободные лоты)",
-        "status": "unverified",
-        "note": "Назначение поля не подтверждено, параметры расчёта (взнос, срок, ставка, банк) не известны",
-        "first_payment_pct": null,
-        "term_years": null,
-        "rate_pct": null,
-        "bank": null
-      },
-      "installment": {
-        "first_payment_pct": {
-          "value": null,
-          "status": "unverified",
-          "note": "Не найдено в API"
-        }
-      },
-      "yield": {
-        "claimed_pct": null
-      },
-      "promotions": [],
-      "manual_overrides": {},
-      "sources_checked": [
-        "https://psk-info.ru/api/projects/ladozhsky/",
+        "api/availability.json",
         "api/flats.json",
-        "api/availability.json"
-      ]
+        "https://ladoczsky.avenirspb.ru/",
+        "https://psk-info.ru/api/flats/",
+        "https://psk-info.ru/api/projects/ladozhsky/"
+      ],
+      "district": "Красногвардейский район, Санкт-Петербург",
+      "landing_claims": {
+        "min_price_headline": {
+          "value": "от 5,6 млн руб.",
+          "status": "mismatch",
+          "note": "расхождение с API −4,7%"
+        }
+      }
     },
     {
       "slug": "optimist-zhiloj-kompleks",
-      "name": "«Оптимист», жилой комплекс",
-      "developer": "ГК ПСК",
-      "project_class": "Бизнес",
-      "property_type": "Жилой комплекс",
-      "address": {
-        "value": "г.Санкт-Петербург, ул. Фучика, дом 21",
-        "source": "psk-info-api"
-      },
-      "metro": {
-        "value": "Бухарестская",
-        "walk_min": 10,
-        "source": "psk-info-api"
-      },
-      "landing_url": "https://optimist.psk-info.ru/",
-      "psk_info_slug": "optimist-zhiloj-kompleks",
-      "psk_info_id": 45,
-      "status": {
-        "value": "старт продаж",
-        "source": "psk-info-api",
-        "checked": "2026-10-20"
-      },
-      "construction": {
-        "progress_pct": 2,
-        "source": "psk-info-api",
-        "checked": "2026-10-20"
-      },
-      "commissioning": {
-        "value": "4 квартал 2028",
-        "source": "psk-info-api",
-        "checked": "2026-10-20"
-      },
-      "min_price": {
-        "value": 9615359.0,
-        "currency": "RUB",
-        "source": "psk-info-api /api/projects/ (min_price)",
-        "checked": "2026-10-20",
-        "status": "partial",
-        "note": "Из API, не сверено с лендингом и квартирами"
-      },
-      "availability": {
-        "total": 198,
-        "free": 192,
-        "reserved": 6,
-        "free_min_price": 9615359.0,
-        "source": "api/availability.json",
-        "checked": "2026-10-20"
-      },
-      "mortgage": {
-        "monthly_payment_example": null,
-        "source": "psk-info-api /api/flats/ dvizh_min_mortgage (свободные лоты)",
-        "status": "unverified",
-        "note": "Назначение поля не подтверждено, параметры расчёта (взнос, срок, ставка, банк) не известны",
-        "first_payment_pct": null,
-        "term_years": null,
-        "rate_pct": null,
-        "bank": null
-      },
-      "installment": {
-        "first_payment_pct": {
-          "value": null,
-          "status": "unverified",
-          "note": "Не найдено в API"
-        }
-      },
-      "yield": {
-        "claimed_pct": null
-      },
-      "promotions": [],
-      "manual_overrides": {},
-      "sources_checked": [
-        "https://psk-info.ru/api/projects/optimist-zhiloj-kompleks/",
-        "api/flats.json",
-        "api/availability.json"
-      ]
-    },
-    {
-      "slug": "optimist",
       "name": "Оптимист",
       "developer": "ГК ПСК",
       "project_class": "Бизнес",
-      "project_label": "бизнес-лайт",
       "property_type": "жилой комплекс",
-      "district": "Фрунзенский район, Санкт-Петербург",
       "address": {
         "value": "ул. Фучика, 21",
         "source": "psk-info-api, оба лендинга, презентация"
@@ -873,10 +738,7 @@
         "walk_min": 10,
         "source": "оба лендинга, презентация"
       },
-      "landing_urls": [
-        "https://optimist.psk-info.ru/",
-        "https://psk-info.ru/projects/optimist-zhiloj-kompleks"
-      ],
+      "landing_url": "https://optimist.psk-info.ru/",
       "psk_info_slug": "optimist-zhiloj-kompleks",
       "psk_info_id": 45,
       "status": {
@@ -894,6 +756,73 @@
         "source": "оба лендинга, презентация, psk-info-api",
         "checked": "2026-10-20"
       },
+      "min_price": {
+        "value": 9615359,
+        "currency": "RUB",
+        "source": "psk-info-api /api/projects/ (min_price); psk-info.ru/projects: студии от 9,6 млн ₽",
+        "checked": "2026-10-20",
+        "status": "verified",
+        "note": "Совпадает с ценой студий на сайте psk-info.ru. Квартиры по API не сверены поштучно."
+      },
+      "availability": {
+        "total": 198,
+        "free": 192,
+        "reserved": 6,
+        "free_min_price": 9615359.0,
+        "source": "api/availability.json",
+        "checked": "2026-10-20"
+      },
+      "mortgage": {
+        "program": "Субсидированная",
+        "term_years_options": [
+          1,
+          2
+        ],
+        "bank": null,
+        "rate_pct": null,
+        "first_payment_pct": null,
+        "monthly_payment_example": null,
+        "status": "unverified",
+        "note": "Программа подбирается менеджером, ставка и первый взнос не указаны",
+        "source": "psk-info.ru/projects"
+      },
+      "installment": {
+        "name": "Просто",
+        "bank_approval_required": false,
+        "first_payment_pct": {
+          "value": null,
+          "status": "unverified",
+          "note": "сумма и условия не указаны"
+        },
+        "term_months": {
+          "value": null,
+          "status": "unverified"
+        },
+        "source": "psk-info.ru/projects"
+      },
+      "yield": {
+        "claimed_pct": null,
+        "note": "на сайтах доходность не указана"
+      },
+      "promotions": [],
+      "manual_overrides": {},
+      "sources_checked": [
+        "api/availability.json",
+        "api/flats.json",
+        "https://optimist.psk-info.ru/",
+        "https://psk-info.ru/api/projects/optimist-zhiloj-kompleks/",
+        "https://psk-info.ru/projects/optimist-zhiloj-kompleks",
+        "psk-info.ru/api/projects/ (id 45)",
+        "Лифлет Оптимист_2 первью.pdf",
+        "Презентация Оптимист.pdf",
+        "Фучека_по порядку.docx"
+      ],
+      "project_label": "бизнес-лайт",
+      "district": "Фрунзенский район, Санкт-Петербург",
+      "landing_urls": [
+        "https://optimist.psk-info.ru/",
+        "https://psk-info.ru/projects/optimist-zhiloj-kompleks"
+      ],
       "building": {
         "floors": {
           "value": 12,
@@ -924,14 +853,6 @@
           "source": "psk-info.ru"
         }
       },
-      "min_price": {
-        "value": 9615359,
-        "currency": "RUB",
-        "source": "psk-info-api /api/projects/ (min_price); psk-info.ru/projects: студии от 9,6 млн ₽",
-        "checked": "2026-10-20",
-        "status": "verified",
-        "note": "Совпадает с ценой студий на сайте psk-info.ru. Квартиры по API не сверены поштучно."
-      },
       "prices_by_type": [
         {
           "type": "studio",
@@ -961,34 +882,6 @@
       "landing_claims": {
         "price_note": "Страница не уточняет, что входит в цену, и не указывает дату актуальности"
       },
-      "installment": {
-        "name": "Просто",
-        "bank_approval_required": false,
-        "first_payment_pct": {
-          "value": null,
-          "status": "unverified",
-          "note": "сумма и условия не указаны"
-        },
-        "term_months": {
-          "value": null,
-          "status": "unverified"
-        },
-        "source": "psk-info.ru/projects"
-      },
-      "mortgage": {
-        "program": "Субсидированная",
-        "term_years_options": [
-          1,
-          2
-        ],
-        "bank": null,
-        "rate_pct": null,
-        "first_payment_pct": null,
-        "monthly_payment_example": null,
-        "status": "unverified",
-        "note": "Программа подбирается менеджером, ставка и первый взнос не указаны",
-        "source": "psk-info.ru/projects"
-      },
       "other_payment_options": [
         {
           "name": "100% оплата",
@@ -1007,10 +900,6 @@
           "terms": "можно использовать"
         }
       ],
-      "yield": {
-        "claimed_pct": null,
-        "note": "на сайтах доходность не указана"
-      },
       "features": [
         "Мультиформатное лобби 160 м², высота потолков 6,5 м",
         "Подземный паркинг, 256 машиномест с лифтами",
@@ -1019,7 +908,6 @@
         "Собственный фитнес-зал",
         "50% квартир с отделкой под ключ, 50% White Box"
       ],
-      "promotions": [],
       "sales_office": [
         {
           "address": "наб. реки Карповки, д. 39, лит. Б",
@@ -1045,15 +933,6 @@
           "status": "open",
           "note": "Нужно подтвердить актуальный номер у отдела продаж"
         }
-      ],
-      "manual_overrides": {},
-      "sources_checked": [
-        "psk-info.ru/api/projects/ (id 45)",
-        "https://optimist.psk-info.ru/",
-        "https://psk-info.ru/projects/optimist-zhiloj-kompleks",
-        "Презентация Оптимист.pdf",
-        "Лифлет Оптимист_2 первью.pdf",
-        "Фучека_по порядку.docx"
       ]
     },
     {

@@ -1,17 +1,17 @@
 {
   "slug": "optimist-zhiloj-kompleks",
-  "name": "«Оптимист», жилой комплекс",
+  "name": "Оптимист",
   "developer": "ГК ПСК",
   "project_class": "Бизнес",
-  "property_type": "Жилой комплекс",
+  "property_type": "жилой комплекс",
   "address": {
-    "value": "г.Санкт-Петербург, ул. Фучика, дом 21",
-    "source": "psk-info-api"
+    "value": "ул. Фучика, 21",
+    "source": "psk-info-api, оба лендинга, презентация"
   },
   "metro": {
     "value": "Бухарестская",
     "walk_min": 10,
-    "source": "psk-info-api"
+    "source": "оба лендинга, презентация"
   },
   "landing_url": "https://optimist.psk-info.ru/",
   "psk_info_slug": "optimist-zhiloj-kompleks",
@@ -27,17 +27,17 @@
     "checked": "2026-10-20"
   },
   "commissioning": {
-    "value": "4 квартал 2028",
-    "source": "psk-info-api",
+    "value": "IV квартал 2028",
+    "source": "оба лендинга, презентация, psk-info-api",
     "checked": "2026-10-20"
   },
   "min_price": {
-    "value": 9615359.0,
+    "value": 9615359,
     "currency": "RUB",
-    "source": "psk-info-api /api/projects/ (min_price)",
+    "source": "psk-info-api /api/projects/ (min_price); psk-info.ru/projects: студии от 9,6 млн ₽",
     "checked": "2026-10-20",
-    "status": "partial",
-    "note": "Из API, не сверено с лендингом и квартирами"
+    "status": "verified",
+    "note": "Совпадает с ценой студий на сайте psk-info.ru. Квартиры по API не сверены поштучно."
   },
   "availability": {
     "total": 198,
@@ -48,30 +48,165 @@
     "checked": "2026-10-20"
   },
   "mortgage": {
-    "monthly_payment_example": null,
-    "source": "psk-info-api /api/flats/ dvizh_min_mortgage (свободные лоты)",
-    "status": "unverified",
-    "note": "Назначение поля не подтверждено, параметры расчёта (взнос, срок, ставка, банк) не известны",
-    "first_payment_pct": null,
-    "term_years": null,
+    "program": "Субсидированная",
+    "term_years_options": [
+      1,
+      2
+    ],
+    "bank": null,
     "rate_pct": null,
-    "bank": null
+    "first_payment_pct": null,
+    "monthly_payment_example": null,
+    "status": "unverified",
+    "note": "Программа подбирается менеджером, ставка и первый взнос не указаны",
+    "source": "psk-info.ru/projects"
   },
   "installment": {
+    "name": "Просто",
+    "bank_approval_required": false,
     "first_payment_pct": {
       "value": null,
       "status": "unverified",
-      "note": "Не найдено в API"
-    }
+      "note": "сумма и условия не указаны"
+    },
+    "term_months": {
+      "value": null,
+      "status": "unverified"
+    },
+    "source": "psk-info.ru/projects"
   },
   "yield": {
-    "claimed_pct": null
+    "claimed_pct": null,
+    "note": "на сайтах доходность не указана"
   },
   "promotions": [],
   "manual_overrides": {},
   "sources_checked": [
-    "https://psk-info.ru/api/projects/optimist-zhiloj-kompleks/",
+    "api/availability.json",
     "api/flats.json",
-    "api/availability.json"
+    "https://optimist.psk-info.ru/",
+    "https://psk-info.ru/api/projects/optimist-zhiloj-kompleks/",
+    "https://psk-info.ru/projects/optimist-zhiloj-kompleks",
+    "psk-info.ru/api/projects/ (id 45)",
+    "Лифлет Оптимист_2 первью.pdf",
+    "Презентация Оптимист.pdf",
+    "Фучека_по порядку.docx"
+  ],
+  "project_label": "бизнес-лайт",
+  "district": "Фрунзенский район, Санкт-Петербург",
+  "landing_urls": [
+    "https://optimist.psk-info.ru/",
+    "https://psk-info.ru/projects/optimist-zhiloj-kompleks"
+  ],
+  "building": {
+    "floors": {
+      "value": 12,
+      "source": "презентация, psk-info.ru (1–12)"
+    },
+    "apartments_total": 503,
+    "apartments_on_sale": {
+      "value": 198,
+      "source": "psk-info.ru/projects, счётчик на странице",
+      "checked": "2026-10-20"
+    },
+    "parking_spaces": 256,
+    "storage_rooms": {
+      "value": 75,
+      "max_area_m2": 6.5,
+      "source": "psk-info.ru"
+    },
+    "commercial_units": 20,
+    "lobby_m2": 160,
+    "ceiling_height_m": {
+      "min": 2.9,
+      "max": 3.1,
+      "source": "psk-info.ru"
+    },
+    "apartment_area_m2": {
+      "min": 21.47,
+      "max": 113.73,
+      "source": "psk-info.ru"
+    }
+  },
+  "prices_by_type": [
+    {
+      "type": "studio",
+      "from_rub": 9600000,
+      "units_on_sale": 26,
+      "source": "psk-info.ru/projects"
+    },
+    {
+      "type": "1-room",
+      "from_rub": 12200000,
+      "units_on_sale": 83,
+      "source": "psk-info.ru/projects"
+    },
+    {
+      "type": "2-room",
+      "from_rub": 19200000,
+      "units_on_sale": 62,
+      "source": "psk-info.ru/projects"
+    },
+    {
+      "type": "3-room+",
+      "from_rub": 27600000,
+      "units_on_sale": 27,
+      "source": "psk-info.ru/projects"
+    }
+  ],
+  "landing_claims": {
+    "price_note": "Страница не уточняет, что входит в цену, и не указывает дату актуальности"
+  },
+  "other_payment_options": [
+    {
+      "name": "100% оплата",
+      "terms": "максимальные скидки, размер не указан"
+    },
+    {
+      "name": "Трейд-ин",
+      "programs": [
+        "Классический Трейд-ин",
+        "Экспресс"
+      ],
+      "terms": "старая квартира в зачёт новой"
+    },
+    {
+      "name": "Материнский капитал",
+      "terms": "можно использовать"
+    }
+  ],
+  "features": [
+    "Мультиформатное лобби 160 м², высота потолков 6,5 м",
+    "Подземный паркинг, 256 машиномест с лифтами",
+    "Ландшафтный комплекс в закрытом дворе",
+    "Умный дом, IP-домофон, приложение PSK Home",
+    "Собственный фитнес-зал",
+    "50% квартир с отделкой под ключ, 50% White Box"
+  ],
+  "sales_office": [
+    {
+      "address": "наб. реки Карповки, д. 39, лит. Б",
+      "phone": "+7 (812) 640-38-38",
+      "email": "sales@psk-info.ru",
+      "hours": "пн-пт 10:00–20:00, сб-вс 11:00–19:00",
+      "source": "psk-info.ru/projects"
+    },
+    {
+      "address": "ул. Фучика, д. 21 (офис на объекте)",
+      "phone": "+7 (812) 250-06-64",
+      "hours": "пн-пт 10:00–20:00, сб-вс 10:00–19:00",
+      "source": "презентация Оптимист.pdf"
+    }
+  ],
+  "data_conflicts": [
+    {
+      "field": "телефон отдела продаж",
+      "values": [
+        "+7 (812) 640-38-38 (psk-info.ru)",
+        "+7 (812) 250-06-64 (презентация)"
+      ],
+      "status": "open",
+      "note": "Нужно подтвердить актуальный номер у отдела продаж"
+    }
   ]
 }

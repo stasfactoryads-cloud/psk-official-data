@@ -1,24 +1,20 @@
 {
   "slug": "ladozhsky",
-  "name": "Апарт‐отель Ladozhsky AVENIR",
+  "name": "Ladozhsky AVENIR",
   "developer": "ГК ПСК",
   "project_class": "Бизнес",
-  "property_type": "Апарт-отель",
+  "property_type": "апарт-отель",
   "address": {
     "value": "Санкт-Петербург, пр. Энергетиков, д. 8, корпус 2, стр.1",
     "source": "psk-info-api"
   },
-  "metro": {
-    "value": "Ладожская",
-    "walk_min": 10,
-    "source": "psk-info-api"
-  },
-  "landing_url": null,
+  "metro": "Ладожская",
+  "landing_url": "https://ladoczsky.avenirspb.ru/",
   "psk_info_slug": "ladozhsky",
   "psk_info_id": 2,
   "status": {
-    "value": "Ипотека 4,4%",
-    "source": "psk-info-api",
+    "value": "Дом сдан, ключи сразу",
+    "source": "landing",
     "checked": "2026-10-20"
   },
   "construction": {
@@ -27,17 +23,17 @@
     "checked": "2026-10-20"
   },
   "commissioning": {
-    "value": "4 квартал 2024",
-    "source": "psk-info-api",
+    "value": "2024 Q4",
+    "source": "psk-info-api /api/flats/",
     "checked": "2026-10-20"
   },
   "min_price": {
-    "value": 5874072.0,
+    "value": 5874072,
     "currency": "RUB",
-    "source": "psk-info-api /api/projects/ (min_price)",
+    "source": "psk-info-api /api/flats/ (кв. 838, единственная в выборке)",
     "checked": "2026-10-20",
     "status": "partial",
-    "note": "Из API, не сверено с лендингом и квартирами"
+    "note": "Выборка API неполная, минимум по проекту не подтверждён полным обходом страниц"
   },
   "availability": {
     "total": 71,
@@ -48,10 +44,12 @@
     "checked": "2026-10-20"
   },
   "mortgage": {
-    "monthly_payment_example": 60855,
-    "source": "psk-info-api /api/flats/ dvizh_min_mortgage (свободные лоты)",
-    "status": "unverified",
-    "note": "Назначение поля не подтверждено, параметры расчёта (взнос, срок, ставка, банк) не известны",
+    "monthly_payment_example": {
+      "value": 51651,
+      "source": "psk-info-api /api/flats/ dvizh_min_mortgage",
+      "status": "unverified",
+      "note": "назначение поля не подтверждено"
+    },
     "first_payment_pct": null,
     "term_years": null,
     "rate_pct": null,
@@ -59,19 +57,49 @@
   },
   "installment": {
     "first_payment_pct": {
-      "value": null,
+      "value": 30,
       "status": "unverified",
-      "note": "Не найдено в API"
+      "note": "не подтверждено, относится ли 30% к рассрочке или к ипотеке"
     }
   },
   "yield": {
-    "claimed_pct": null
+    "claimed_pct": {
+      "value": 10.5,
+      "status": "footnote_open",
+      "note": "сноска «*» на лендинге не раскрыта"
+    },
+    "payback_years": {
+      "value": 9,
+      "source": "landing"
+    },
+    "owner_share_pct": {
+      "value": 85,
+      "source": "landing"
+    }
   },
-  "promotions": [],
+  "promotions": [
+    {
+      "title": "Скидка 1% при покупке от 2х апартаментов",
+      "valid_from": null,
+      "valid_to": null,
+      "source": "landing",
+      "status": "no_dates"
+    }
+  ],
   "manual_overrides": {},
   "sources_checked": [
-    "https://psk-info.ru/api/projects/ladozhsky/",
+    "api/availability.json",
     "api/flats.json",
-    "api/availability.json"
-  ]
+    "https://ladoczsky.avenirspb.ru/",
+    "https://psk-info.ru/api/flats/",
+    "https://psk-info.ru/api/projects/ladozhsky/"
+  ],
+  "district": "Красногвардейский район, Санкт-Петербург",
+  "landing_claims": {
+    "min_price_headline": {
+      "value": "от 5,6 млн руб.",
+      "status": "mismatch",
+      "note": "расхождение с API −4,7%"
+    }
+  }
 }
