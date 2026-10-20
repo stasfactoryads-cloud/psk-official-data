@@ -1,0 +1,77 @@
+{
+  "slug": "ladozhsky",
+  "name": "Апарт‐отель Ladozhsky AVENIR",
+  "developer": "ГК ПСК",
+  "project_class": "Бизнес",
+  "property_type": "Апарт-отель",
+  "address": {
+    "value": "Санкт-Петербург, пр. Энергетиков, д. 8, корпус 2, стр.1",
+    "source": "psk-info-api"
+  },
+  "metro": {
+    "value": "Ладожская",
+    "walk_min": 10,
+    "source": "psk-info-api"
+  },
+  "landing_url": null,
+  "psk_info_slug": "ladozhsky",
+  "psk_info_id": 2,
+  "status": {
+    "value": "Ипотека 4,4%",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "construction": {
+    "progress_pct": 100,
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "commissioning": {
+    "value": "4 квартал 2024",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "min_price": {
+    "value": 5874072.0,
+    "currency": "RUB",
+    "source": "psk-info-api /api/projects/ (min_price)",
+    "checked": "2026-10-20",
+    "status": "partial",
+    "note": "Из API, не сверено с лендингом и квартирами"
+  },
+  "availability": {
+    "total": 71,
+    "free": 64,
+    "reserved": 7,
+    "free_min_price": 6920891.67,
+    "source": "api/availability.json",
+    "checked": "2026-10-20"
+  },
+  "mortgage": {
+    "monthly_payment_example": 60855,
+    "source": "psk-info-api /api/flats/ dvizh_min_mortgage (свободные лоты)",
+    "status": "unverified",
+    "note": "Назначение поля не подтверждено, параметры расчёта (взнос, срок, ставка, банк) не известны",
+    "first_payment_pct": null,
+    "term_years": null,
+    "rate_pct": null,
+    "bank": null
+  },
+  "installment": {
+    "first_payment_pct": {
+      "value": null,
+      "status": "unverified",
+      "note": "Не найдено в API"
+    }
+  },
+  "yield": {
+    "claimed_pct": null
+  },
+  "promotions": [],
+  "manual_overrides": {},
+  "sources_checked": [
+    "https://psk-info.ru/api/projects/ladozhsky/",
+    "api/flats.json",
+    "api/availability.json"
+  ]
+}

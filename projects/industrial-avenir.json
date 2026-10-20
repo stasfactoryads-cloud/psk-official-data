@@ -1,0 +1,77 @@
+{
+  "slug": "industrial-avenir",
+  "name": "Апарт‐отель Industrial AVENIR",
+  "developer": "ГК ПСК",
+  "project_class": "Комфорт",
+  "property_type": "Апарт-отель",
+  "address": {
+    "value": "г.Санкт-Петербург, пр. Стачек, 62, литера А",
+    "source": "psk-info-api"
+  },
+  "metro": {
+    "value": "Кировский завод",
+    "walk_min": 3,
+    "source": "psk-info-api"
+  },
+  "landing_url": null,
+  "psk_info_slug": "industrial-avenir",
+  "psk_info_id": 40,
+  "status": {
+    "value": "Апарт - отель сдан",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "construction": {
+    "progress_pct": 100,
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "commissioning": {
+    "value": "3 квартал 2026",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "min_price": {
+    "value": 5350000.0,
+    "currency": "RUB",
+    "source": "psk-info-api /api/projects/ (min_price)",
+    "checked": "2026-10-20",
+    "status": "partial",
+    "note": "Из API, не сверено с лендингом и квартирами"
+  },
+  "availability": {
+    "total": 133,
+    "free": 115,
+    "reserved": 18,
+    "free_min_price": 5601639.35,
+    "source": "api/availability.json",
+    "checked": "2026-10-20"
+  },
+  "mortgage": {
+    "monthly_payment_example": 49255,
+    "source": "psk-info-api /api/flats/ dvizh_min_mortgage (свободные лоты)",
+    "status": "unverified",
+    "note": "Назначение поля не подтверждено, параметры расчёта (взнос, срок, ставка, банк) не известны",
+    "first_payment_pct": null,
+    "term_years": null,
+    "rate_pct": null,
+    "bank": null
+  },
+  "installment": {
+    "first_payment_pct": {
+      "value": null,
+      "status": "unverified",
+      "note": "Не найдено в API"
+    }
+  },
+  "yield": {
+    "claimed_pct": null
+  },
+  "promotions": [],
+  "manual_overrides": {},
+  "sources_checked": [
+    "https://psk-info.ru/api/projects/industrial-avenir/",
+    "api/flats.json",
+    "api/availability.json"
+  ]
+}

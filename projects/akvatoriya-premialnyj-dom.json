@@ -1,0 +1,77 @@
+{
+  "slug": "akvatoriya-premialnyj-dom",
+  "name": "«Акватория», премиальный дом",
+  "developer": "ГК ПСК",
+  "project_class": "Премиум",
+  "property_type": "Премиальный дом",
+  "address": {
+    "value": "г.Санкт-Петербург, Выборгская набережная, дом 61",
+    "source": "psk-info-api"
+  },
+  "metro": {
+    "value": "Петроградская",
+    "walk_min": null,
+    "source": "psk-info-api"
+  },
+  "landing_url": "https://akvatoriya.psk-info.ru/",
+  "psk_info_slug": "akvatoriya-premialnyj-dom",
+  "psk_info_id": 44,
+  "status": {
+    "value": "РАССРОЧКА НА 5 ЛЕТ",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "construction": {
+    "progress_pct": 5,
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "commissioning": {
+    "value": "2 квартал 2029",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "min_price": {
+    "value": 22305050.4,
+    "currency": "RUB",
+    "source": "psk-info-api /api/projects/ (min_price)",
+    "checked": "2026-10-20",
+    "status": "partial",
+    "note": "Из API, не сверено с лендингом и квартирами"
+  },
+  "availability": {
+    "total": 175,
+    "free": 158,
+    "reserved": 17,
+    "free_min_price": 22367772.8,
+    "source": "api/availability.json",
+    "checked": "2026-10-20"
+  },
+  "mortgage": {
+    "monthly_payment_example": 64072,
+    "source": "psk-info-api /api/flats/ dvizh_min_mortgage (свободные лоты)",
+    "status": "unverified",
+    "note": "Назначение поля не подтверждено, параметры расчёта (взнос, срок, ставка, банк) не известны",
+    "first_payment_pct": null,
+    "term_years": null,
+    "rate_pct": null,
+    "bank": null
+  },
+  "installment": {
+    "first_payment_pct": {
+      "value": null,
+      "status": "unverified",
+      "note": "Не найдено в API"
+    }
+  },
+  "yield": {
+    "claimed_pct": null
+  },
+  "promotions": [],
+  "manual_overrides": {},
+  "sources_checked": [
+    "https://psk-info.ru/api/projects/akvatoriya-premialnyj-dom/",
+    "api/flats.json",
+    "api/availability.json"
+  ]
+}

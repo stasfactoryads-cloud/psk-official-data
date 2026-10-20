@@ -1,0 +1,77 @@
+{
+  "slug": "friends",
+  "name": "ЖК Friends",
+  "developer": "ГК ПСК",
+  "project_class": "Комфорт",
+  "property_type": "Жилой комплекс",
+  "address": {
+    "value": "набережная реки Каменки,  дом 13, корпуса 1,3 ; дом 15, корпуса 1,3",
+    "source": "psk-info-api"
+  },
+  "metro": {
+    "value": "Проспект Просвещения",
+    "walk_min": null,
+    "source": "psk-info-api"
+  },
+  "landing_url": null,
+  "psk_info_slug": "friends",
+  "psk_info_id": 20,
+  "status": {
+    "value": "",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "construction": {
+    "progress_pct": 100,
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "commissioning": {
+    "value": "1 квартал 2024",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "min_price": {
+    "value": 17971043.0,
+    "currency": "RUB",
+    "source": "psk-info-api /api/projects/ (min_price)",
+    "checked": "2026-10-20",
+    "status": "partial",
+    "note": "Из API, не сверено с лендингом и квартирами"
+  },
+  "availability": {
+    "total": 2,
+    "free": 1,
+    "reserved": 1,
+    "free_min_price": 17971043.0,
+    "source": "api/availability.json",
+    "checked": "2026-10-20"
+  },
+  "mortgage": {
+    "monthly_payment_example": 51477,
+    "source": "psk-info-api /api/flats/ dvizh_min_mortgage (свободные лоты)",
+    "status": "unverified",
+    "note": "Назначение поля не подтверждено, параметры расчёта (взнос, срок, ставка, банк) не известны",
+    "first_payment_pct": null,
+    "term_years": null,
+    "rate_pct": null,
+    "bank": null
+  },
+  "installment": {
+    "first_payment_pct": {
+      "value": null,
+      "status": "unverified",
+      "note": "Не найдено в API"
+    }
+  },
+  "yield": {
+    "claimed_pct": null
+  },
+  "promotions": [],
+  "manual_overrides": {},
+  "sources_checked": [
+    "https://psk-info.ru/api/projects/friends/",
+    "api/flats.json",
+    "api/availability.json"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "zhk-respect",
+  "name": "«РЕСПЕКТ», жилой квартал",
+  "developer": "ГК ПСК",
+  "project_class": "Комфорт",
+  "property_type": "Жилой квартал",
+  "address": {
+    "value": "г. Санкт-Петербург, Полюстровский проспект, 87",
+    "source": "psk-info-api"
+  },
+  "metro": {
+    "value": "Лесная",
+    "walk_min": 10,
+    "source": "psk-info-api"
+  },
+  "landing_url": null,
+  "psk_info_slug": "zhk-respect",
+  "psk_info_id": 39,
+  "status": {
+    "value": "Первая очередь сдана",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "construction": {
+    "progress_pct": 47,
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "commissioning": {
+    "value": "1 квартал 2026",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "min_price": {
+    "value": 11576908.2,
+    "currency": "RUB",
+    "source": "psk-info-api /api/projects/ (min_price)",
+    "checked": "2026-10-20",
+    "status": "partial",
+    "note": "Из API, не сверено с лендингом и квартирами"
+  },
+  "availability": {
+    "total": 486,
+    "free": 457,
+    "reserved": 29,
+    "free_min_price": 11576908.2,
+    "source": "api/availability.json",
+    "checked": "2026-10-20"
+  },
+  "mortgage": {
+    "monthly_payment_example": 23244,
+    "source": "psk-info-api /api/flats/ dvizh_min_mortgage (свободные лоты)",
+    "status": "unverified",
+    "note": "Назначение поля не подтверждено, параметры расчёта (взнос, срок, ставка, банк) не известны",
+    "first_payment_pct": null,
+    "term_years": null,
+    "rate_pct": null,
+    "bank": null
+  },
+  "installment": {
+    "first_payment_pct": {
+      "value": null,
+      "status": "unverified",
+      "note": "Не найдено в API"
+    }
+  },
+  "yield": {
+    "claimed_pct": null
+  },
+  "promotions": [],
+  "manual_overrides": {},
+  "sources_checked": [
+    "https://psk-info.ru/api/projects/zhk-respect/",
+    "api/flats.json",
+    "api/availability.json"
+  ]
+}

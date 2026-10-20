@@ -1,0 +1,77 @@
+{
+  "slug": "optimist-zhiloj-kompleks",
+  "name": "«Оптимист», жилой комплекс",
+  "developer": "ГК ПСК",
+  "project_class": "Бизнес",
+  "property_type": "Жилой комплекс",
+  "address": {
+    "value": "г.Санкт-Петербург, ул. Фучика, дом 21",
+    "source": "psk-info-api"
+  },
+  "metro": {
+    "value": "Бухарестская",
+    "walk_min": 10,
+    "source": "psk-info-api"
+  },
+  "landing_url": "https://optimist.psk-info.ru/",
+  "psk_info_slug": "optimist-zhiloj-kompleks",
+  "psk_info_id": 45,
+  "status": {
+    "value": "старт продаж",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "construction": {
+    "progress_pct": 2,
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "commissioning": {
+    "value": "4 квартал 2028",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "min_price": {
+    "value": 9615359.0,
+    "currency": "RUB",
+    "source": "psk-info-api /api/projects/ (min_price)",
+    "checked": "2026-10-20",
+    "status": "partial",
+    "note": "Из API, не сверено с лендингом и квартирами"
+  },
+  "availability": {
+    "total": 198,
+    "free": 192,
+    "reserved": 6,
+    "free_min_price": 9615359.0,
+    "source": "api/availability.json",
+    "checked": "2026-10-20"
+  },
+  "mortgage": {
+    "monthly_payment_example": null,
+    "source": "psk-info-api /api/flats/ dvizh_min_mortgage (свободные лоты)",
+    "status": "unverified",
+    "note": "Назначение поля не подтверждено, параметры расчёта (взнос, срок, ставка, банк) не известны",
+    "first_payment_pct": null,
+    "term_years": null,
+    "rate_pct": null,
+    "bank": null
+  },
+  "installment": {
+    "first_payment_pct": {
+      "value": null,
+      "status": "unverified",
+      "note": "Не найдено в API"
+    }
+  },
+  "yield": {
+    "claimed_pct": null
+  },
+  "promotions": [],
+  "manual_overrides": {},
+  "sources_checked": [
+    "https://psk-info.ru/api/projects/optimist-zhiloj-kompleks/",
+    "api/flats.json",
+    "api/availability.json"
+  ]
+}

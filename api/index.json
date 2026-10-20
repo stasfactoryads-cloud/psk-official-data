@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:06:16+00:00",
+  "generated_at": "2026-10-20T19:10:12+00:00",
   "repository": "https://github.com/stasfactoryads-cloud/psk-official-data",
   "base_url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/",
   "files": [
@@ -8,15 +8,15 @@
       "title": "Проекты: цены, ипотека, рассрочка, статусы",
       "description": "Структурные данные по проектам с источником и статусом проверки каждого поля. Ручные правки отдела продаж — в manual_overrides.",
       "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/projects.json",
-      "generated_at": "2026-10-20T18:29:29+00:00",
-      "count": 2
+      "generated_at": "2026-10-20T19:10:12+00:00",
+      "count": 15
     },
     {
       "file": "marketing.json",
       "title": "Маркетинг: описания, УТП, фото и видео",
       "description": "Текст о проекте, преимущества, инфраструктура, прямые ссылки на фото (media.photos) и видео (media.videos).",
       "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/marketing.json",
-      "generated_at": "2026-10-20T18:56:18+00:00",
+      "generated_at": "2026-10-20T19:10:05+00:00",
       "count": 13
     },
     {
@@ -24,7 +24,7 @@
       "title": "Каталог лотов: все квартиры",
       "description": "Все квартиры по всем проектам: цена, площадь, этаж, статус, ипотечный платёж, планировка.",
       "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/flats.json",
-      "generated_at": "2026-10-20T18:56:20+00:00",
+      "generated_at": "2026-10-20T19:10:12+00:00",
       "count": 2359
     },
     {
@@ -32,7 +32,7 @@
       "title": "Срез наличия: в продаже и в броне",
       "description": "Свободно и в броне по каждому проекту и по каталогу в целом, минимальная цена свободного лота.",
       "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/availability.json",
-      "generated_at": "2026-10-20T18:56:20+00:00",
+      "generated_at": "2026-10-20T19:10:12+00:00",
       "totals": {
         "total": 2359,
         "free": 2194,

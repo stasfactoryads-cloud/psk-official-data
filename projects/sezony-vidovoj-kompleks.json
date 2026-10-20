@@ -1,0 +1,77 @@
+{
+  "slug": "sezony-vidovoj-kompleks",
+  "name": "«Сезоны», видовой комплекс",
+  "developer": "ГК ПСК",
+  "project_class": "Комфорт",
+  "property_type": "Жилой комплекс",
+  "address": {
+    "value": "г.Санкт-Петербург, Суздальское шоссе, уч.26",
+    "source": "psk-info-api"
+  },
+  "metro": {
+    "value": "Проспект Просвещения",
+    "walk_min": null,
+    "source": "psk-info-api"
+  },
+  "landing_url": "https://sezony.psk-info.ru/",
+  "psk_info_slug": "sezony-vidovoj-kompleks",
+  "psk_info_id": 43,
+  "status": {
+    "value": "",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "construction": {
+    "progress_pct": 30,
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "commissioning": {
+    "value": "2 квартал 2028",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "min_price": {
+    "value": 6800248.91,
+    "currency": "RUB",
+    "source": "psk-info-api /api/projects/ (min_price)",
+    "checked": "2026-10-20",
+    "status": "partial",
+    "note": "Из API, не сверено с лендингом и квартирами"
+  },
+  "availability": {
+    "total": 278,
+    "free": 265,
+    "reserved": 13,
+    "free_min_price": 6800248.91,
+    "source": "api/availability.json",
+    "checked": "2026-10-20"
+  },
+  "mortgage": {
+    "monthly_payment_example": 13653,
+    "source": "psk-info-api /api/flats/ dvizh_min_mortgage (свободные лоты)",
+    "status": "unverified",
+    "note": "Назначение поля не подтверждено, параметры расчёта (взнос, срок, ставка, банк) не известны",
+    "first_payment_pct": null,
+    "term_years": null,
+    "rate_pct": null,
+    "bank": null
+  },
+  "installment": {
+    "first_payment_pct": {
+      "value": null,
+      "status": "unverified",
+      "note": "Не найдено в API"
+    }
+  },
+  "yield": {
+    "claimed_pct": null
+  },
+  "promotions": [],
+  "manual_overrides": {},
+  "sources_checked": [
+    "https://psk-info.ru/api/projects/sezony-vidovoj-kompleks/",
+    "api/flats.json",
+    "api/availability.json"
+  ]
+}

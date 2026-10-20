@@ -1,0 +1,77 @@
+{
+  "slug": "assambleya-klubnyj-kvartal",
+  "name": "«Ассамблея», клубный квартал",
+  "developer": "ГК ПСК",
+  "project_class": "Бизнес",
+  "property_type": "Клубный квартал",
+  "address": {
+    "value": "г.Санкт-Петербург, Малый проспект Васильевского острова, д. 60",
+    "source": "psk-info-api"
+  },
+  "metro": {
+    "value": "Горный институт",
+    "walk_min": 11,
+    "source": "psk-info-api"
+  },
+  "landing_url": "https://assambleya.psk-info.ru/",
+  "psk_info_slug": "assambleya-klubnyj-kvartal",
+  "psk_info_id": 41,
+  "status": {
+    "value": "Скидки до 10%",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "construction": {
+    "progress_pct": 48,
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "commissioning": {
+    "value": "3 квартал 2028",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "min_price": {
+    "value": 14043303.04,
+    "currency": "RUB",
+    "source": "psk-info-api /api/projects/ (min_price)",
+    "checked": "2026-10-20",
+    "status": "partial",
+    "note": "Из API, не сверено с лендингом и квартирами"
+  },
+  "availability": {
+    "total": 486,
+    "free": 481,
+    "reserved": 5,
+    "free_min_price": 14043303.04,
+    "source": "api/availability.json",
+    "checked": "2026-10-20"
+  },
+  "mortgage": {
+    "monthly_payment_example": 28196,
+    "source": "psk-info-api /api/flats/ dvizh_min_mortgage (свободные лоты)",
+    "status": "unverified",
+    "note": "Назначение поля не подтверждено, параметры расчёта (взнос, срок, ставка, банк) не известны",
+    "first_payment_pct": null,
+    "term_years": null,
+    "rate_pct": null,
+    "bank": null
+  },
+  "installment": {
+    "first_payment_pct": {
+      "value": null,
+      "status": "unverified",
+      "note": "Не найдено в API"
+    }
+  },
+  "yield": {
+    "claimed_pct": null
+  },
+  "promotions": [],
+  "manual_overrides": {},
+  "sources_checked": [
+    "https://psk-info.ru/api/projects/assambleya-klubnyj-kvartal/",
+    "api/flats.json",
+    "api/availability.json"
+  ]
+}

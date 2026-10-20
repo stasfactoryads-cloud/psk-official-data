@@ -1,0 +1,77 @@
+{
+  "slug": "korona",
+  "name": "«Северная корона», квартиры - резиденции",
+  "developer": "ГК ПСК",
+  "project_class": "Премиум",
+  "property_type": "Жилой комплекс",
+  "address": {
+    "value": "набережная реки Карповки, д. 31, лит.А",
+    "source": "psk-info-api"
+  },
+  "metro": {
+    "value": "Петроградская",
+    "walk_min": 7,
+    "source": "psk-info-api"
+  },
+  "landing_url": "https://nord-corona.ru/",
+  "psk_info_slug": "korona",
+  "psk_info_id": 22,
+  "status": {
+    "value": "",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "construction": {
+    "progress_pct": 100,
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "commissioning": {
+    "value": "4 квартал 2023",
+    "source": "psk-info-api",
+    "checked": "2026-10-20"
+  },
+  "min_price": {
+    "value": 34658000.0,
+    "currency": "RUB",
+    "source": "psk-info-api /api/projects/ (min_price)",
+    "checked": "2026-10-20",
+    "status": "partial",
+    "note": "Из API, не сверено с лендингом и квартирами"
+  },
+  "availability": {
+    "total": 16,
+    "free": 3,
+    "reserved": 13,
+    "free_min_price": 85848000.0,
+    "source": "api/availability.json",
+    "checked": "2026-10-20"
+  },
+  "mortgage": {
+    "monthly_payment_example": 754867,
+    "source": "psk-info-api /api/flats/ dvizh_min_mortgage (свободные лоты)",
+    "status": "unverified",
+    "note": "Назначение поля не подтверждено, параметры расчёта (взнос, срок, ставка, банк) не известны",
+    "first_payment_pct": null,
+    "term_years": null,
+    "rate_pct": null,
+    "bank": null
+  },
+  "installment": {
+    "first_payment_pct": {
+      "value": null,
+      "status": "unverified",
+      "note": "Не найдено в API"
+    }
+  },
+  "yield": {
+    "claimed_pct": null
+  },
+  "promotions": [],
+  "manual_overrides": {},
+  "sources_checked": [
+    "https://psk-info.ru/api/projects/korona/",
+    "api/flats.json",
+    "api/availability.json"
+  ]
+}
