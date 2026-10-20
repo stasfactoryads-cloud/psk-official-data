@@ -6,54 +6,90 @@
   "project_label": "бизнес-лайт",
   "property_type": "жилой комплекс",
   "district": "Фрунзенский район, Санкт-Петербург",
-  "address": {"value": "ул. Фучика, 21", "source": "psk-info-api, презентация"},
-  "metro": {"value": "Бухарестская", "walk_min": 10, "source": "презентация, psk-info-api"},
-  "landing_url": null,
+  "address": {"value": "ул. Фучика, 21", "source": "psk-info-api, оба лендинга, презентация"},
+  "metro": {"value": "Бухарестская", "walk_min": 10, "source": "оба лендинга, презентация"},
+  "landing_urls": [
+    "https://optimist.psk-info.ru/",
+    "https://psk-info.ru/projects/optimist-zhiloj-kompleks"
+  ],
   "psk_info_slug": "optimist-zhiloj-kompleks",
   "psk_info_id": 45,
   "status": {"value": "старт продаж", "source": "psk-info-api", "checked": "2026-10-20"},
   "construction": {"progress_pct": 2, "source": "psk-info-api", "checked": "2026-10-20"},
-  "commissioning": {"value": "IV квартал 2028", "source": "презентация, psk-info-api", "checked": "2026-10-20"},
-  "building": {"floors": 12, "apartments": 503, "parking_spaces": 256, "commercial_units": 20, "source": "презентация, Фучека_по порядку.docx"},
+  "commissioning": {"value": "IV квартал 2028", "source": "оба лендинга, презентация, psk-info-api", "checked": "2026-10-20"},
+  "building": {
+    "floors": {"value": 12, "source": "презентация, psk-info.ru (1–12)"},
+    "apartments_total": 503,
+    "apartments_on_sale": {"value": 198, "source": "psk-info.ru/projects, счётчик на странице", "checked": "2026-10-20"},
+    "parking_spaces": 256,
+    "storage_rooms": {"value": 75, "max_area_m2": 6.5, "source": "psk-info.ru"},
+    "commercial_units": 20,
+    "lobby_m2": 160,
+    "ceiling_height_m": {"min": 2.9, "max": 3.1, "source": "psk-info.ru"},
+    "apartment_area_m2": {"min": 21.47, "max": 113.73, "source": "psk-info.ru"}
+  },
   "min_price": {
     "value": 9615359,
     "currency": "RUB",
-    "source": "psk-info-api /api/projects/ (min_price)",
+    "source": "psk-info-api /api/projects/ (min_price); psk-info.ru/projects: студии от 9,6 млн ₽",
     "checked": "2026-10-20",
-    "status": "unverified",
-    "note": "Не сверено с /api/flats/ и лендингом, лендинг не найден в материалах"
+    "status": "verified",
+    "note": "Совпадает с ценой студий на сайте psk-info.ru. Квартиры по API не сверены поштучно."
   },
-  "landing_claims": {},
+  "prices_by_type": [
+    {"type": "studio", "from_rub": 9600000, "units_on_sale": 26, "source": "psk-info.ru/projects"},
+    {"type": "1-room", "from_rub": 12200000, "units_on_sale": 83, "source": "psk-info.ru/projects"},
+    {"type": "2-room", "from_rub": 19200000, "units_on_sale": 62, "source": "psk-info.ru/projects"},
+    {"type": "3-room+", "from_rub": 27600000, "units_on_sale": 27, "source": "psk-info.ru/projects"}
+  ],
+  "landing_claims": {
+    "price_note": "Страница не уточняет, что входит в цену, и не указывает дату актуальности"
+  },
   "installment": {
-    "first_payment_pct": {"value": null, "status": "unverified", "note": "условия в материалах проекта не найдены"}
+    "name": "Просто",
+    "bank_approval_required": false,
+    "first_payment_pct": {"value": null, "status": "unverified", "note": "сумма и условия не указаны"},
+    "term_months": {"value": null, "status": "unverified"},
+    "source": "psk-info.ru/projects"
   },
   "mortgage": {
-    "monthly_payment_example": null,
-    "first_payment_pct": null,
-    "term_years": null,
-    "rate_pct": null,
+    "program": "Субсидированная",
+    "term_years_options": [1, 2],
     "bank": null,
+    "rate_pct": null,
+    "first_payment_pct": null,
+    "monthly_payment_example": null,
     "status": "unverified",
-    "note": "условия в материалах проекта не найдены"
+    "note": "Программа подбирается менеджером, ставка и первый взнос не указаны",
+    "source": "psk-info.ru/projects"
   },
-  "yield": {"claimed_pct": null},
+  "other_payment_options": [
+    {"name": "100% оплата", "terms": "максимальные скидки, размер не указан"},
+    {"name": "Трейд-ин", "programs": ["Классический Трейд-ин", "Экспресс"], "terms": "старая квартира в зачёт новой"},
+    {"name": "Материнский капитал", "terms": "можно использовать"}
+  ],
+  "yield": {"claimed_pct": null, "note": "на сайтах доходность не указана"},
   "features": [
     "Мультиформатное лобби 160 м², высота потолков 6,5 м",
     "Подземный паркинг, 256 машиномест с лифтами",
     "Ландшафтный комплекс в закрытом дворе",
     "Умный дом, IP-домофон, приложение PSK Home",
-    "Высота потолков до 3 м",
     "Собственный фитнес-зал",
     "50% квартир с отделкой под ключ, 50% White Box"
   ],
   "promotions": [],
   "sales_office": [
-    {"address": "наб. реки Карповки, д. 39, лит. Б", "phone": "+7 (812) 250-06-64", "hours": "пн-пт 10:00–20:00, сб-вс 11:00–19:00"},
-    {"address": "ул. Фучика, д. 21 (офис на объекте)", "phone": "+7 (812) 250-06-64", "hours": "пн-пт 10:00–20:00, сб-вс 10:00–19:00"}
+    {"address": "наб. реки Карповки, д. 39, лит. Б", "phone": "+7 (812) 640-38-38", "email": "sales@psk-info.ru", "hours": "пн-пт 10:00–20:00, сб-вс 11:00–19:00", "source": "psk-info.ru/projects"},
+    {"address": "ул. Фучика, д. 21 (офис на объекте)", "phone": "+7 (812) 250-06-64", "hours": "пн-пт 10:00–20:00, сб-вс 10:00–19:00", "source": "презентация Оптимист.pdf"}
+  ],
+  "data_conflicts": [
+    {"field": "телефон отдела продаж", "values": ["+7 (812) 640-38-38 (psk-info.ru)", "+7 (812) 250-06-64 (презентация)"], "status": "open", "note": "Нужно подтвердить актуальный номер у отдела продаж"}
   ],
   "manual_overrides": {},
   "sources_checked": [
     "psk-info.ru/api/projects/ (id 45)",
+    "https://optimist.psk-info.ru/",
+    "https://psk-info.ru/projects/optimist-zhiloj-kompleks",
     "Презентация Оптимист.pdf",
     "Лифлет Оптимист_2 первью.pdf",
     "Фучека_по порядку.docx"
