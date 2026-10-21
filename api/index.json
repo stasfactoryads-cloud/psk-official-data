@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T09:31:33+00:00",
+  "generated_at": "2026-10-21T09:35:59+00:00",
   "repository": "https://github.com/stasfactoryads-cloud/psk-official-data",
   "base_url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/",
   "alerts": [
@@ -8,21 +8,6 @@
       "file": "Условия_2026.xlsx",
       "as_of": null,
       "message": "Условия продаж не актуализированы: Условия_2026.xlsx — дата не указана. Загрузите файл до 6 числа месяца."
-    },
-    {
-      "type": "project_not_in_api",
-      "project": "Kirovsky Avenir",
-      "message": "Проект «Kirovsky Avenir» есть в условиях, но не заведён в API."
-    },
-    {
-      "type": "project_not_in_api",
-      "project": "Moskovsky Avenir",
-      "message": "Проект «Moskovsky Avenir» есть в условиях, но не заведён в API."
-    },
-    {
-      "type": "project_not_in_api",
-      "project": "Putilov Avenir",
-      "message": "Проект «Putilov Avenir» есть в условиях, но не заведён в API."
     }
   ],
   "files": [
@@ -31,7 +16,7 @@
       "title": "Проекты: цены, ипотека, рассрочка, статусы",
       "description": "Структурные данные по проектам с источником и статусом проверки каждого поля. Ручные правки отдела продаж — в manual_overrides.",
       "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/projects.json",
-      "generated_at": "2026-10-21T09:31:33+00:00",
+      "generated_at": "2026-10-21T09:35:59+00:00",
       "count": 13
     },
     {
@@ -68,7 +53,7 @@
       "title": "Условия продаж: акции, рассрочка, ипотека, коммерция, машиноместа",
       "description": "Условия по каждому проекту из ежемесячных файлов. Файл считается актуальным, если загружен не раньше 6-го числа текущего месяца.",
       "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/conditions.json",
-      "generated_at": "2026-10-21T09:31:17+00:00"
+      "generated_at": "2026-10-21T09:35:59+00:00"
     }
   ]
 }

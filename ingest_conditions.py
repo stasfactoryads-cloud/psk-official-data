@@ -44,7 +44,8 @@ KEYWORDS = [
     ("КОРОНА", "korona"),
 ]
 # Проекты из файлов, которых нет в API: попадают в список на проверку, не в публикацию.
-NOT_IN_API = ["MOSKOVSKY", "KIROVSKY", "PUTILOV"]
+# Проекты из файлов, которые не заводим и условия которых не применяем (решение владельца)
+IGNORED = ["MOSKOVSKY", "KIROVSKY", "PUTILOV"]
 
 # Листы, которые не содержат условий продаж (инструкции и служебные).
 SKIP_SHEETS = ("Инструкция",)
@@ -84,9 +85,9 @@ def match_slug(text, column_text=""):
     return None
 
 
-def is_not_in_api(text):
+def is_ignored(text):
     n = norm(text)
-    return any(k in n for k in NOT_IN_API)
+    return any(k in n for k in IGNORED)
 
 
 def section_for(sheet_name):
@@ -141,8 +142,8 @@ def extract_header_sheet(ws, section, sheet_name, out, unmatched):
         slug = match_slug(text)
         if slug:
             cols[idx] = (slug, text)
-        elif is_not_in_api(text):
-            unmatched.add(text)
+        elif is_ignored(text):
+            pass  # игнорируем без предупреждений
     count = 0
     last_label = ""
     for row in ws.iter_rows(min_row=h + 1, max_row=ws.max_row, values_only=True):
@@ -174,9 +175,8 @@ def extract_rows_sheet(ws, section, sheet_name, out, unmatched):
             slug = match_slug(first)
             if slug:
                 current = (slug, first)
-            elif is_not_in_api(first):
-                unmatched.add(first)
-                current = None
+            elif is_ignored(first):
+                current = None  # строки игнорируемого проекта не относим к соседям
             elif len(first) < 60 and any(c for c in row[1:] if c):
                 # Заголовок-разделитель, например «АКЦИОННЫЕ РАССРОЧКИ», пропускаем
                 continue

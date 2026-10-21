@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T09:31:17+00:00",
+  "generated_at": "2026-10-21T09:35:59+00:00",
   "threshold_day": 6,
   "status": "требует проверки",
   "documents": [
@@ -73,11 +73,7 @@
       ]
     }
   ],
-  "not_in_api": [
-    "Kirovsky Avenir",
-    "Moskovsky Avenir",
-    "Putilov Avenir"
-  ],
+  "not_in_api": [],
   "projects": {
     "assambleya-klubnyj-kvartal": {
       "mortgage": [
