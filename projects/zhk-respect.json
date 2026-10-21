@@ -79,5 +79,13 @@
     "https://psk-info.ru/projects/zhk-respect",
     "https://domrespect.ru/"
   ],
-  "landing_urls_checked": "2026-10-21"
+  "landing_urls_checked": "2026-10-21",
+  "landing_urls_owner_confirmed": {
+    "confirmed_by": "маркетинг (ГК ПСК)",
+    "confirmed_on": "2026-10-21",
+    "domains": [
+      "respect-dom.ru",
+      "domrespect.ru"
+    ]
+  }
 }
