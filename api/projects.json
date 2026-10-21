@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T08:47:01+00:00",
+  "generated_at": "2026-10-21T08:47:14+00:00",
   "count": 13,
   "projects": [
     {
@@ -558,6 +558,9 @@
         "https://psk-info.ru/api/projects/korona/",
         "api/flats.json",
         "api/availability.json"
+      ],
+      "landing_urls": [
+        "https://nord-corona.ru/"
       ]
     },
     {
@@ -740,7 +743,10 @@
           "status": "mismatch",
           "note": "расхождение с API −4,7%"
         }
-      }
+      },
+      "landing_urls": [
+        "https://ladoczsky.avenirspb.ru/"
+      ]
     },
     {
       "slug": "optimist-zhiloj-kompleks",
@@ -1106,6 +1112,9 @@
         "https://psk-info.ru/api/projects/sezony-vidovoj-kompleks/",
         "api/flats.json",
         "api/availability.json"
+      ],
+      "landing_urls": [
+        "https://sezony.psk-info.ru/"
       ]
     },
     {

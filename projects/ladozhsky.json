@@ -101,5 +101,8 @@
       "status": "mismatch",
       "note": "расхождение с API −4,7%"
     }
-  }
+  },
+  "landing_urls": [
+    "https://ladoczsky.avenirspb.ru/"
+  ]
 }
