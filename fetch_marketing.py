@@ -132,6 +132,14 @@ def main():
         try:
             detail = get_json(f"{BASE}/projects/{slug}/")
             projects[slug] = parse_project(slug, detail)
+            # все ссылки на лендинги: из API и из карточки проекта (projects/<slug>.json)
+            card_path = ROOT / "projects" / f"{slug}.json"
+            card = json.loads(card_path.read_text(encoding="utf-8")) if card_path.exists() else {}
+            projects[slug]["landing_urls"] = unique(
+                [projects[slug].get("landing_url")]
+                + ([card.get("landing_url")] if card.get("landing_url") else [])
+                + (card.get("landing_urls") or [])
+            )
         except Exception as e:
             errors.append(f"{slug}: {e}")
 

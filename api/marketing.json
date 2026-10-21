@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:18:46+00:00",
+  "generated_at": "2026-10-21T08:47:01+00:00",
   "source": "https://psk-info.ru/api/projects/<slug>/",
   "count": 13,
   "projects": {
@@ -314,7 +314,12 @@
           "https://storage.yandexcloud.net/psk-media/media/p/p/g/a033fe5b746e336aba0578e562235800f8d196fe.jpg"
         ]
       },
-      "tags": []
+      "tags": [],
+      "landing_urls": [
+        "https://akvatoriya.psk-info.ru/",
+        "https://psk-info.ru/projects/akvatoriya-premialnyj-dom",
+        "https://aqua.psk-info.ru"
+      ]
     },
     "assambleya-klubnyj-kvartal": {
       "id": 41,
@@ -592,7 +597,13 @@
           "https://storage.yandexcloud.net/psk-media/media/p/p/g/a9731844093beca865a1a987e93ea54b50bce1cb.jpg"
         ]
       },
-      "tags": []
+      "tags": [],
+      "landing_urls": [
+        "https://assambleya.psk-info.ru/",
+        "https://project.assambleya-promo.psk-info.ru",
+        "https://assambleya-promo.psk-info.ru",
+        "https://psk-info.ru/projects/assambleya-klubnyj-kvartal"
+      ]
     },
     "galernaya-gavan": {
       "id": 42,
@@ -902,7 +913,12 @@
           "https://storage.yandexcloud.net/psk-media/media/p/p/g/77c6101675b17a3bdf24daaa38d0623fa3020841.jpg"
         ]
       },
-      "tags": []
+      "tags": [],
+      "landing_urls": [
+        "https://gavan.psk-info.ru/",
+        "https://psk-info.ru/projects/galernaya-gavan",
+        "https://gavan-pro.psk-info.ru"
+      ]
     },
     "optimist-zhiloj-kompleks": {
       "id": 45,
@@ -1168,7 +1184,11 @@
           "https://storage.yandexcloud.net/psk-media/media/p/p/g/91d1731afc00633e82c66dd5b1f02a3093d8b29a.jpg"
         ]
       },
-      "tags": []
+      "tags": [],
+      "landing_urls": [
+        "https://optimist.psk-info.ru/",
+        "https://psk-info.ru/projects/optimist-zhiloj-kompleks"
+      ]
     },
     "sezony-vidovoj-kompleks": {
       "id": 43,
@@ -1428,7 +1448,10 @@
           "https://storage.yandexcloud.net/psk-media/media/p/p/g/650311d5a705cba348e30d8ca5afc5f87bedba0b.jpg"
         ]
       },
-      "tags": []
+      "tags": [],
+      "landing_urls": [
+        "https://sezony.psk-info.ru/"
+      ]
     },
     "plus-pulkovskij": {
       "id": 32,
@@ -1726,7 +1749,8 @@
       },
       "tags": [
         "военная ипотека"
-      ]
+      ],
+      "landing_urls": []
     },
     "zhk-respect": {
       "id": 39,
@@ -2031,7 +2055,12 @@
           "https://storage.yandexcloud.net/psk-media/media/p/p/cmi/8f9ad930b7ed9147438ef194f76f95b6e2a5ae7c.jpg"
         ]
       },
-      "tags": []
+      "tags": [],
+      "landing_urls": [
+        "https://respect-dom.ru",
+        "https://psk-info.ru/projects/zhk-respect",
+        "https://domrespect.ru/"
+      ]
     },
     "industrial-avenir": {
       "id": 40,
@@ -2267,7 +2296,8 @@
       },
       "tags": [
         "Рассрочка"
-      ]
+      ],
+      "landing_urls": []
     },
     "bakunina33": {
       "id": 30,
@@ -2512,7 +2542,8 @@
           "https://storage.yandexcloud.net/psk-media/media/p/p/g/771fea0b167be4e188439c245ee2384544aac34a.jpg"
         ]
       },
-      "tags": []
+      "tags": [],
+      "landing_urls": []
     },
     "korona": {
       "id": 22,
@@ -2723,7 +2754,10 @@
           "https://storage.yandexcloud.net/psk-media/media/p/p/cmi/1f74b46f6c589a067f5ab03423b472302aa335e7.jpg"
         ]
       },
-      "tags": []
+      "tags": [],
+      "landing_urls": [
+        "https://nord-corona.ru/"
+      ]
     },
     "korona_apart": {
       "id": 23,
@@ -2876,7 +2910,8 @@
           "https://storage.yandexcloud.net/psk-media/media/p/p/g/4bc67bfb0afdc3e94fa210f0427a82bbd3beb625.jpg"
         ]
       },
-      "tags": []
+      "tags": [],
+      "landing_urls": []
     },
     "ladozhsky": {
       "id": 2,
@@ -3059,6 +3094,9 @@
       },
       "tags": [
         "Выгодная рассрочка"
+      ],
+      "landing_urls": [
+        "https://ladoczsky.avenirspb.ru/"
       ]
     },
     "friends": {
@@ -3325,7 +3363,8 @@
       },
       "tags": [
         "Рассрочка"
-      ]
+      ],
+      "landing_urls": []
     }
   }
 }
