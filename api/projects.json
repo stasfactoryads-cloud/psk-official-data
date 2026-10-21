@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:18:46+00:00",
+  "generated_at": "2026-10-21T08:40:48+00:00",
   "count": 13,
   "projects": [
     {
@@ -77,7 +77,12 @@
         "https://psk-info.ru/api/projects/akvatoriya-premialnyj-dom/",
         "api/flats.json",
         "api/availability.json"
-      ]
+      ],
+      "landing_urls": [
+        "https://akvatoriya.psk-info.ru/",
+        "https://psk-info.ru/projects/akvatoriya-premialnyj-dom"
+      ],
+      "landing_urls_checked": "2026-10-21"
     },
     {
       "slug": "assambleya-klubnyj-kvartal",
@@ -154,7 +159,15 @@
         "https://psk-info.ru/api/projects/assambleya-klubnyj-kvartal/",
         "api/flats.json",
         "api/availability.json"
-      ]
+      ],
+      "landing_urls": [
+        "https://assambleya.psk-info.ru/",
+        "https://project.assambleya-promo.psk-info.ru",
+        "https://assambleya-promo.psk-info.ru",
+        "https://assambleya.psk-info.ru",
+        "https://psk-info.ru/projects/assambleya-klubnyj-kvartal"
+      ],
+      "landing_urls_checked": "2026-10-21"
     },
     {
       "slug": "bakunina33",
@@ -385,7 +398,13 @@
         "https://psk-info.ru/api/projects/galernaya-gavan/",
         "api/flats.json",
         "api/availability.json"
-      ]
+      ],
+      "landing_urls": [
+        "https://gavan.psk-info.ru/",
+        "https://psk-info.ru/projects/galernaya-gavan",
+        "https://gavan-pro.psk-info.ru"
+      ],
+      "landing_urls_checked": "2026-10-21"
     },
     {
       "slug": "industrial-avenir",
@@ -1164,7 +1183,13 @@
         "https://psk-info.ru/api/projects/zhk-respect/",
         "api/flats.json",
         "api/availability.json"
-      ]
+      ],
+      "landing_urls": [
+        "https://respect-dom.ru",
+        "https://psk-info.ru/projects/zhk-respect",
+        "https://domrespect.ru/"
+      ],
+      "landing_urls_checked": "2026-10-21"
     }
   ]
 }

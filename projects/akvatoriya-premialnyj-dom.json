@@ -73,5 +73,10 @@
     "https://psk-info.ru/api/projects/akvatoriya-premialnyj-dom/",
     "api/flats.json",
     "api/availability.json"
-  ]
+  ],
+  "landing_urls": [
+    "https://akvatoriya.psk-info.ru/",
+    "https://psk-info.ru/projects/akvatoriya-premialnyj-dom"
+  ],
+  "landing_urls_checked": "2026-10-21"
 }

@@ -73,5 +73,11 @@
     "https://psk-info.ru/api/projects/galernaya-gavan/",
     "api/flats.json",
     "api/availability.json"
-  ]
+  ],
+  "landing_urls": [
+    "https://gavan.psk-info.ru/",
+    "https://psk-info.ru/projects/galernaya-gavan",
+    "https://gavan-pro.psk-info.ru"
+  ],
+  "landing_urls_checked": "2026-10-21"
 }

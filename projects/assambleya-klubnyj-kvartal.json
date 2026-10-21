@@ -73,5 +73,13 @@
     "https://psk-info.ru/api/projects/assambleya-klubnyj-kvartal/",
     "api/flats.json",
     "api/availability.json"
-  ]
+  ],
+  "landing_urls": [
+    "https://assambleya.psk-info.ru/",
+    "https://project.assambleya-promo.psk-info.ru",
+    "https://assambleya-promo.psk-info.ru",
+    "https://assambleya.psk-info.ru",
+    "https://psk-info.ru/projects/assambleya-klubnyj-kvartal"
+  ],
+  "landing_urls_checked": "2026-10-21"
 }

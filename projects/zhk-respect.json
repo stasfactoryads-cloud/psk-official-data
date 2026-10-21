@@ -73,5 +73,11 @@
     "https://psk-info.ru/api/projects/zhk-respect/",
     "api/flats.json",
     "api/availability.json"
-  ]
+  ],
+  "landing_urls": [
+    "https://respect-dom.ru",
+    "https://psk-info.ru/projects/zhk-respect",
+    "https://domrespect.ru/"
+  ],
+  "landing_urls_checked": "2026-10-21"
 }
