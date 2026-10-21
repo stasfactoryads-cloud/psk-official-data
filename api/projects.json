@@ -71,7 +71,7 @@
       ]
     }
   ],
-  "generated_at": "2026-10-21T10:41:46+00:00",
+  "generated_at": "2026-10-21T10:47:21+00:00",
   "count": 13,
   "projects": [
     {
@@ -160,6 +160,8 @@
       "landing_urls_checked": "2026-10-21",
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
+      "developer_legal": null,
+      "developer_inn": null,
       "conditions": {
         "installment": [
           {
@@ -460,6 +462,8 @@
       "landing_urls_checked": "2026-10-21",
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
+      "developer_legal": null,
+      "developer_inn": null,
       "conditions": {
         "mortgage": [
           {
@@ -879,6 +883,8 @@
       ],
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
+      "developer_legal": null,
+      "developer_inn": null,
       "conditions": {
         "installment": [
           {
@@ -994,6 +1000,8 @@
       ],
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
+      "developer_legal": null,
+      "developer_inn": null,
       "conditions": {
         "mortgage": [
           {
@@ -1202,6 +1210,9 @@
       "landing_urls_checked": "2026-10-21",
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
+      "developer_legal": "ООО «ПРОЕКТ-С-37»",
+      "developer_inn": null,
+      "developer_legal_source": "Проектный материал «ГАЛЕРНАЯ ГАВАНЬ. Обучающий материал 3», раздел «Параметры проекта»",
       "conditions": {
         "mortgage": [
           {
@@ -1583,6 +1594,8 @@
       ],
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
+      "developer_legal": null,
+      "developer_inn": null,
       "conditions": {
         "mortgage": [
           {
@@ -1833,6 +1846,8 @@
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
       "landing_urls_checked": "2026-10-21",
+      "developer_legal": null,
+      "developer_inn": null,
       "conditions": {
         "installment": [
           {
@@ -1948,6 +1963,8 @@
       ],
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
+      "developer_legal": null,
+      "developer_inn": null,
       "conditions": {
         "promotions": [
           {
@@ -2080,6 +2097,8 @@
       ],
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
+      "developer_legal": null,
+      "developer_inn": null,
       "conditions": {
         "mortgage": [
           {
@@ -2419,6 +2438,8 @@
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
       "landing_urls_checked": "2026-10-21",
+      "developer_legal": null,
+      "developer_inn": null,
       "conditions": {
         "mortgage": [
           {
@@ -2722,6 +2743,8 @@
         "https://pulkovsky.plus/dom/"
       ],
       "landing_urls_checked": "2026-10-21",
+      "developer_legal": null,
+      "developer_inn": null,
       "conditions": {
         "mortgage": [
           {
@@ -3474,6 +3497,8 @@
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
       "landing_urls_checked": "2026-10-21",
+      "developer_legal": null,
+      "developer_inn": null,
       "conditions": {
         "mortgage": [
           {
@@ -3805,6 +3830,8 @@
       },
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
+      "developer_legal": null,
+      "developer_inn": null,
       "conditions": {
         "mortgage": [
           {
