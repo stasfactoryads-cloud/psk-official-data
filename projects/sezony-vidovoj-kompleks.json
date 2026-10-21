@@ -81,6 +81,7 @@
   "conditions_status": "требует проверки",
   "conditions_as_of": "2026-10-19",
   "landing_urls_checked": "2026-10-21",
-  "developer_legal": null,
-  "developer_inn": null
+  "developer_legal": "ООО СЗ ПОРТАЛ",
+  "developer_inn": "7813298435",
+  "developer_legal_source": "Единый реестр застройщиков (наш.дом.рф), группа компаний ПСК"
 }

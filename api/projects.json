@@ -71,7 +71,7 @@
       ]
     }
   ],
-  "generated_at": "2026-10-21T10:53:43+00:00",
+  "generated_at": "2026-10-21T10:59:17+00:00",
   "count": 13,
   "projects": [
     {
@@ -160,8 +160,9 @@
       "landing_urls_checked": "2026-10-21",
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
-      "developer_legal": null,
-      "developer_inn": null,
+      "developer_legal": "ООО СЗ ПРЕСТИЖ",
+      "developer_inn": "7842405353",
+      "developer_legal_source": "Единый реестр застройщиков (наш.дом.рф), группа компаний ПСК",
       "conditions": {
         "installment": [
           {
@@ -462,8 +463,9 @@
       "landing_urls_checked": "2026-10-21",
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
-      "developer_legal": null,
-      "developer_inn": null,
+      "developer_legal": "ООО СЗ АТТИК",
+      "developer_inn": "7801344214",
+      "developer_legal_source": "Единый реестр застройщиков (наш.дом.рф), группа компаний ПСК",
       "conditions": {
         "mortgage": [
           {
@@ -883,8 +885,9 @@
       ],
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
-      "developer_legal": null,
-      "developer_inn": null,
+      "developer_legal": "ООО СЗ АЛЬТЕРНАТИВА",
+      "developer_inn": "7842117549",
+      "developer_legal_source": "Единый реестр застройщиков (наш.дом.рф), группа компаний ПСК",
       "conditions": {
         "installment": [
           {
@@ -2097,8 +2100,9 @@
       ],
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
-      "developer_legal": null,
-      "developer_inn": null,
+      "developer_legal": "ООО СЗ ИНВЕСТПРОЕКТ",
+      "developer_inn": "7806297550",
+      "developer_legal_source": "Единый реестр застройщиков (наш.дом.рф), группа компаний ПСК",
       "conditions": {
         "mortgage": [
           {
@@ -2438,8 +2442,9 @@
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
       "landing_urls_checked": "2026-10-21",
-      "developer_legal": null,
-      "developer_inn": null,
+      "developer_legal": "ООО СЗ КСС-ЗАПАД",
+      "developer_inn": "7843309807",
+      "developer_legal_source": "Единый реестр застройщиков (наш.дом.рф), группа компаний ПСК",
       "conditions": {
         "mortgage": [
           {
@@ -2743,8 +2748,9 @@
         "https://pulkovsky.plus/dom/"
       ],
       "landing_urls_checked": "2026-10-21",
-      "developer_legal": null,
-      "developer_inn": null,
+      "developer_legal": "ООО СЗ СЕВЕРНАЯ ВЕНЕЦИЯ",
+      "developer_inn": "7810740292",
+      "developer_legal_source": "Единый реестр застройщиков (наш.дом.рф), группа компаний ПСК",
       "conditions": {
         "mortgage": [
           {
@@ -3497,8 +3503,9 @@
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
       "landing_urls_checked": "2026-10-21",
-      "developer_legal": null,
-      "developer_inn": null,
+      "developer_legal": "ООО СЗ ПОРТАЛ",
+      "developer_inn": "7813298435",
+      "developer_legal_source": "Единый реестр застройщиков (наш.дом.рф), группа компаний ПСК",
       "conditions": {
         "mortgage": [
           {
@@ -3830,8 +3837,9 @@
       },
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
-      "developer_legal": null,
-      "developer_inn": null,
+      "developer_legal": "ООО СЗ ВИКТОРИЯ",
+      "developer_inn": "7804434152",
+      "developer_legal_source": "Единый реестр застройщиков (наш.дом.рф), группа компаний ПСК",
       "conditions": {
         "mortgage": [
           {
