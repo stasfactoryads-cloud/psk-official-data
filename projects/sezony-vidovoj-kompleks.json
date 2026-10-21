@@ -75,8 +75,10 @@
     "api/availability.json"
   ],
   "landing_urls": [
-    "https://sezony.psk-info.ru/"
+    "https://sezony.psk-info.ru/",
+    "https://psk-info.ru/projects/sezony-vidovoj-kompleks"
   ],
   "conditions_status": "требует проверки",
-  "conditions_as_of": "2026-10-19"
+  "conditions_as_of": "2026-10-19",
+  "landing_urls_checked": "2026-10-21"
 }

@@ -96,7 +96,16 @@ def main():
             "owner_confirmed": card.get("landing_urls_owner_confirmed"),
         })
 
-    all_links = [l for p in projects for l in p["links"]]
+    general = []
+    gp = ROOT / "landings_general.json"
+    if gp.exists():
+        for item in json.loads(gp.read_text(encoding="utf-8")).get("pages", []):
+            url = normalize(item["url"])
+            if url not in cache:
+                cache[url] = check(url)
+            general.append({"url": url, "name": item.get("name"), "note": item.get("note"), **cache[url]})
+
+    all_links = [l for p in projects for l in p["links"]] + general
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "description": "Посадочные страницы (лендинги) проектов ГК ПСК. Обновляется ежедневно вместе с API.",
@@ -108,6 +117,7 @@ def main():
             "links_error": sum(1 for l in all_links if l["status"] != "ok"),
             "projects_without_landings": [p["slug"] for p in projects if not p["links"]],
         },
+        "general_pages": general,
         "projects": projects,
     }
     OUT.parent.mkdir(exist_ok=True)

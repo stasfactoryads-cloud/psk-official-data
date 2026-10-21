@@ -77,7 +77,9 @@
   "landing_urls": [
     "https://akvatoriya.psk-info.ru/",
     "https://psk-info.ru/projects/akvatoriya-premialnyj-dom",
-    "https://aqua.psk-info.ru"
+    "https://aqua.psk-info.ru",
+    "https://aqua.psk-info.ru/",
+    "https://akvatoria-dom.mrqz.me/"
   ],
   "landing_urls_checked": "2026-10-21",
   "conditions_status": "требует проверки",

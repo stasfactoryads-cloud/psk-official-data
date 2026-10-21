@@ -75,5 +75,9 @@
     "api/availability.json"
   ],
   "conditions_status": "требует проверки",
-  "conditions_as_of": "2026-10-19"
+  "conditions_as_of": "2026-10-19",
+  "landing_urls": [
+    "https://pulkovsky.plus/dom/"
+  ],
+  "landing_urls_checked": "2026-10-21"
 }

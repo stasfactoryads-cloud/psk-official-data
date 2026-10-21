@@ -1,20 +1,49 @@
 {
-  "generated_at": "2026-10-21T10:36:22+00:00",
+  "generated_at": "2026-10-21T10:40:26+00:00",
   "description": "Посадочные страницы (лендинги) проектов ГК ПСК. Обновляется ежедневно вместе с API.",
   "summary": {
     "projects_total": 13,
-    "projects_with_landings": 8,
-    "links_total": 18,
-    "links_ok": 18,
+    "projects_with_landings": 9,
+    "links_total": 32,
+    "links_ok": 32,
     "links_error": 0,
     "projects_without_landings": [
       "bakunina33",
       "friends",
       "industrial-avenir",
-      "korona_apart",
-      "plus-pulkovskij"
+      "korona_apart"
     ]
   },
+  "general_pages": [
+    {
+      "url": "https://psk-info.ru/projects",
+      "name": "Каталог проектов на сайте ПСК",
+      "note": "общая страница",
+      "status": "ok",
+      "http_code": 200
+    },
+    {
+      "url": "https://mrqz.me/6a73524710fabe0019cd1feb",
+      "name": "Короткая ссылка mrqz.me",
+      "note": "проект не определён, уточнить",
+      "status": "ok",
+      "http_code": 200
+    },
+    {
+      "url": "https://mrqz.me/69ea289b8ae1ec00198f8668",
+      "name": "Короткая ссылка mrqz.me",
+      "note": "проект не определён, уточнить",
+      "status": "ok",
+      "http_code": 200
+    },
+    {
+      "url": "https://mrqz.me/6a047c573d1ee00019492be0",
+      "name": "Короткая ссылка mrqz.me",
+      "note": "проект не определён, уточнить",
+      "status": "ok",
+      "http_code": 200
+    }
+  ],
   "projects": [
     {
       "slug": "akvatoriya-premialnyj-dom",
@@ -36,6 +65,18 @@
         },
         {
           "url": "https://aqua.psk-info.ru",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://aqua.psk-info.ru/",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://akvatoria-dom.mrqz.me/",
           "type": "лендинг",
           "status": "ok",
           "http_code": 200
@@ -71,6 +112,18 @@
         {
           "url": "https://psk-info.ru/projects/assambleya-klubnyj-kvartal",
           "type": "карточка проекта на сайте ПСК",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://assambleya-promo.psk-info.ru/",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://mrqz.me/assambleya-psk",
+          "type": "лендинг",
           "status": "ok",
           "http_code": 200
         }
@@ -119,6 +172,24 @@
           "type": "лендинг",
           "status": "ok",
           "http_code": 200
+        },
+        {
+          "url": "https://dom.gavan.psk-info.ru",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://mrqz.me/gavan_psk",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://mrqz.me/gavan_psk_kr",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
         }
       ],
       "manual_check_date": "2026-10-21",
@@ -144,9 +215,15 @@
           "type": "лендинг",
           "status": "ok",
           "http_code": 200
+        },
+        {
+          "url": "https://mrqz.me/nord-corona",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
         }
       ],
-      "manual_check_date": null,
+      "manual_check_date": "2026-10-21",
       "owner_confirmed": null
     },
     {
@@ -193,16 +270,23 @@
           "http_code": 200
         }
       ],
-      "manual_check_date": null,
+      "manual_check_date": "2026-10-21",
       "owner_confirmed": null
     },
     {
       "slug": "plus-pulkovskij",
       "name": "ПЛЮС Пулковский, сити-квартал",
       "developer": "ГК ПСК",
-      "primary_url": null,
-      "links": [],
-      "manual_check_date": null,
+      "primary_url": "https://pulkovsky.plus/dom/",
+      "links": [
+        {
+          "url": "https://pulkovsky.plus/dom/",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        }
+      ],
+      "manual_check_date": "2026-10-21",
       "owner_confirmed": null
     },
     {
@@ -216,9 +300,15 @@
           "type": "лендинг",
           "status": "ok",
           "http_code": 200
+        },
+        {
+          "url": "https://psk-info.ru/projects/sezony-vidovoj-kompleks",
+          "type": "карточка проекта на сайте ПСК",
+          "status": "ok",
+          "http_code": 200
         }
       ],
-      "manual_check_date": null,
+      "manual_check_date": "2026-10-21",
       "owner_confirmed": null
     },
     {

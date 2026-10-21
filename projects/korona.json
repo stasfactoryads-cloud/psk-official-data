@@ -75,8 +75,10 @@
     "api/availability.json"
   ],
   "landing_urls": [
-    "https://nord-corona.ru/"
+    "https://nord-corona.ru/",
+    "https://mrqz.me/nord-corona"
   ],
   "conditions_status": "требует проверки",
-  "conditions_as_of": "2026-10-19"
+  "conditions_as_of": "2026-10-19",
+  "landing_urls_checked": "2026-10-21"
 }

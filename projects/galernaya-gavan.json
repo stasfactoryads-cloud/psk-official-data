@@ -77,7 +77,10 @@
   "landing_urls": [
     "https://gavan.psk-info.ru/",
     "https://psk-info.ru/projects/galernaya-gavan",
-    "https://gavan-pro.psk-info.ru"
+    "https://gavan-pro.psk-info.ru",
+    "https://dom.gavan.psk-info.ru",
+    "https://mrqz.me/gavan_psk",
+    "https://mrqz.me/gavan_psk_kr"
   ],
   "landing_urls_checked": "2026-10-21",
   "conditions_status": "требует проверки",
