@@ -38,7 +38,32 @@ FILES = [
         "description": "Свободно и в броне по каждому проекту и по каталогу в целом, минимальная цена свободного лота.",
         "count_key": None,
     },
+    {
+        "file": "conditions.json",
+        "title": "Условия продаж: акции, рассрочка, ипотека, коммерция, машиноместа",
+        "description": "Условия по каждому проекту из ежемесячных файлов. Файл считается актуальным, если загружен не раньше 6-го числа текущего месяца.",
+        "count_key": None,
+    },
 ]
+
+
+def build_alerts():
+    cond = load(API / "conditions.json") or {}
+    alerts = []
+    status = cond.get("status")
+    if status and status != "актуально":
+        for d in cond.get("documents", []):
+            if d.get("status") != "актуально":
+                alerts.append({
+                    "type": "conditions_outdated",
+                    "file": d.get("file"),
+                    "as_of": d.get("as_of"),
+                    "message": f"Условия продаж не актуализированы: {d.get('file')} — {d.get('status')}. Загрузите файл до 6 числа месяца.",
+                })
+    for name in cond.get("not_in_api", []):
+        alerts.append({"type": "project_not_in_api", "project": name,
+                       "message": f"Проект «{name}» есть в условиях, но не заведён в API."})
+    return alerts
 
 
 def load(path):
@@ -66,10 +91,12 @@ def main():
             entry["totals"] = data.get("totals")
         entries.append(entry)
 
+    alerts = build_alerts()
     index = {
         "generated_at": now,
         "repository": REPO,
         "base_url": RAW,
+        "alerts": alerts,
         "files": entries,
     }
     (API / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")

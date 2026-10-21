@@ -12,6 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 PROJECTS_DIR = ROOT / "projects"
 OUT = ROOT / "api" / "projects.json"
+API_DIR = ROOT / "api"
 REQUIRED = ["slug", "name", "developer"]
 
 
@@ -38,8 +39,14 @@ def main():
             print("  -", e)
         sys.exit(1)
 
+    cond_path = API_DIR / "conditions.json"
+    cond = json.loads(cond_path.read_text(encoding="utf-8")) if cond_path.exists() else {}
+    for it in items:
+        it["conditions"] = (cond.get("projects") or {}).get(it["slug"], {})
     OUT.parent.mkdir(exist_ok=True)
     payload = {
+        "conditions_status": cond.get("status", "нет данных"),
+        "conditions_documents": cond.get("documents", []),
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "count": len(items),
         "projects": items,

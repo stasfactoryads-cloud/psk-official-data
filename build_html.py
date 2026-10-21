@@ -11,7 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 API = ROOT / "api"
 OUT = API / "API.html"
-FILES = ["projects.json", "marketing.json", "flats.json", "availability.json", "index.json"]
+FILES = ["projects.json", "marketing.json", "flats.json", "availability.json", "index.json", "conditions.json"]
 
 TEMPLATE = r"""<!doctype html>
 <html lang="ru">
@@ -59,6 +59,10 @@ a { color:var(--brand); }
 .hidden { display:none; }
 .small { font-size:13px; color:var(--muted); }
 p { margin:6px 0; }
+.alert { background:#fff; color:var(--dark); border-left:5px solid var(--brand); padding:10px 14px; margin:12px 0 0; }
+.alert b { color:var(--brand); }
+.row { padding:8px 0; border-bottom:1px dashed var(--line); }
+h4 { margin:14px 0 4px; font-size:15px; color:var(--brand); }
 @media (max-width:640px) { main { padding:14px 12px 28px; } th, td { padding:7px 6px; font-size:13px; } }
 </style>
 </head>
@@ -67,11 +71,13 @@ p { margin:6px 0; }
   <div class="inner">
   <div class="brand"><span class="mark">ПСК</span><h1>Данные API ГК ПСК</h1></div>
   <div class="meta" id="gen"></div>
+  <div id="alerts"></div>
   <nav id="tabs">
     <button data-tab="overview" class="active">Наличие</button>
     <button data-tab="projects">Проекты</button>
     <button data-tab="marketing">Маркетинг</button>
     <button data-tab="flats">Лоты</button>
+    <button data-tab="conditions">Условия</button>
     <button data-tab="files">Файлы</button>
   </nav>
   </div>
@@ -81,6 +87,7 @@ p { margin:6px 0; }
   <section id="projects" class="hidden"></section>
   <section id="marketing" class="hidden"></section>
   <section id="flats" class="hidden"></section>
+  <section id="conditions" class="hidden"></section>
   <section id="files" class="hidden"></section>
 </main>
 <script>
@@ -243,6 +250,44 @@ function renderFiles() {
         el("td", {}, el("a", { href: f.url, target: "_blank" }, "raw")))))));
 }
 
+// ---- Предупреждения (условия не актуализированы и т.п.) ----
+function renderAlerts() {
+  const alerts = (DATA.index && DATA.index.alerts) || [];
+  $("#alerts").replaceChildren(...alerts.map((a) =>
+    el("div", { class: "alert" }, el("b", {}, a.type === "conditions_outdated" ? "Внимание: " : "Проверить: "), a.message)));
+}
+
+// ---- Условия продаж ----
+const COND_LABELS = {
+  promotions: "Акции и скидки", installment: "Рассрочка", mortgage: "Ипотека",
+  commercial: "Коммерческие помещения", parking_storage: "Машиноместа и кладовые",
+};
+function condRows(items) {
+  return items.map((it) => el("div", { class: "row" },
+    el("b", {}, it.label || "—"),
+    it.column ? el("span", { class: "small" }, "  ·  " + it.column) : null,
+    it.valid_to ? el("span", { class: "tag " + (it.expired ? "warn" : "ok") },
+      (it.expired ? "истекла " : "действует до ") + it.valid_to) : null,
+    el("div", { class: "desc" }, it.condition)));
+}
+function renderConditions() {
+  const c = DATA.conditions || {};
+  const projects = c.projects || {};
+  const names = Object.fromEntries(((DATA.projects && DATA.projects.projects) || []).map((p) => [p.slug, p.name]));
+  const docs = (c.documents || []).map((d) => d.file + " — " + (d.as_of ? new Date(d.as_of).toLocaleDateString("ru-RU") : "дата не указана") + " (" + d.status + ")");
+  const blocks = Object.keys(projects).sort().map((slug) => {
+    const sec = projects[slug];
+    return el("div", { class: "proj" }, el("h3", {}, names[slug] || slug),
+      ...Object.keys(COND_LABELS).filter((k) => sec[k] && sec[k].length).map((k) =>
+        el("div", {}, el("h4", {}, COND_LABELS[k] + " (" + sec[k].length + ")"), condRows(sec[k]))));
+  });
+  $("#conditions").replaceChildren(
+    el("p", { class: "small" }, "Источник: " + (docs.join(" · ") || "нет файлов")),
+    el("p", {}, el("span", { class: "tag " + (c.status === "актуально" ? "ok" : "warn") }, "Статус условий: " + (c.status || "нет данных"))),
+    ...blocks);
+}
+
+renderAlerts(); renderConditions();
 renderOverview(); renderProjects(); renderMarketing(); renderFlats(); renderFiles();
 </script>
 </body>
@@ -257,7 +302,7 @@ def read(name):
 def main():
     bundle = {"generated": datetime.now(timezone.utc).isoformat(timespec="seconds")}
     keys = {"projects.json": "projects", "marketing.json": "marketing",
-            "flats.json": "flats", "availability.json": "availability", "index.json": "index"}
+            "flats.json": "flats", "availability.json": "availability", "index.json": "index", "conditions.json": "conditions"}
     for f in FILES:
         bundle[keys[f]] = read(f)
     # безопасная вставка JSON в <script>: экранируем «</» и «<!--»
