@@ -71,7 +71,7 @@
       ]
     }
   ],
-  "generated_at": "2026-10-21T10:47:21+00:00",
+  "generated_at": "2026-10-21T10:53:43+00:00",
   "count": 13,
   "projects": [
     {
@@ -1210,9 +1210,9 @@
       "landing_urls_checked": "2026-10-21",
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
-      "developer_legal": "ООО «ПРОЕКТ-С-37»",
-      "developer_inn": null,
-      "developer_legal_source": "Проектный материал «ГАЛЕРНАЯ ГАВАНЬ. Обучающий материал 3», раздел «Параметры проекта»",
+      "developer_legal": "ООО СЗ «ПРОЕКТ-С-37»",
+      "developer_inn": "7840108725",
+      "developer_legal_source": "Единый реестр застройщиков (наш.дом.рф), группа компаний ПСК",
       "conditions": {
         "mortgage": [
           {
