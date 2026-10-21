@@ -71,7 +71,7 @@
       ]
     }
   ],
-  "generated_at": "2026-10-21T10:36:22+00:00",
+  "generated_at": "2026-10-21T10:41:46+00:00",
   "count": 13,
   "projects": [
     {
@@ -153,7 +153,9 @@
       "landing_urls": [
         "https://akvatoriya.psk-info.ru/",
         "https://psk-info.ru/projects/akvatoriya-premialnyj-dom",
-        "https://aqua.psk-info.ru"
+        "https://aqua.psk-info.ru",
+        "https://aqua.psk-info.ru/",
+        "https://akvatoria-dom.mrqz.me/"
       ],
       "landing_urls_checked": "2026-10-21",
       "conditions_status": "требует проверки",
@@ -451,7 +453,9 @@
         "https://assambleya.psk-info.ru/",
         "https://project.assambleya-promo.psk-info.ru",
         "https://assambleya-promo.psk-info.ru",
-        "https://psk-info.ru/projects/assambleya-klubnyj-kvartal"
+        "https://psk-info.ru/projects/assambleya-klubnyj-kvartal",
+        "https://assambleya-promo.psk-info.ru/",
+        "https://mrqz.me/assambleya-psk"
       ],
       "landing_urls_checked": "2026-10-21",
       "conditions_status": "требует проверки",
@@ -1190,7 +1194,10 @@
       "landing_urls": [
         "https://gavan.psk-info.ru/",
         "https://psk-info.ru/projects/galernaya-gavan",
-        "https://gavan-pro.psk-info.ru"
+        "https://gavan-pro.psk-info.ru",
+        "https://dom.gavan.psk-info.ru",
+        "https://mrqz.me/gavan_psk",
+        "https://mrqz.me/gavan_psk_kr"
       ],
       "landing_urls_checked": "2026-10-21",
       "conditions_status": "требует проверки",
@@ -1820,10 +1827,12 @@
         "api/availability.json"
       ],
       "landing_urls": [
-        "https://nord-corona.ru/"
+        "https://nord-corona.ru/",
+        "https://mrqz.me/nord-corona"
       ],
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
+      "landing_urls_checked": "2026-10-21",
       "conditions": {
         "installment": [
           {
@@ -2409,6 +2418,7 @@
       ],
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
+      "landing_urls_checked": "2026-10-21",
       "conditions": {
         "mortgage": [
           {
@@ -2708,6 +2718,10 @@
       ],
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
+      "landing_urls": [
+        "https://pulkovsky.plus/dom/"
+      ],
+      "landing_urls_checked": "2026-10-21",
       "conditions": {
         "mortgage": [
           {
@@ -3454,10 +3468,12 @@
         "api/availability.json"
       ],
       "landing_urls": [
-        "https://sezony.psk-info.ru/"
+        "https://sezony.psk-info.ru/",
+        "https://psk-info.ru/projects/sezony-vidovoj-kompleks"
       ],
       "conditions_status": "требует проверки",
       "conditions_as_of": "2026-10-19",
+      "landing_urls_checked": "2026-10-21",
       "conditions": {
         "mortgage": [
           {

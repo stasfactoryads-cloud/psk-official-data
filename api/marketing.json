@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T10:36:03+00:00",
+  "generated_at": "2026-10-21T10:41:16+00:00",
   "source": "https://psk-info.ru/api/projects/<slug>/",
   "count": 13,
   "projects": {
@@ -318,7 +318,9 @@
       "landing_urls": [
         "https://akvatoriya.psk-info.ru/",
         "https://psk-info.ru/projects/akvatoriya-premialnyj-dom",
-        "https://aqua.psk-info.ru"
+        "https://aqua.psk-info.ru",
+        "https://aqua.psk-info.ru/",
+        "https://akvatoria-dom.mrqz.me/"
       ]
     },
     "assambleya-klubnyj-kvartal": {
@@ -602,7 +604,9 @@
         "https://assambleya.psk-info.ru/",
         "https://project.assambleya-promo.psk-info.ru",
         "https://assambleya-promo.psk-info.ru",
-        "https://psk-info.ru/projects/assambleya-klubnyj-kvartal"
+        "https://psk-info.ru/projects/assambleya-klubnyj-kvartal",
+        "https://assambleya-promo.psk-info.ru/",
+        "https://mrqz.me/assambleya-psk"
       ]
     },
     "galernaya-gavan": {
@@ -917,7 +921,10 @@
       "landing_urls": [
         "https://gavan.psk-info.ru/",
         "https://psk-info.ru/projects/galernaya-gavan",
-        "https://gavan-pro.psk-info.ru"
+        "https://gavan-pro.psk-info.ru",
+        "https://dom.gavan.psk-info.ru",
+        "https://mrqz.me/gavan_psk",
+        "https://mrqz.me/gavan_psk_kr"
       ]
     },
     "optimist-zhiloj-kompleks": {
@@ -1450,7 +1457,8 @@
       },
       "tags": [],
       "landing_urls": [
-        "https://sezony.psk-info.ru/"
+        "https://sezony.psk-info.ru/",
+        "https://psk-info.ru/projects/sezony-vidovoj-kompleks"
       ]
     },
     "plus-pulkovskij": {
@@ -1750,7 +1758,9 @@
       "tags": [
         "военная ипотека"
       ],
-      "landing_urls": []
+      "landing_urls": [
+        "https://pulkovsky.plus/dom/"
+      ]
     },
     "zhk-respect": {
       "id": 39,
@@ -2756,7 +2766,8 @@
       },
       "tags": [],
       "landing_urls": [
-        "https://nord-corona.ru/"
+        "https://nord-corona.ru/",
+        "https://mrqz.me/nord-corona"
       ]
     },
     "korona_apart": {
