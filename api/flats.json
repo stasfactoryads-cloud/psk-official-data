@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T19:18:35+00:00",
+  "generated_at": "2026-10-21T10:05:18+00:00",
   "source": "https://psk-info.ru/api/flats/",
-  "count": 2359,
+  "count": 2358,
   "flats": [
     {
       "id": 100654,
@@ -20,7 +20,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 5,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": true,
       "leasing": false,
@@ -1448,7 +1448,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": null,
+      "booking_days": 6,
       "finishing": "С отделкой",
       "assignment": true,
       "leasing": false,
@@ -1844,7 +1844,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -2795,7 +2795,7 @@
       "max_floor": 5,
       "price": 5842044.0,
       "original_price": "6491160.00",
-      "dvizh_min_mortgage": 11614,
+      "dvizh_min_mortgage": 11730,
       "min_mortgage": 1879,
       "discount": false,
       "tags": [
@@ -3620,7 +3620,7 @@
       "max_floor": 5,
       "price": 5884550.0,
       "original_price": "6538388.00",
-      "dvizh_min_mortgage": 11698,
+      "dvizh_min_mortgage": 11815,
       "min_mortgage": 1892,
       "discount": false,
       "tags": [
@@ -4049,7 +4049,7 @@
       "max_floor": 5,
       "price": 5916240.0,
       "original_price": "6573600.00",
-      "dvizh_min_mortgage": 11761,
+      "dvizh_min_mortgage": 11879,
       "min_mortgage": 1902,
       "discount": false,
       "tags": [
@@ -4082,7 +4082,7 @@
       "max_floor": 5,
       "price": 5918262.7,
       "original_price": "6575847.00",
-      "dvizh_min_mortgage": 11765,
+      "dvizh_min_mortgage": 11883,
       "min_mortgage": 1903,
       "discount": false,
       "tags": [
@@ -4247,7 +4247,7 @@
       "max_floor": 5,
       "price": 5960120.0,
       "original_price": "6622355.00",
-      "dvizh_min_mortgage": 11848,
+      "dvizh_min_mortgage": 11967,
       "min_mortgage": 1917,
       "discount": false,
       "tags": [
@@ -4313,7 +4313,7 @@
       "max_floor": 5,
       "price": 5962789.0,
       "original_price": "6625321.00",
-      "dvizh_min_mortgage": 11854,
+      "dvizh_min_mortgage": 11972,
       "min_mortgage": 1917,
       "discount": false,
       "tags": [
@@ -4412,7 +4412,7 @@
       "max_floor": 5,
       "price": 5967360.0,
       "original_price": "6630400.00",
-      "dvizh_min_mortgage": 11861,
+      "dvizh_min_mortgage": 11981,
       "min_mortgage": 1919,
       "discount": false,
       "tags": [
@@ -4702,7 +4702,7 @@
       "id": 336719,
       "number": "1103",
       "type": "apartments",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 0,
       "area": 25.7,
       "floor": 11,
@@ -4715,7 +4715,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -4775,7 +4775,7 @@
       "max_floor": 5,
       "price": 5989218.0,
       "original_price": "6654686.00",
-      "dvizh_min_mortgage": 11907,
+      "dvizh_min_mortgage": 12025,
       "min_mortgage": 1926,
       "discount": false,
       "tags": [
@@ -4841,7 +4841,7 @@
       "max_floor": 5,
       "price": 5995317.0,
       "original_price": "6661463.00",
-      "dvizh_min_mortgage": 11919,
+      "dvizh_min_mortgage": 12037,
       "min_mortgage": 1928,
       "discount": false,
       "tags": [
@@ -5270,13 +5270,13 @@
       "max_floor": 5,
       "price": 6004450.0,
       "original_price": "6671611.00",
-      "dvizh_min_mortgage": 11936,
+      "dvizh_min_mortgage": 12056,
       "min_mortgage": 1931,
       "discount": false,
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 2,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -5375,7 +5375,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": null,
+      "booking_days": 9,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -5408,7 +5408,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": null,
+      "booking_days": 9,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -5573,7 +5573,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 1,
+      "booking_days": 8,
       "finishing": "С отделкой",
       "assignment": true,
       "leasing": false,
@@ -5633,7 +5633,7 @@
       "max_floor": 5,
       "price": 6104600.0,
       "original_price": "6782888.00",
-      "dvizh_min_mortgage": 12135,
+      "dvizh_min_mortgage": 12257,
       "min_mortgage": 1963,
       "discount": false,
       "tags": [
@@ -5666,7 +5666,7 @@
       "max_floor": 5,
       "price": 6104600.0,
       "original_price": "6782888.00",
-      "dvizh_min_mortgage": 12135,
+      "dvizh_min_mortgage": 12257,
       "min_mortgage": 1963,
       "discount": false,
       "tags": [
@@ -5699,7 +5699,7 @@
       "max_floor": 5,
       "price": 6112337.4,
       "original_price": "6791486.00",
-      "dvizh_min_mortgage": 12150,
+      "dvizh_min_mortgage": 12272,
       "min_mortgage": 1965,
       "discount": false,
       "tags": [
@@ -5837,7 +5837,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -5870,7 +5870,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -5897,7 +5897,7 @@
       "max_floor": 5,
       "price": 6145250.0,
       "original_price": "6828055.00",
-      "dvizh_min_mortgage": 12216,
+      "dvizh_min_mortgage": 12338,
       "min_mortgage": 1976,
       "discount": false,
       "tags": [
@@ -5930,7 +5930,7 @@
       "max_floor": 5,
       "price": 6145250.0,
       "original_price": "6828055.00",
-      "dvizh_min_mortgage": 12216,
+      "dvizh_min_mortgage": 12338,
       "min_mortgage": 1976,
       "discount": false,
       "tags": [
@@ -5963,7 +5963,7 @@
       "max_floor": 5,
       "price": 6168960.0,
       "original_price": "6854400.00",
-      "dvizh_min_mortgage": 12264,
+      "dvizh_min_mortgage": 12386,
       "min_mortgage": 1984,
       "discount": false,
       "tags": [
@@ -5996,7 +5996,7 @@
       "max_floor": 5,
       "price": 6178590.0,
       "original_price": "6865100.00",
-      "dvizh_min_mortgage": 12282,
+      "dvizh_min_mortgage": 12405,
       "min_mortgage": 1987,
       "discount": false,
       "tags": [
@@ -6029,7 +6029,7 @@
       "max_floor": 5,
       "price": 6228800.0,
       "original_price": "6920888.00",
-      "dvizh_min_mortgage": 12382,
+      "dvizh_min_mortgage": 12506,
       "min_mortgage": 2003,
       "discount": false,
       "tags": [
@@ -6062,7 +6062,7 @@
       "max_floor": 5,
       "price": 6233000.0,
       "original_price": "6925555.00",
-      "dvizh_min_mortgage": 12390,
+      "dvizh_min_mortgage": 12514,
       "min_mortgage": 2004,
       "discount": false,
       "tags": [
@@ -6095,7 +6095,7 @@
       "max_floor": 5,
       "price": 6269340.0,
       "original_price": "6965933.00",
-      "dvizh_min_mortgage": 12462,
+      "dvizh_min_mortgage": 12587,
       "min_mortgage": 2016,
       "discount": false,
       "tags": [
@@ -6128,7 +6128,7 @@
       "max_floor": 5,
       "price": 6270000.0,
       "original_price": "6966666.00",
-      "dvizh_min_mortgage": 12465,
+      "dvizh_min_mortgage": 12589,
       "min_mortgage": 2016,
       "discount": false,
       "tags": [
@@ -6161,7 +6161,7 @@
       "max_floor": 5,
       "price": 6276840.0,
       "original_price": "6974266.00",
-      "dvizh_min_mortgage": 12479,
+      "dvizh_min_mortgage": 12603,
       "min_mortgage": 2018,
       "discount": false,
       "tags": [
@@ -6194,7 +6194,7 @@
       "max_floor": 5,
       "price": 6279000.0,
       "original_price": "6976666.00",
-      "dvizh_min_mortgage": 12482,
+      "dvizh_min_mortgage": 12607,
       "min_mortgage": 2019,
       "discount": false,
       "tags": [
@@ -6227,7 +6227,7 @@
       "max_floor": 5,
       "price": 6285960.0,
       "original_price": "6984400.00",
-      "dvizh_min_mortgage": 12497,
+      "dvizh_min_mortgage": 12621,
       "min_mortgage": 2021,
       "discount": false,
       "tags": [
@@ -6260,7 +6260,7 @@
       "max_floor": 5,
       "price": 6292440.0,
       "original_price": "6991600.00",
-      "dvizh_min_mortgage": 12509,
+      "dvizh_min_mortgage": 12634,
       "min_mortgage": 2023,
       "discount": false,
       "tags": [
@@ -6293,7 +6293,7 @@
       "max_floor": 5,
       "price": 6299370.0,
       "original_price": "6999300.00",
-      "dvizh_min_mortgage": 12523,
+      "dvizh_min_mortgage": 12648,
       "min_mortgage": 2026,
       "discount": false,
       "tags": [
@@ -6326,7 +6326,7 @@
       "max_floor": 5,
       "price": 6315800.0,
       "original_price": "7017555.00",
-      "dvizh_min_mortgage": 12556,
+      "dvizh_min_mortgage": 12681,
       "min_mortgage": 2031,
       "discount": false,
       "tags": [
@@ -6392,7 +6392,7 @@
       "max_floor": 5,
       "price": 6618700.0,
       "original_price": "7354111.00",
-      "dvizh_min_mortgage": 13158,
+      "dvizh_min_mortgage": 13289,
       "min_mortgage": 2128,
       "discount": false,
       "tags": [
@@ -6425,7 +6425,7 @@
       "max_floor": 5,
       "price": 6621570.0,
       "original_price": "7357300.00",
-      "dvizh_min_mortgage": 13164,
+      "dvizh_min_mortgage": 13295,
       "min_mortgage": 2129,
       "discount": false,
       "tags": [
@@ -6458,7 +6458,7 @@
       "max_floor": 5,
       "price": 6625960.0,
       "original_price": "7362177.00",
-      "dvizh_min_mortgage": 13172,
+      "dvizh_min_mortgage": 13303,
       "min_mortgage": 2131,
       "discount": false,
       "tags": [
@@ -6491,7 +6491,7 @@
       "max_floor": 5,
       "price": 6633220.0,
       "original_price": "7370244.00",
-      "dvizh_min_mortgage": 13187,
+      "dvizh_min_mortgage": 13318,
       "min_mortgage": 2133,
       "discount": false,
       "tags": [
@@ -6524,7 +6524,7 @@
       "max_floor": 5,
       "price": 6678900.0,
       "original_price": "7421000.00",
-      "dvizh_min_mortgage": 13276,
+      "dvizh_min_mortgage": 13410,
       "min_mortgage": 2148,
       "discount": false,
       "tags": [
@@ -6557,7 +6557,7 @@
       "max_floor": 5,
       "price": 6678900.0,
       "original_price": "7421000.00",
-      "dvizh_min_mortgage": 13276,
+      "dvizh_min_mortgage": 13410,
       "min_mortgage": 2148,
       "discount": false,
       "tags": [
@@ -6590,7 +6590,7 @@
       "max_floor": 5,
       "price": 6721820.0,
       "original_price": "7468688.00",
-      "dvizh_min_mortgage": 13362,
+      "dvizh_min_mortgage": 13496,
       "min_mortgage": 2162,
       "discount": false,
       "tags": [
@@ -6623,7 +6623,7 @@
       "max_floor": 5,
       "price": 6758960.0,
       "original_price": "7509955.00",
-      "dvizh_min_mortgage": 13436,
+      "dvizh_min_mortgage": 13571,
       "min_mortgage": 2173,
       "discount": false,
       "tags": [
@@ -6656,7 +6656,7 @@
       "max_floor": 5,
       "price": 6770540.0,
       "original_price": "7522822.00",
-      "dvizh_min_mortgage": 13462,
+      "dvizh_min_mortgage": 13594,
       "min_mortgage": 2177,
       "discount": false,
       "tags": [
@@ -6751,7 +6751,7 @@
       "max_floor": 5,
       "price": 6826680.0,
       "original_price": "7585200.00",
-      "dvizh_min_mortgage": 13572,
+      "dvizh_min_mortgage": 13706,
       "min_mortgage": 2195,
       "discount": false,
       "tags": [
@@ -6846,7 +6846,7 @@
       "max_floor": 5,
       "price": 6872400.0,
       "original_price": "7636000.00",
-      "dvizh_min_mortgage": 13660,
+      "dvizh_min_mortgage": 13798,
       "min_mortgage": 2210,
       "discount": false,
       "tags": [
@@ -7003,7 +7003,7 @@
       "max_floor": 5,
       "price": 6886220.0,
       "original_price": "7651355.00",
-      "dvizh_min_mortgage": 13687,
+      "dvizh_min_mortgage": 13826,
       "min_mortgage": 2214,
       "discount": false,
       "tags": [
@@ -7036,7 +7036,7 @@
       "max_floor": 5,
       "price": 6894400.0,
       "original_price": "7660444.00",
-      "dvizh_min_mortgage": 13703,
+      "dvizh_min_mortgage": 13842,
       "min_mortgage": 2217,
       "discount": false,
       "tags": [
@@ -7288,7 +7288,7 @@
       "max_floor": 5,
       "price": 6924232.4,
       "original_price": "7693591.00",
-      "dvizh_min_mortgage": 13765,
+      "dvizh_min_mortgage": 13902,
       "min_mortgage": 2227,
       "discount": false,
       "tags": [
@@ -7354,7 +7354,7 @@
       "max_floor": 5,
       "price": 6932520.0,
       "original_price": "7702800.00",
-      "dvizh_min_mortgage": 13782,
+      "dvizh_min_mortgage": 13919,
       "min_mortgage": 2229,
       "discount": false,
       "tags": [
@@ -7387,7 +7387,7 @@
       "max_floor": 5,
       "price": 6932640.0,
       "original_price": "7702933.00",
-      "dvizh_min_mortgage": 13781,
+      "dvizh_min_mortgage": 13919,
       "min_mortgage": 2229,
       "discount": false,
       "tags": [
@@ -7420,7 +7420,7 @@
       "max_floor": 5,
       "price": 6940380.0,
       "original_price": "7711533.00",
-      "dvizh_min_mortgage": 13798,
+      "dvizh_min_mortgage": 13935,
       "min_mortgage": 2232,
       "discount": false,
       "tags": [
@@ -7453,13 +7453,13 @@
       "max_floor": 5,
       "price": 6940560.0,
       "original_price": "7711733.00",
-      "dvizh_min_mortgage": 13797,
+      "dvizh_min_mortgage": 13935,
       "min_mortgage": 2232,
       "discount": false,
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 9,
+      "booking_days": 8,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -7486,7 +7486,7 @@
       "max_floor": 5,
       "price": 6945830.0,
       "original_price": "7717588.00",
-      "dvizh_min_mortgage": 13808,
+      "dvizh_min_mortgage": 13946,
       "min_mortgage": 2234,
       "discount": false,
       "tags": [
@@ -7550,7 +7550,7 @@
       "max_floor": 5,
       "price": 6948480.0,
       "original_price": "7720533.00",
-      "dvizh_min_mortgage": 13813,
+      "dvizh_min_mortgage": 13951,
       "min_mortgage": 2234,
       "discount": false,
       "tags": [
@@ -7583,7 +7583,7 @@
       "max_floor": 5,
       "price": 6950860.0,
       "original_price": "7723177.00",
-      "dvizh_min_mortgage": 13819,
+      "dvizh_min_mortgage": 13956,
       "min_mortgage": 2235,
       "discount": false,
       "tags": [
@@ -7616,7 +7616,7 @@
       "max_floor": 5,
       "price": 6951455.7,
       "original_price": "7723839.00",
-      "dvizh_min_mortgage": 13819,
+      "dvizh_min_mortgage": 13957,
       "min_mortgage": 2235,
       "discount": false,
       "tags": [
@@ -7804,7 +7804,7 @@
       "max_floor": 5,
       "price": 7016760.0,
       "original_price": "7796400.00",
-      "dvizh_min_mortgage": 13949,
+      "dvizh_min_mortgage": 14088,
       "min_mortgage": 2256,
       "discount": false,
       "tags": [
@@ -7868,7 +7868,7 @@
       "max_floor": 5,
       "price": 7054320.0,
       "original_price": "7838133.00",
-      "dvizh_min_mortgage": 14021,
+      "dvizh_min_mortgage": 14164,
       "min_mortgage": 2268,
       "discount": false,
       "tags": [
@@ -7901,7 +7901,7 @@
       "max_floor": 5,
       "price": 7058400.0,
       "original_price": "7842666.00",
-      "dvizh_min_mortgage": 14030,
+      "dvizh_min_mortgage": 14172,
       "min_mortgage": 2270,
       "discount": false,
       "tags": [
@@ -7934,7 +7934,7 @@
       "max_floor": 5,
       "price": 7066560.0,
       "original_price": "7851733.00",
-      "dvizh_min_mortgage": 14046,
+      "dvizh_min_mortgage": 14188,
       "min_mortgage": 2272,
       "discount": false,
       "tags": [
@@ -7998,7 +7998,7 @@
       "max_floor": 5,
       "price": 7074720.0,
       "original_price": "7860800.00",
-      "dvizh_min_mortgage": 14062,
+      "dvizh_min_mortgage": 14204,
       "min_mortgage": 2275,
       "discount": false,
       "tags": [
@@ -8064,7 +8064,7 @@
       "max_floor": 5,
       "price": 7078500.0,
       "original_price": "7865000.00",
-      "dvizh_min_mortgage": 14074,
+      "dvizh_min_mortgage": 14212,
       "min_mortgage": 2276,
       "discount": false,
       "tags": [
@@ -8097,7 +8097,7 @@
       "max_floor": 5,
       "price": 7084350.0,
       "original_price": "7871500.00",
-      "dvizh_min_mortgage": 14081,
+      "dvizh_min_mortgage": 14224,
       "min_mortgage": 2278,
       "discount": false,
       "tags": [
@@ -8130,7 +8130,7 @@
       "max_floor": 5,
       "price": 7085850.0,
       "original_price": "7873166.00",
-      "dvizh_min_mortgage": 14087,
+      "dvizh_min_mortgage": 14227,
       "min_mortgage": 2279,
       "discount": false,
       "tags": [
@@ -8163,7 +8163,7 @@
       "max_floor": 5,
       "price": 7092540.0,
       "original_price": "7880600.00",
-      "dvizh_min_mortgage": 14098,
+      "dvizh_min_mortgage": 14240,
       "min_mortgage": 2281,
       "discount": false,
       "tags": [
@@ -8229,7 +8229,7 @@
       "max_floor": 5,
       "price": 7100730.0,
       "original_price": "7889700.00",
-      "dvizh_min_mortgage": 14114,
+      "dvizh_min_mortgage": 14257,
       "min_mortgage": 2283,
       "discount": false,
       "tags": [
@@ -8293,7 +8293,7 @@
       "max_floor": 5,
       "price": 7108750.0,
       "original_price": "7898611.00",
-      "dvizh_min_mortgage": 14129,
+      "dvizh_min_mortgage": 14273,
       "min_mortgage": 2286,
       "discount": false,
       "tags": [
@@ -8326,7 +8326,7 @@
       "max_floor": 5,
       "price": 7117000.0,
       "original_price": "7907777.00",
-      "dvizh_min_mortgage": 14146,
+      "dvizh_min_mortgage": 14289,
       "min_mortgage": 2289,
       "discount": false,
       "tags": [
@@ -8359,7 +8359,7 @@
       "max_floor": 5,
       "price": 7125250.0,
       "original_price": "7916944.00",
-      "dvizh_min_mortgage": 14162,
+      "dvizh_min_mortgage": 14306,
       "min_mortgage": 2291,
       "discount": false,
       "tags": [
@@ -8485,7 +8485,7 @@
       "max_floor": 5,
       "price": 7222314.0,
       "original_price": "8024793.00",
-      "dvizh_min_mortgage": 14356,
+      "dvizh_min_mortgage": 14501,
       "min_mortgage": 2322,
       "discount": false,
       "tags": [
@@ -8549,7 +8549,7 @@
       "max_floor": 5,
       "price": 7239792.0,
       "original_price": "8044213.00",
-      "dvizh_min_mortgage": 14390,
+      "dvizh_min_mortgage": 14536,
       "min_mortgage": 2328,
       "discount": false,
       "tags": [
@@ -8613,7 +8613,7 @@
       "max_floor": 5,
       "price": 7248276.0,
       "original_price": "8053640.00",
-      "dvizh_min_mortgage": 14407,
+      "dvizh_min_mortgage": 14553,
       "min_mortgage": 2331,
       "discount": false,
       "tags": [
@@ -8677,7 +8677,7 @@
       "max_floor": 5,
       "price": 7251658.2,
       "original_price": "8057398.00",
-      "dvizh_min_mortgage": 14418,
+      "dvizh_min_mortgage": 14560,
       "min_mortgage": 2332,
       "discount": false,
       "tags": [
@@ -8805,7 +8805,7 @@
       "max_floor": 5,
       "price": 7294196.0,
       "original_price": "8104662.00",
-      "dvizh_min_mortgage": 14502,
+      "dvizh_min_mortgage": 14645,
       "min_mortgage": 2346,
       "discount": false,
       "tags": [
@@ -8838,7 +8838,7 @@
       "max_floor": 5,
       "price": 7294760.0,
       "original_price": "8105288.00",
-      "dvizh_min_mortgage": 14500,
+      "dvizh_min_mortgage": 14646,
       "min_mortgage": 2346,
       "discount": false,
       "tags": [
@@ -8871,7 +8871,7 @@
       "max_floor": 5,
       "price": 7303088.4,
       "original_price": "8114542.00",
-      "dvizh_min_mortgage": 14520,
+      "dvizh_min_mortgage": 14663,
       "min_mortgage": 2348,
       "discount": false,
       "tags": [
@@ -8904,7 +8904,7 @@
       "max_floor": 5,
       "price": 7303190.0,
       "original_price": "8114655.00",
-      "dvizh_min_mortgage": 14517,
+      "dvizh_min_mortgage": 14663,
       "min_mortgage": 2348,
       "discount": false,
       "tags": [
@@ -8937,7 +8937,7 @@
       "max_floor": 5,
       "price": 7307400.0,
       "original_price": "8119333.00",
-      "dvizh_min_mortgage": 14529,
+      "dvizh_min_mortgage": 14672,
       "min_mortgage": 2350,
       "discount": false,
       "tags": [
@@ -9199,7 +9199,7 @@
       "max_floor": 5,
       "price": 7343217.6,
       "original_price": "8159130.00",
-      "dvizh_min_mortgage": 14595,
+      "dvizh_min_mortgage": 14744,
       "min_mortgage": 2361,
       "discount": false,
       "tags": [
@@ -9232,7 +9232,7 @@
       "max_floor": 5,
       "price": 7351822.8,
       "original_price": "8168692.00",
-      "dvizh_min_mortgage": 14613,
+      "dvizh_min_mortgage": 14761,
       "min_mortgage": 2364,
       "discount": false,
       "tags": [
@@ -9265,7 +9265,7 @@
       "max_floor": 5,
       "price": 7355494.0,
       "original_price": "8172771.00",
-      "dvizh_min_mortgage": 14624,
+      "dvizh_min_mortgage": 14768,
       "min_mortgage": 2365,
       "discount": false,
       "tags": [
@@ -9461,7 +9461,7 @@
       "max_floor": 5,
       "price": 7414551.0,
       "original_price": "8238390.00",
-      "dvizh_min_mortgage": 14741,
+      "dvizh_min_mortgage": 14887,
       "min_mortgage": 2384,
       "discount": false,
       "tags": [
@@ -9622,7 +9622,7 @@
       "max_floor": 5,
       "price": 7495719.0,
       "original_price": "8328576.00",
-      "dvizh_min_mortgage": 14901,
+      "dvizh_min_mortgage": 15050,
       "min_mortgage": 2410,
       "discount": false,
       "tags": [
@@ -9967,7 +9967,7 @@
       "max_floor": 5,
       "price": 7630960.0,
       "original_price": "8478844.00",
-      "dvizh_min_mortgage": 15170,
+      "dvizh_min_mortgage": 15321,
       "min_mortgage": 2454,
       "discount": false,
       "tags": [
@@ -10093,13 +10093,13 @@
       "max_floor": 5,
       "price": 7704064.0,
       "original_price": "8560071.00",
-      "dvizh_min_mortgage": 15315,
+      "dvizh_min_mortgage": 15468,
       "min_mortgage": 2477,
       "discount": false,
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 8,
+      "booking_days": 7,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -10126,7 +10126,7 @@
       "max_floor": 5,
       "price": 7721680.0,
       "original_price": "8579644.00",
-      "dvizh_min_mortgage": 15350,
+      "dvizh_min_mortgage": 15503,
       "min_mortgage": 2483,
       "discount": false,
       "tags": [
@@ -10648,7 +10648,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -11187,7 +11187,7 @@
       "max_floor": 5,
       "price": 8887740.0,
       "original_price": "9875266.00",
-      "dvizh_min_mortgage": 17583,
+      "dvizh_min_mortgage": 17845,
       "min_mortgage": 2858,
       "discount": false,
       "tags": [
@@ -11226,7 +11226,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -11286,7 +11286,7 @@
       "max_floor": 5,
       "price": 8921140.0,
       "original_price": "9912377.00",
-      "dvizh_min_mortgage": 17650,
+      "dvizh_min_mortgage": 17912,
       "min_mortgage": 2869,
       "discount": false,
       "tags": [
@@ -11352,7 +11352,7 @@
       "max_floor": 5,
       "price": 8944520.0,
       "original_price": "9938355.00",
-      "dvizh_min_mortgage": 17690,
+      "dvizh_min_mortgage": 17959,
       "min_mortgage": 2876,
       "discount": false,
       "tags": [
@@ -11385,7 +11385,7 @@
       "max_floor": 5,
       "price": 8956296.0,
       "original_price": "9951440.00",
-      "dvizh_min_mortgage": 17715,
+      "dvizh_min_mortgage": 17982,
       "min_mortgage": 2880,
       "discount": false,
       "tags": [
@@ -11451,7 +11451,7 @@
       "max_floor": 5,
       "price": 8979874.7,
       "original_price": "9977638.00",
-      "dvizh_min_mortgage": 17763,
+      "dvizh_min_mortgage": 18030,
       "min_mortgage": 2888,
       "discount": false,
       "tags": [
@@ -11517,7 +11517,7 @@
       "max_floor": 5,
       "price": 8982000.0,
       "original_price": "9980000.00",
-      "dvizh_min_mortgage": 17766,
+      "dvizh_min_mortgage": 18034,
       "min_mortgage": 2888,
       "discount": false,
       "tags": [
@@ -11550,7 +11550,7 @@
       "max_floor": 5,
       "price": 8990449.4,
       "original_price": "9989388.00",
-      "dvizh_min_mortgage": 17785,
+      "dvizh_min_mortgage": 18051,
       "min_mortgage": 2891,
       "discount": false,
       "tags": [
@@ -11649,7 +11649,7 @@
       "max_floor": 5,
       "price": 8997710.0,
       "original_price": "9997455.00",
-      "dvizh_min_mortgage": 17801,
+      "dvizh_min_mortgage": 18065,
       "min_mortgage": 2894,
       "discount": false,
       "tags": [
@@ -11715,7 +11715,7 @@
       "max_floor": 5,
       "price": 9008120.0,
       "original_price": "10009022.00",
-      "dvizh_min_mortgage": 17822,
+      "dvizh_min_mortgage": 18086,
       "min_mortgage": 2897,
       "discount": false,
       "tags": [
@@ -11748,7 +11748,7 @@
       "max_floor": 5,
       "price": 9011850.0,
       "original_price": "10013166.00",
-      "dvizh_min_mortgage": 17830,
+      "dvizh_min_mortgage": 18094,
       "min_mortgage": 2898,
       "discount": false,
       "tags": [
@@ -11814,7 +11814,7 @@
       "max_floor": 5,
       "price": 9018530.0,
       "original_price": "10020588.00",
-      "dvizh_min_mortgage": 17842,
+      "dvizh_min_mortgage": 18107,
       "min_mortgage": 2900,
       "discount": false,
       "tags": [
@@ -11913,7 +11913,7 @@
       "max_floor": 5,
       "price": 9056960.0,
       "original_price": "10063288.00",
-      "dvizh_min_mortgage": 17916,
+      "dvizh_min_mortgage": 18184,
       "min_mortgage": 2913,
       "discount": false,
       "tags": [
@@ -11979,7 +11979,7 @@
       "max_floor": 5,
       "price": 9058936.04,
       "original_price": "10065484.00",
-      "dvizh_min_mortgage": 17920,
+      "dvizh_min_mortgage": 18188,
       "min_mortgage": 2913,
       "discount": false,
       "tags": [
@@ -12012,7 +12012,7 @@
       "max_floor": 5,
       "price": 9077288.0,
       "original_price": "10085875.00",
-      "dvizh_min_mortgage": 17954,
+      "dvizh_min_mortgage": 18225,
       "min_mortgage": 2919,
       "discount": false,
       "tags": [
@@ -12045,7 +12045,7 @@
       "max_floor": 5,
       "price": 9079077.8,
       "original_price": "10087864.00",
-      "dvizh_min_mortgage": 17956,
+      "dvizh_min_mortgage": 18229,
       "min_mortgage": 2920,
       "discount": false,
       "tags": [
@@ -12144,7 +12144,7 @@
       "max_floor": 5,
       "price": 9088864.7,
       "original_price": "10098738.00",
-      "dvizh_min_mortgage": 17976,
+      "dvizh_min_mortgage": 18248,
       "min_mortgage": 2923,
       "discount": false,
       "tags": [
@@ -12210,7 +12210,7 @@
       "max_floor": 5,
       "price": 9098554.7,
       "original_price": "10109505.00",
-      "dvizh_min_mortgage": 17996,
+      "dvizh_min_mortgage": 18268,
       "min_mortgage": 2926,
       "discount": false,
       "tags": [
@@ -12276,7 +12276,7 @@
       "max_floor": 5,
       "price": 9114000.0,
       "original_price": "10126666.00",
-      "dvizh_min_mortgage": 18031,
+      "dvizh_min_mortgage": 18299,
       "min_mortgage": 2931,
       "discount": false,
       "tags": [
@@ -12309,7 +12309,7 @@
       "max_floor": 5,
       "price": 9127500.0,
       "original_price": "10141666.00",
-      "dvizh_min_mortgage": 18055,
+      "dvizh_min_mortgage": 18326,
       "min_mortgage": 2935,
       "discount": false,
       "tags": [
@@ -12408,7 +12408,7 @@
       "max_floor": 5,
       "price": 9188400.0,
       "original_price": "10209333.00",
-      "dvizh_min_mortgage": 18174,
+      "dvizh_min_mortgage": 18448,
       "min_mortgage": 2955,
       "discount": false,
       "tags": [
@@ -12507,7 +12507,7 @@
       "max_floor": 5,
       "price": 9211796.4,
       "original_price": "10235329.00",
-      "dvizh_min_mortgage": 18221,
+      "dvizh_min_mortgage": 18495,
       "min_mortgage": 2962,
       "discount": false,
       "tags": [
@@ -12606,7 +12606,7 @@
       "max_floor": 5,
       "price": 9233551.8,
       "original_price": "10259502.00",
-      "dvizh_min_mortgage": 18265,
+      "dvizh_min_mortgage": 18539,
       "min_mortgage": 2969,
       "discount": false,
       "tags": [
@@ -12738,7 +12738,7 @@
       "max_floor": 5,
       "price": 9256450.0,
       "original_price": "10284944.00",
-      "dvizh_min_mortgage": 18309,
+      "dvizh_min_mortgage": 18585,
       "min_mortgage": 2977,
       "discount": false,
       "tags": [
@@ -12771,7 +12771,7 @@
       "max_floor": 5,
       "price": 9262800.0,
       "original_price": "10292000.00",
-      "dvizh_min_mortgage": 18323,
+      "dvizh_min_mortgage": 18598,
       "min_mortgage": 2979,
       "discount": false,
       "tags": [
@@ -12837,7 +12837,7 @@
       "max_floor": 5,
       "price": 9273600.0,
       "original_price": "10304000.00",
-      "dvizh_min_mortgage": 18345,
+      "dvizh_min_mortgage": 18619,
       "min_mortgage": 2982,
       "discount": false,
       "tags": [
@@ -12936,7 +12936,7 @@
       "max_floor": 5,
       "price": 9303690.0,
       "original_price": "10337433.00",
-      "dvizh_min_mortgage": 18403,
+      "dvizh_min_mortgage": 18680,
       "min_mortgage": 2992,
       "discount": false,
       "tags": [
@@ -12969,7 +12969,7 @@
       "max_floor": 5,
       "price": 9313920.0,
       "original_price": "10348800.00",
-      "dvizh_min_mortgage": 18425,
+      "dvizh_min_mortgage": 18700,
       "min_mortgage": 2995,
       "discount": false,
       "tags": [
@@ -13002,7 +13002,7 @@
       "max_floor": 5,
       "price": 9335361.3,
       "original_price": "10372623.00",
-      "dvizh_min_mortgage": 18467,
+      "dvizh_min_mortgage": 18743,
       "min_mortgage": 3002,
       "discount": false,
       "tags": [
@@ -13035,7 +13035,7 @@
       "max_floor": 5,
       "price": 9337680.0,
       "original_price": "10375200.00",
-      "dvizh_min_mortgage": 18472,
+      "dvizh_min_mortgage": 18748,
       "min_mortgage": 3003,
       "discount": false,
       "tags": [
@@ -13068,7 +13068,7 @@
       "max_floor": 5,
       "price": 9386823.6,
       "original_price": "10429804.00",
-      "dvizh_min_mortgage": 18568,
+      "dvizh_min_mortgage": 18847,
       "min_mortgage": 3019,
       "discount": false,
       "tags": [
@@ -13101,7 +13101,7 @@
       "max_floor": 5,
       "price": 9417180.0,
       "original_price": "10463533.00",
-      "dvizh_min_mortgage": 18628,
+      "dvizh_min_mortgage": 18908,
       "min_mortgage": 3028,
       "discount": false,
       "tags": [
@@ -13134,7 +13134,7 @@
       "max_floor": 5,
       "price": 9428160.0,
       "original_price": "10475733.00",
-      "dvizh_min_mortgage": 18650,
+      "dvizh_min_mortgage": 18930,
       "min_mortgage": 3032,
       "discount": false,
       "tags": [
@@ -13167,7 +13167,7 @@
       "max_floor": 5,
       "price": 9457470.0,
       "original_price": "10508300.00",
-      "dvizh_min_mortgage": 18707,
+      "dvizh_min_mortgage": 18989,
       "min_mortgage": 3041,
       "discount": false,
       "tags": [
@@ -13299,7 +13299,7 @@
       "max_floor": 5,
       "price": 9495684.8,
       "original_price": "10550760.00",
-      "dvizh_min_mortgage": 18781,
+      "dvizh_min_mortgage": 19065,
       "min_mortgage": 3054,
       "discount": false,
       "tags": [
@@ -13332,7 +13332,7 @@
       "max_floor": 5,
       "price": 9506986.7,
       "original_price": "10563318.00",
-      "dvizh_min_mortgage": 18803,
+      "dvizh_min_mortgage": 19088,
       "min_mortgage": 3057,
       "discount": false,
       "tags": [
@@ -13398,7 +13398,7 @@
       "max_floor": 5,
       "price": 9518288.6,
       "original_price": "10575876.00",
-      "dvizh_min_mortgage": 18826,
+      "dvizh_min_mortgage": 19111,
       "min_mortgage": 3061,
       "discount": false,
       "tags": [
@@ -13431,7 +13431,7 @@
       "max_floor": 5,
       "price": 9526561.6,
       "original_price": "10585068.00",
-      "dvizh_min_mortgage": 18848,
+      "dvizh_min_mortgage": 19127,
       "min_mortgage": 3064,
       "discount": false,
       "tags": [
@@ -13497,13 +13497,13 @@
       "max_floor": 5,
       "price": 9538700.0,
       "original_price": "10598555.00",
-      "dvizh_min_mortgage": 18868,
+      "dvizh_min_mortgage": 19152,
       "min_mortgage": 3068,
       "discount": false,
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -13536,7 +13536,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 2,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -13596,7 +13596,7 @@
       "max_floor": 5,
       "price": 9578520.0,
       "original_price": "10642800.00",
-      "dvizh_min_mortgage": 18948,
+      "dvizh_min_mortgage": 19232,
       "min_mortgage": 3080,
       "discount": false,
       "tags": [
@@ -13662,7 +13662,7 @@
       "max_floor": 5,
       "price": 9589380.0,
       "original_price": "10654866.00",
-      "dvizh_min_mortgage": 18970,
+      "dvizh_min_mortgage": 19253,
       "min_mortgage": 3084,
       "discount": false,
       "tags": [
@@ -13821,7 +13821,7 @@
       "max_floor": 5,
       "price": 9687018.0,
       "original_price": "10763353.00",
-      "dvizh_min_mortgage": 19164,
+      "dvizh_min_mortgage": 19449,
       "min_mortgage": 3115,
       "discount": false,
       "tags": [
@@ -13854,7 +13854,7 @@
       "max_floor": 5,
       "price": 9697700.0,
       "original_price": "10775222.00",
-      "dvizh_min_mortgage": 19181,
+      "dvizh_min_mortgage": 19471,
       "min_mortgage": 3119,
       "discount": false,
       "tags": [
@@ -13920,7 +13920,7 @@
       "max_floor": 5,
       "price": 9736280.0,
       "original_price": "10818088.00",
-      "dvizh_min_mortgage": 19258,
+      "dvizh_min_mortgage": 19548,
       "min_mortgage": 3131,
       "discount": false,
       "tags": [
@@ -14050,7 +14050,7 @@
       "max_floor": 5,
       "price": 9759900.7,
       "original_price": "10844334.00",
-      "dvizh_min_mortgage": 19310,
+      "dvizh_min_mortgage": 19596,
       "min_mortgage": 3139,
       "discount": false,
       "tags": [
@@ -14178,13 +14178,13 @@
       "max_floor": 5,
       "price": 9798150.0,
       "original_price": "10886833.00",
-      "dvizh_min_mortgage": 19381,
+      "dvizh_min_mortgage": 19673,
       "min_mortgage": 3151,
       "discount": false,
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 12,
+      "booking_days": 11,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -14211,7 +14211,7 @@
       "max_floor": 5,
       "price": 9803395.8,
       "original_price": "10892662.00",
-      "dvizh_min_mortgage": 19392,
+      "dvizh_min_mortgage": 19683,
       "min_mortgage": 3153,
       "discount": false,
       "tags": [
@@ -14370,7 +14370,7 @@
       "max_floor": 5,
       "price": 9871640.0,
       "original_price": "10968488.00",
-      "dvizh_min_mortgage": 19526,
+      "dvizh_min_mortgage": 19820,
       "min_mortgage": 3175,
       "discount": false,
       "tags": [
@@ -14403,7 +14403,7 @@
       "max_floor": 5,
       "price": 9881150.0,
       "original_price": "10979055.00",
-      "dvizh_min_mortgage": 19548,
+      "dvizh_min_mortgage": 19839,
       "min_mortgage": 3178,
       "discount": false,
       "tags": [
@@ -14436,7 +14436,7 @@
       "max_floor": 5,
       "price": 9925000.0,
       "original_price": "11027777.00",
-      "dvizh_min_mortgage": 19632,
+      "dvizh_min_mortgage": 19927,
       "min_mortgage": 3192,
       "discount": false,
       "tags": [
@@ -14469,7 +14469,7 @@
       "max_floor": 5,
       "price": 9975936.0,
       "original_price": "11084373.00",
-      "dvizh_min_mortgage": 19735,
+      "dvizh_min_mortgage": 20029,
       "min_mortgage": 3208,
       "discount": false,
       "tags": [
@@ -14502,7 +14502,7 @@
       "max_floor": 5,
       "price": 9976983.0,
       "original_price": "11085536.00",
-      "dvizh_min_mortgage": 19733,
+      "dvizh_min_mortgage": 20032,
       "min_mortgage": 3208,
       "discount": false,
       "tags": [
@@ -14566,7 +14566,7 @@
       "max_floor": 5,
       "price": 9980580.0,
       "original_price": "11089533.00",
-      "dvizh_min_mortgage": 19744,
+      "dvizh_min_mortgage": 20039,
       "min_mortgage": 3210,
       "discount": false,
       "tags": [
@@ -14630,7 +14630,7 @@
       "max_floor": 5,
       "price": 9989812.0,
       "original_price": "11099791.00",
-      "dvizh_min_mortgage": 19761,
+      "dvizh_min_mortgage": 20057,
       "min_mortgage": 3213,
       "discount": false,
       "tags": [
@@ -14663,7 +14663,7 @@
       "max_floor": 5,
       "price": 9992490.0,
       "original_price": "11102766.00",
-      "dvizh_min_mortgage": 19768,
+      "dvizh_min_mortgage": 20063,
       "min_mortgage": 3213,
       "discount": false,
       "tags": [
@@ -14727,7 +14727,7 @@
       "max_floor": 5,
       "price": 9998472.0,
       "original_price": "11109413.00",
-      "dvizh_min_mortgage": 19781,
+      "dvizh_min_mortgage": 20075,
       "min_mortgage": 3215,
       "discount": false,
       "tags": [
@@ -14760,7 +14760,7 @@
       "max_floor": 5,
       "price": 10005360.0,
       "original_price": "11117066.00",
-      "dvizh_min_mortgage": 19794,
+      "dvizh_min_mortgage": 20089,
       "min_mortgage": 3218,
       "discount": false,
       "tags": [
@@ -14793,7 +14793,7 @@
       "max_floor": 5,
       "price": 10022595.0,
       "original_price": "11136216.00",
-      "dvizh_min_mortgage": 19826,
+      "dvizh_min_mortgage": 20123,
       "min_mortgage": 3223,
       "discount": false,
       "tags": [
@@ -14826,7 +14826,7 @@
       "max_floor": 5,
       "price": 10048680.0,
       "original_price": "11165200.00",
-      "dvizh_min_mortgage": 19878,
+      "dvizh_min_mortgage": 20176,
       "min_mortgage": 3232,
       "discount": false,
       "tags": [
@@ -14859,7 +14859,7 @@
       "max_floor": 5,
       "price": 10073400.0,
       "original_price": "11192666.00",
-      "dvizh_min_mortgage": 19927,
+      "dvizh_min_mortgage": 20225,
       "min_mortgage": 3240,
       "discount": false,
       "tags": [
@@ -14954,7 +14954,7 @@
       "max_floor": 5,
       "price": 10088220.0,
       "original_price": "11209133.00",
-      "dvizh_min_mortgage": 19955,
+      "dvizh_min_mortgage": 20255,
       "min_mortgage": 3244,
       "discount": false,
       "tags": [
@@ -14987,7 +14987,7 @@
       "max_floor": 5,
       "price": 10100480.0,
       "original_price": "11222755.00",
-      "dvizh_min_mortgage": 19979,
+      "dvizh_min_mortgage": 20280,
       "min_mortgage": 3248,
       "discount": false,
       "tags": [
@@ -15117,7 +15117,7 @@
       "max_floor": 5,
       "price": 10172250.0,
       "original_price": "11302500.00",
-      "dvizh_min_mortgage": 20118,
+      "dvizh_min_mortgage": 20424,
       "min_mortgage": 3271,
       "discount": false,
       "tags": [
@@ -15181,7 +15181,7 @@
       "max_floor": 5,
       "price": 10213350.0,
       "original_price": "11348166.00",
-      "dvizh_min_mortgage": 20201,
+      "dvizh_min_mortgage": 20506,
       "min_mortgage": 3285,
       "discount": false,
       "tags": [
@@ -15214,13 +15214,13 @@
       "max_floor": 5,
       "price": 10272960.0,
       "original_price": "11414400.00",
-      "dvizh_min_mortgage": 20318,
+      "dvizh_min_mortgage": 20626,
       "min_mortgage": 3304,
       "discount": false,
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -15340,7 +15340,7 @@
       "max_floor": 5,
       "price": 10482480.0,
       "original_price": "11647200.00",
-      "dvizh_min_mortgage": 20739,
+      "dvizh_min_mortgage": 21047,
       "min_mortgage": 3371,
       "discount": false,
       "tags": [
@@ -15795,6 +15795,39 @@
       "project_class": "Комфорт",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9650a8d5221fe0c871e53da4bc2beab672bab15e.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d4508d526f5e439b03cae3c450f2af5cf82f1533.svg"
+    },
+    {
+      "id": 336391,
+      "number": "558",
+      "type": "apartments",
+      "status": "Свободно",
+      "rooms": 2,
+      "area": 38.4,
+      "floor": 5,
+      "max_floor": 13,
+      "price": 10944000.0,
+      "original_price": "12160000.00",
+      "dvizh_min_mortgage": 88368,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [
+        "Рассрочка"
+      ],
+      "booking_days": null,
+      "finishing": "С отделкой",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 40,
+      "project_name": "Апарт‐отель Industrial AVENIR",
+      "project_slug": "industrial-avenir",
+      "building": "1",
+      "section": null,
+      "completion_year": 2026,
+      "completion_quarter": 3,
+      "project_class": "Комфорт",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/5407a998eaf9e9fa73a1c4963128452580e282ec.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/66a98d88420a268d5f99f6037569aef18b36233e.svg"
     },
     {
       "id": 415977,
@@ -17048,7 +17081,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 13,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -23266,7 +23299,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 3,
+      "booking_days": 2,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -27038,7 +27071,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 8,
+      "booking_days": 7,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -27117,37 +27150,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/4857d8c0367d4dd16fd1e42ad7f0b1b7e5c462ce.svg"
     },
     {
-      "id": 425573,
-      "number": "27",
-      "type": "flat",
-      "status": "Бронь",
-      "rooms": 1,
-      "area": 38.94,
-      "floor": 5,
-      "max_floor": 13,
-      "price": 16366482.0,
-      "original_price": "19254684.00",
-      "dvizh_min_mortgage": 32860,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": 2,
-      "finishing": "Предчистовая",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 39,
-      "project_name": "«РЕСПЕКТ», жилой квартал",
-      "project_slug": "zhk-respect",
-      "building": "5",
-      "section": 138,
-      "completion_year": 2027,
-      "completion_quarter": 4,
-      "project_class": "Комфорт",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7555078d6eaa6c1403c315bc0826e0514ecd1f1d.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/194b62b11ee3dc3a5dd372d139deafc21302a7b1.svg"
-    },
-    {
       "id": 425565,
       "number": "19",
       "type": "flat",
@@ -27162,7 +27164,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -30410,7 +30412,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 9,
+      "booking_days": 8,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -30534,7 +30536,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -32092,7 +32094,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 13,
+      "booking_days": 12,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -41479,7 +41481,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 85,
+      "booking_days": 84,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -44614,7 +44616,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -45947,7 +45949,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -46753,7 +46755,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 80,
+      "booking_days": 79,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -47125,7 +47127,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 13,
+      "booking_days": 12,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -48268,7 +48270,7 @@
       "max_floor": 13,
       "price": 22748830.02,
       "original_price": "26763329.00",
-      "dvizh_min_mortgage": 45223,
+      "dvizh_min_mortgage": 45675,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -48392,7 +48394,7 @@
       "max_floor": 13,
       "price": 22823802.54,
       "original_price": "26851532.00",
-      "dvizh_min_mortgage": 45373,
+      "dvizh_min_mortgage": 45825,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -48423,7 +48425,7 @@
       "max_floor": 13,
       "price": 22827091.08,
       "original_price": "26855401.00",
-      "dvizh_min_mortgage": 45605,
+      "dvizh_min_mortgage": 45832,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -49229,7 +49231,7 @@
       "max_floor": 13,
       "price": 23057978.0,
       "original_price": "27127032.00",
-      "dvizh_min_mortgage": 46067,
+      "dvizh_min_mortgage": 46295,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -49312,37 +49314,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/e34aea50227d016ca2cafc6ef7a2b5fd589bdd90.svg"
     },
     {
-      "id": 397958,
-      "number": "158",
-      "type": "flat",
-      "status": "Бронь",
-      "rooms": 2,
-      "area": 59.22,
-      "floor": 8,
-      "max_floor": 13,
-      "price": 23088042.18,
-      "original_price": "27162402.00",
-      "dvizh_min_mortgage": 45892,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": 2,
-      "finishing": "Предчистовая",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 39,
-      "project_name": "«РЕСПЕКТ», жилой квартал",
-      "project_slug": "zhk-respect",
-      "building": "3",
-      "section": 135,
-      "completion_year": 2027,
-      "completion_quarter": 4,
-      "project_class": "Комфорт",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f067562f32b9699cbbc0c878ee8b0e12be7f4387.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/c402877833fd8dfaeee0113cb169601ccd9c630b.svg"
-    },
-    {
       "id": 425714,
       "number": "168",
       "type": "flat",
@@ -49384,7 +49355,7 @@
       "max_floor": 13,
       "price": 23095043.02,
       "original_price": "27170638.00",
-      "dvizh_min_mortgage": 46143,
+      "dvizh_min_mortgage": 46370,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -50066,7 +50037,7 @@
       "max_floor": 13,
       "price": 23363057.83,
       "original_price": "27485950.00",
-      "dvizh_min_mortgage": 46681,
+      "dvizh_min_mortgage": 46908,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -50500,7 +50471,7 @@
       "max_floor": 13,
       "price": 23530281.88,
       "original_price": "27682684.00",
-      "dvizh_min_mortgage": 47015,
+      "dvizh_min_mortgage": 47244,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -50907,7 +50878,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 63,
+      "booking_days": 62,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -51244,7 +51215,7 @@
       "max_floor": 13,
       "price": 24069146.97,
       "original_price": "28316643.00",
-      "dvizh_min_mortgage": 47847,
+      "dvizh_min_mortgage": 48326,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -51306,11 +51277,11 @@
       "max_floor": 13,
       "price": 24101449.13,
       "original_price": "28354646.00",
-      "dvizh_min_mortgage": 47911,
+      "dvizh_min_mortgage": 48390,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 65,
+      "booking_days": 64,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -51368,7 +51339,7 @@
       "max_floor": 13,
       "price": 24132691.23,
       "original_price": "28391401.00",
-      "dvizh_min_mortgage": 47974,
+      "dvizh_min_mortgage": 48453,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -51430,7 +51401,7 @@
       "max_floor": 13,
       "price": 24153900.06,
       "original_price": "28416353.00",
-      "dvizh_min_mortgage": 48020,
+      "dvizh_min_mortgage": 48496,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -51461,7 +51432,7 @@
       "max_floor": 13,
       "price": 24165078.67,
       "original_price": "28429504.00",
-      "dvizh_min_mortgage": 48039,
+      "dvizh_min_mortgage": 48518,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -51647,7 +51618,7 @@
       "max_floor": 13,
       "price": 24285952.95,
       "original_price": "28571709.00",
-      "dvizh_min_mortgage": 48274,
+      "dvizh_min_mortgage": 48761,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -51868,7 +51839,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 22,
+      "booking_days": 21,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -51988,7 +51959,7 @@
       "max_floor": 13,
       "price": 24538220.73,
       "original_price": "28868494.00",
-      "dvizh_min_mortgage": 48780,
+      "dvizh_min_mortgage": 49267,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -53015,7 +52986,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -61850,7 +61821,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 38,
+      "booking_days": 37,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -64020,7 +63991,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 9,
+      "booking_days": 8,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -65229,7 +65200,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -67895,7 +67866,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 16,
+      "booking_days": 15,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -69972,7 +69943,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": true,
       "leasing": false,
@@ -70592,7 +70563,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -70840,7 +70811,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -73754,7 +73725,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -73878,7 +73849,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
