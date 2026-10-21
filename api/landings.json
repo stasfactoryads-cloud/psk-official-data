@@ -1,0 +1,260 @@
+{
+  "generated_at": "2026-10-21T10:35:09+00:00",
+  "description": "Посадочные страницы (лендинги) проектов ГК ПСК. Обновляется ежедневно вместе с API.",
+  "summary": {
+    "projects_total": 13,
+    "projects_with_landings": 8,
+    "links_total": 18,
+    "links_ok": 18,
+    "links_error": 0,
+    "projects_without_landings": [
+      "bakunina33",
+      "friends",
+      "industrial-avenir",
+      "korona_apart",
+      "plus-pulkovskij"
+    ]
+  },
+  "projects": [
+    {
+      "slug": "akvatoriya-premialnyj-dom",
+      "name": "«Акватория», премиальный дом",
+      "developer": "ГК ПСК",
+      "primary_url": "https://akvatoriya.psk-info.ru/",
+      "links": [
+        {
+          "url": "https://akvatoriya.psk-info.ru/",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://psk-info.ru/projects/akvatoriya-premialnyj-dom",
+          "type": "карточка проекта на сайте ПСК",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://aqua.psk-info.ru",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        }
+      ],
+      "manual_check_date": "2026-10-21",
+      "owner_confirmed": null
+    },
+    {
+      "slug": "assambleya-klubnyj-kvartal",
+      "name": "«Ассамблея», клубный квартал",
+      "developer": "ГК ПСК",
+      "primary_url": "https://assambleya.psk-info.ru/",
+      "links": [
+        {
+          "url": "https://assambleya.psk-info.ru/",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://project.assambleya-promo.psk-info.ru",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://assambleya-promo.psk-info.ru",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://psk-info.ru/projects/assambleya-klubnyj-kvartal",
+          "type": "карточка проекта на сайте ПСК",
+          "status": "ok",
+          "http_code": 200
+        }
+      ],
+      "manual_check_date": "2026-10-21",
+      "owner_confirmed": null
+    },
+    {
+      "slug": "bakunina33",
+      "name": "BAKUNINA 33, клубный дом",
+      "developer": "ГК ПСК",
+      "primary_url": null,
+      "links": [],
+      "manual_check_date": null,
+      "owner_confirmed": null
+    },
+    {
+      "slug": "friends",
+      "name": "ЖК Friends",
+      "developer": "ГК ПСК",
+      "primary_url": null,
+      "links": [],
+      "manual_check_date": null,
+      "owner_confirmed": null
+    },
+    {
+      "slug": "galernaya-gavan",
+      "name": "«Галерная гавань», жилой комплекс",
+      "developer": "ГК ПСК",
+      "primary_url": "https://gavan.psk-info.ru/",
+      "links": [
+        {
+          "url": "https://gavan.psk-info.ru/",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://psk-info.ru/projects/galernaya-gavan",
+          "type": "карточка проекта на сайте ПСК",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://gavan-pro.psk-info.ru",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        }
+      ],
+      "manual_check_date": "2026-10-21",
+      "owner_confirmed": null
+    },
+    {
+      "slug": "industrial-avenir",
+      "name": "Апарт‐отель Industrial AVENIR",
+      "developer": "ГК ПСК",
+      "primary_url": null,
+      "links": [],
+      "manual_check_date": null,
+      "owner_confirmed": null
+    },
+    {
+      "slug": "korona",
+      "name": "«Северная корона», квартиры - резиденции",
+      "developer": "ГК ПСК",
+      "primary_url": "https://nord-corona.ru/",
+      "links": [
+        {
+          "url": "https://nord-corona.ru/",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        }
+      ],
+      "manual_check_date": null,
+      "owner_confirmed": null
+    },
+    {
+      "slug": "korona_apart",
+      "name": "Северная корона Apartments",
+      "developer": "ГК ПСК",
+      "primary_url": null,
+      "links": [],
+      "manual_check_date": null,
+      "owner_confirmed": null
+    },
+    {
+      "slug": "ladozhsky",
+      "name": "Ladozhsky AVENIR",
+      "developer": "ГК ПСК",
+      "primary_url": "https://ladoczsky.avenirspb.ru/",
+      "links": [
+        {
+          "url": "https://ladoczsky.avenirspb.ru/",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        }
+      ],
+      "manual_check_date": null,
+      "owner_confirmed": null
+    },
+    {
+      "slug": "optimist-zhiloj-kompleks",
+      "name": "Оптимист",
+      "developer": "ГК ПСК",
+      "primary_url": "https://optimist.psk-info.ru/",
+      "links": [
+        {
+          "url": "https://optimist.psk-info.ru/",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://psk-info.ru/projects/optimist-zhiloj-kompleks",
+          "type": "карточка проекта на сайте ПСК",
+          "status": "ok",
+          "http_code": 200
+        }
+      ],
+      "manual_check_date": null,
+      "owner_confirmed": null
+    },
+    {
+      "slug": "plus-pulkovskij",
+      "name": "ПЛЮС Пулковский, сити-квартал",
+      "developer": "ГК ПСК",
+      "primary_url": null,
+      "links": [],
+      "manual_check_date": null,
+      "owner_confirmed": null
+    },
+    {
+      "slug": "sezony-vidovoj-kompleks",
+      "name": "«Сезоны», видовой комплекс",
+      "developer": "ГК ПСК",
+      "primary_url": "https://sezony.psk-info.ru/",
+      "links": [
+        {
+          "url": "https://sezony.psk-info.ru/",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        }
+      ],
+      "manual_check_date": null,
+      "owner_confirmed": null
+    },
+    {
+      "slug": "zhk-respect",
+      "name": "«РЕСПЕКТ», жилой квартал",
+      "developer": "ГК ПСК",
+      "primary_url": "https://respect-dom.ru",
+      "links": [
+        {
+          "url": "https://respect-dom.ru",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://psk-info.ru/projects/zhk-respect",
+          "type": "карточка проекта на сайте ПСК",
+          "status": "ok",
+          "http_code": 200
+        },
+        {
+          "url": "https://domrespect.ru/",
+          "type": "лендинг",
+          "status": "ok",
+          "http_code": 200
+        }
+      ],
+      "manual_check_date": "2026-10-21",
+      "owner_confirmed": {
+        "confirmed_by": "маркетинг (ГК ПСК)",
+        "confirmed_on": "2026-10-21",
+        "domains": [
+          "respect-dom.ru",
+          "domrespect.ru"
+        ]
+      }
+    }
+  ]
+}

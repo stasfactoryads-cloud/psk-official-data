@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T10:32:18+00:00",
+  "generated_at": "2026-10-21T10:35:09+00:00",
   "repository": "https://github.com/stasfactoryads-cloud/psk-official-data",
   "base_url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/",
   "alerts": [
@@ -54,6 +54,13 @@
       "description": "Условия по каждому проекту из ежемесячных файлов. Файл считается актуальным, если загружен не раньше 6-го числа текущего месяца.",
       "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/conditions.json",
       "generated_at": "2026-10-21T09:35:59+00:00"
+    },
+    {
+      "file": "landings.json",
+      "title": "Лендинги: посадочные страницы проектов",
+      "description": "Все посадочные страницы по проектам, ссылки проверены запросом (HTTP-статус). Обновляется ежедневно.",
+      "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/landings.json",
+      "generated_at": "2026-10-21T10:35:09+00:00"
     }
   ]
 }

@@ -34,6 +34,9 @@ jobs:
           python3 fetch_marketing.py
           python3 fetch_projects.py
 
+      - name: Check landing pages
+        run: python3 build_landings.py
+
       - name: Build API, index and page
         run: |
           python3 build.py
