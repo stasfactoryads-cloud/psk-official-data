@@ -182,6 +182,7 @@ function renderMarketing() {
       p.advantages && p.advantages.length ? el("div", {}, el("b", {}, "Преимущества"), el("ul", {}, p.advantages.map((a) => el("li", {}, a.name ? a.name + (a.text ? " — " + a.text : "") : a.text)))) : null,
       el("div", {}, el("b", {}, "Видео: "), videos.length ? videos.map((v) => el("div", {}, el("a", { href: v, target: "_blank" }, v))) : el("span", { class: "small" }, "нет")),
       el("div", {}, el("b", {}, "Фото: "), photos.length + " шт.", photos.length ? el("div", { class: "gallery" }, photos.slice(0, 12).map((u) => el("a", { href: u, target: "_blank" }, el("img", { src: u, loading: "lazy", alt: "" })))) : null),
+      (p.landing_urls && p.landing_urls.length) ? el("div", {}, el("b", {}, "Лендинги: "), p.landing_urls.map((u) => el("div", {}, el("a", { href: u, target: "_blank" }, u)))) : el("p", { class: "small" }, "Лендингов нет"),
       p.virtual_tour_url ? el("p", {}, "Виртуальный тур: ", el("a", { href: p.virtual_tour_url, target: "_blank" }, p.virtual_tour_url)) : null
     );
   });
