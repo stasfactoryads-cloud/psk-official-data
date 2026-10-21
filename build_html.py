@@ -159,7 +159,7 @@ function renderProjects() {
       el("p", {}, "Минимальная цена: ", el("b", {}, rub(val(p.min_price))), el("span", { class: "small" }, "  статус: " + ((p.min_price && p.min_price.status) || "—"))),
       el("p", {}, "Наличие: свободно ", el("b", { class: "ok" }, num(a.free)), ", в броне ", el("b", { class: "warn" }, num(a.reserved)), " из ", num(a.total)),
       el("p", {}, "Ипотека, минимальный платёж (свободные лоты): ", mort ? rub(mort) : "не подтверждено", el("span", { class: "small" }, "  статус: " + ((p.mortgage && p.mortgage.status) || "—"))),
-      p.landing_url ? el("p", {}, "Лендинг: ", el("a", { href: p.landing_url, target: "_blank" }, p.landing_url)) : null,
+      (p.landing_urls && p.landing_urls.length) ? el("div", {}, el("p", {}, el("b", {}, "Лендинги:")), p.landing_urls.map((u) => el("p", { class: "small" }, el("a", { href: u, target: "_blank" }, u)))) : null,
       (p.data_conflicts && p.data_conflicts.length) ? el("p", { class: "warn" }, "Открытые вопросы: " + p.data_conflicts.map((c) => c.field).join(", ")) : null
     );
   });
