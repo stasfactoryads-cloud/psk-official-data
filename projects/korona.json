@@ -82,5 +82,13 @@
   "conditions_as_of": "2026-10-19",
   "landing_urls_checked": "2026-10-21",
   "developer_legal": null,
-  "developer_inn": null
+  "developer_inn": null,
+  "utp_manual": {
+    "location": "набережная реки Карповки у метро Петроградская",
+    "features": [
+      "видовые квартиры",
+      "три внутренних двора с ландшафтным дизайном",
+      "архитектура северного модерна"
+    ]
+  }
 }

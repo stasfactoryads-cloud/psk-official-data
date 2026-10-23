@@ -57,6 +57,10 @@ def refresh_conditions(cond, today):
     return changed
 
 
+def load_json(path):
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+
+
 def main():
     today = date.today()
 
@@ -87,8 +91,10 @@ def main():
             print("  -", e)
         sys.exit(1)
 
+    utp = load_json(API_DIR / "utp.json")
     for it in items:
         it["conditions"] = (cond.get("projects") or {}).get(it["slug"], {})
+        it["utp"] = (utp.get("projects") or {}).get(it["slug"], {}).get("bullets", [])
     OUT.parent.mkdir(exist_ok=True)
     payload = {
         "conditions_status": cond.get("status", "нет данных"),

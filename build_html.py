@@ -185,7 +185,7 @@ function renderMarketing() {
       el("h3", {}, p.name || p.slug),
       el("div", { class: "small" }, p.address || "", p.min_price ? " · от " + rub(p.min_price) : ""),
       el("div", { class: "desc" }, p.description || "Описание не заполнено"),
-      p.usps && p.usps.length ? el("div", {}, el("b", {}, "УТП"), el("ul", {}, p.usps.map((u) => el("li", {}, u.title ? u.title + (u.text ? ": " + u.text : "") : u.text)))) : null,
+      p.utp && p.utp.length ? el("div", {}, el("b", {}, "УТП"), el("ul", {}, p.utp.map((u) => el("li", {}, el("b", {}, u.title + ": "), u.text)))) : null,
       p.advantages && p.advantages.length ? el("div", {}, el("b", {}, "Преимущества"), el("ul", {}, p.advantages.map((a) => el("li", {}, a.name ? a.name + (a.text ? " — " + a.text : "") : a.text)))) : null,
       el("div", {}, el("b", {}, "Видео: "), videos.length ? videos.map((v) => el("div", {}, el("a", { href: v, target: "_blank" }, v))) : el("span", { class: "small" }, "нет")),
       el("div", {}, el("b", {}, "Фото: "), photos.length + " шт.", photos.length ? el("div", { class: "gallery" }, photos.slice(0, 12).map((u) => el("a", { href: u, target: "_blank" }, el("img", { src: u, loading: "lazy", alt: "" })))) : null),

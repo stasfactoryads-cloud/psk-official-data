@@ -37,6 +37,9 @@ jobs:
       - name: Check landing pages
         run: python3 build_landings.py
 
+      - name: Build UTP texts
+        run: python3 build_utp.py
+
       - name: Build API, index and page
         run: |
           python3 build.py
