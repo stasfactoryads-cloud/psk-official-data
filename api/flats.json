@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22T05:21:14+00:00",
+  "generated_at": "2026-10-23T05:20:17+00:00",
   "source": "https://psk-info.ru/api/flats/",
-  "count": 2361,
+  "count": 2354,
   "flats": [
     {
       "id": 100654,
@@ -20,7 +20,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": true,
       "leasing": false,
@@ -702,7 +702,7 @@
       "min_mortgage": null,
       "discount": true,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -1448,7 +1448,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "С отделкой",
       "assignment": true,
       "leasing": false,
@@ -1613,7 +1613,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -1679,7 +1679,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 1,
+      "booking_days": 13,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -1712,7 +1712,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 8,
+      "booking_days": 7,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -1877,7 +1877,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 13,
+      "booking_days": 12,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -1910,7 +1910,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": null,
+      "booking_days": 6,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -2108,7 +2108,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 9,
+      "booking_days": 8,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -2372,7 +2372,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 9,
+      "booking_days": 8,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -4055,7 +4055,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 7,
+      "booking_days": 6,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -4187,7 +4187,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -4418,7 +4418,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 58,
+      "booking_days": 57,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -4669,7 +4669,7 @@
       "id": 336199,
       "number": "250",
       "type": "apartments",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 0,
       "area": 23.5,
       "floor": 2,
@@ -4682,7 +4682,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": null,
+      "booking_days": 13,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -4748,7 +4748,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -4946,7 +4946,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 3,
+      "booking_days": 2,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -5309,7 +5309,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 1,
+      "booking_days": 5,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -5408,7 +5408,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 8,
+      "booking_days": 7,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -5441,7 +5441,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 8,
+      "booking_days": 7,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -5474,7 +5474,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -5606,7 +5606,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 7,
+      "booking_days": 6,
       "finishing": "С отделкой",
       "assignment": true,
       "leasing": false,
@@ -5903,7 +5903,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -6068,7 +6068,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -6167,7 +6167,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -6200,7 +6200,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -6431,7 +6431,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -6790,7 +6790,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 13,
+      "booking_days": 12,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -7473,39 +7473,6 @@
       "completion_quarter": 2,
       "project_class": "Комфорт",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/952f07ed950b58583364b1db3d286aaf3ad0feaa.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d6991dd7e250b9402cbf5ea64ea8b2b38ec8cab8.svg"
-    },
-    {
-      "id": 395141,
-      "number": "71",
-      "type": "flat",
-      "status": "Бронь",
-      "rooms": 0,
-      "area": 26.4,
-      "floor": 4,
-      "max_floor": 5,
-      "price": 6940560.0,
-      "original_price": "7711733.00",
-      "dvizh_min_mortgage": 13935,
-      "min_mortgage": 2232,
-      "discount": false,
-      "tags": [
-        "военная ипотека"
-      ],
-      "booking_days": 8,
-      "finishing": "С отделкой",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 32,
-      "project_name": "ПЛЮС Пулковский, сити-квартал",
-      "project_slug": "plus-pulkovskij",
-      "building": "11",
-      "section": null,
-      "completion_year": 2027,
-      "completion_quarter": 2,
-      "project_class": "Комфорт",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d9d2fdf6eefac2a374a36f503b34a818cce5957f.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d6991dd7e250b9402cbf5ea64ea8b2b38ec8cab8.svg"
     },
     {
@@ -8764,37 +8731,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/3ff2e3c46767f43fc57ac46b46e907d8e13bd9fa.svg"
     },
     {
-      "id": 415161,
-      "number": "33",
-      "type": "flat",
-      "status": "Бронь",
-      "rooms": 0,
-      "area": 26.81,
-      "floor": 5,
-      "max_floor": 7,
-      "price": 7272989.99,
-      "original_price": "8556458.00",
-      "dvizh_min_mortgage": 14603,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": 1,
-      "finishing": "Предчистовая",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 43,
-      "project_name": "«Сезоны», видовой комплекс",
-      "project_slug": "sezony-vidovoj-kompleks",
-      "building": "611",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 2,
-      "project_class": "Комфорт",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/33b765d95b9bba025afa5883a38d1577156d7e38.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/098cd0fe4d280d11bce55df7d80c7f2811c4f1e0.svg"
-    },
-    {
       "id": 139380,
       "number": "153",
       "type": "flat",
@@ -8844,7 +8780,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 42,
+      "booking_days": 41,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -9500,7 +9436,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 9,
+      "booking_days": 8,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -9712,7 +9648,7 @@
       "id": 415842,
       "number": "10",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 0,
       "area": 25.82,
       "floor": 2,
@@ -9723,7 +9659,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -9756,7 +9692,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -10132,7 +10068,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 7,
+      "booking_days": 6,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -10681,7 +10617,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 3,
+      "booking_days": 2,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -10939,7 +10875,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -11160,7 +11096,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -11490,7 +11426,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 11,
+      "booking_days": 10,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -11523,7 +11459,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -12249,7 +12185,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -12315,7 +12251,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 8,
+      "booking_days": 7,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -12381,7 +12317,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 13,
+      "booking_days": 12,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -12480,7 +12416,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -12579,7 +12515,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -12678,7 +12614,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -12711,7 +12647,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -13503,7 +13439,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -13536,7 +13472,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -13551,39 +13487,6 @@
       "project_class": "Комфорт",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7c6faa4bc16802cc061657e282f96feea01c480a.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/bede1f6f1d8e7daee62417637916006f8a741fc5.svg"
-    },
-    {
-      "id": 139393,
-      "number": "166",
-      "type": "flat",
-      "status": "Бронь",
-      "rooms": 1,
-      "area": 36.6,
-      "floor": 2,
-      "max_floor": 5,
-      "price": 9554787.95,
-      "original_price": "10616431.00",
-      "dvizh_min_mortgage": 19184,
-      "min_mortgage": 3073,
-      "discount": false,
-      "tags": [
-        "военная ипотека"
-      ],
-      "booking_days": 1,
-      "finishing": "С отделкой",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 32,
-      "project_name": "ПЛЮС Пулковский, сити-квартал",
-      "project_slug": "plus-pulkovskij",
-      "building": "1",
-      "section": null,
-      "completion_year": 2025,
-      "completion_quarter": 4,
-      "project_class": "Комфорт",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/8a9ceac8c24bc3dc38d3bea6f1b48f01793a0378.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/374e423001b1097d884840126ecd43c7bde4c9b5.svg"
     },
     {
       "id": 100656,
@@ -13635,7 +13538,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -13893,7 +13796,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -14023,7 +13926,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -14120,7 +14023,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 11,
+      "booking_days": 10,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -14310,7 +14213,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -14442,7 +14345,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": null,
+      "booking_days": 13,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -14590,7 +14493,7 @@
       "id": 395400,
       "number": "53",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 1,
       "area": 36.89,
       "floor": 5,
@@ -14603,7 +14506,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -14636,7 +14539,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -14960,7 +14863,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 8,
+      "booking_days": 7,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -15187,7 +15090,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -15705,7 +15608,7 @@
       "id": 415421,
       "number": "83",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 1,
       "area": 41.66,
       "floor": 9,
@@ -16536,7 +16439,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -17575,7 +17478,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 9,
+      "booking_days": 8,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -18819,7 +18722,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 8,
+      "booking_days": 7,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -18974,7 +18877,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 7,
+      "booking_days": 6,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -20659,7 +20562,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 13,
+      "booking_days": 12,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -20690,7 +20593,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 8,
+      "booking_days": 13,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -20705,39 +20608,6 @@
       "project_class": "Комфорт",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/207a5a1778deecb7fd43d6038b2adc8fbf11b009.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/9e8f02cc9986152da8cd039e543f17aaf325ad64.svg"
-    },
-    {
-      "id": 101154,
-      "number": "1458",
-      "type": "apartments",
-      "status": "Свободно",
-      "rooms": 0,
-      "area": 60.83,
-      "floor": 14,
-      "max_floor": 14,
-      "price": 13395617.62,
-      "original_price": "14884019.00",
-      "dvizh_min_mortgage": 117788,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [
-        "Выгодная рассрочка"
-      ],
-      "booking_days": null,
-      "finishing": "С отделкой",
-      "assignment": false,
-      "leasing": true,
-      "auction": false,
-      "project": 2,
-      "project_name": "Апарт‐отель Ladozhsky AVENIR",
-      "project_slug": "ladozhsky",
-      "building": "1",
-      "section": null,
-      "completion_year": 2024,
-      "completion_quarter": 4,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/18b59054e8fc80a097b9d840239f971b1c0add25.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5e942da0b6c319033fb00ccd083afb1da60610bf.svg"
     },
     {
       "id": 451380,
@@ -21130,7 +21000,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -22109,7 +21979,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": null,
+      "booking_days": 6,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -22173,7 +22043,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -22485,7 +22355,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 12,
+      "booking_days": 11,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -22624,37 +22494,6 @@
       "project_class": "Бизнес",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/14696cbba32084c095c0b0724aa15e209f11fd1b.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5482dde203ec07d43f3dd81982a00ab15344a0bb.svg"
-    },
-    {
-      "id": 451048,
-      "number": "68",
-      "type": "flat",
-      "status": "Бронь",
-      "rooms": 1,
-      "area": 30.71,
-      "floor": 11,
-      "max_floor": 12,
-      "price": 14157310.0,
-      "original_price": "16655658.00",
-      "dvizh_min_mortgage": null,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": 4,
-      "finishing": "С отделкой",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 45,
-      "project_name": "«Оптимист», жилой комплекс",
-      "project_slug": "optimist-zhiloj-kompleks",
-      "building": "1",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 4,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d8b31f2713ae49c56646f6b4b41ac6aef7cc7119.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/3a7c5128570d3095bdb70dfe27e3e0123a6c7a47.svg"
     },
     {
       "id": 374799,
@@ -23222,7 +23061,7 @@
       "id": 451179,
       "number": "199",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 1,
       "area": 33.22,
       "floor": 7,
@@ -23233,7 +23072,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -23700,7 +23539,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 86,
+      "booking_days": 85,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -25321,7 +25160,7 @@
       "id": 451191,
       "number": "211",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 1,
       "area": 35.83,
       "floor": 8,
@@ -25332,7 +25171,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -25414,7 +25253,7 @@
       "id": 451188,
       "number": "208",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 1,
       "area": 34.6,
       "floor": 8,
@@ -25425,7 +25264,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -25456,7 +25295,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 8,
+      "booking_days": 7,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -26363,7 +26202,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 3,
+      "booking_days": 2,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -27005,7 +26844,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 7,
+      "booking_days": 6,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -27087,7 +26926,7 @@
       "id": 425565,
       "number": "19",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 1,
       "area": 38.98,
       "floor": 4,
@@ -27244,7 +27083,7 @@
       "id": 395208,
       "number": "2",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 2,
       "area": 66.77,
       "floor": 1,
@@ -27494,7 +27333,7 @@
       "id": 425615,
       "number": "69",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 1,
       "area": 38.94,
       "floor": 11,
@@ -27505,7 +27344,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -27618,7 +27457,7 @@
       "id": 451182,
       "number": "202",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 1,
       "area": 39.36,
       "floor": 7,
@@ -27629,7 +27468,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -27961,7 +27800,7 @@
       "id": 395352,
       "number": "5",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 3,
       "area": 66.9,
       "floor": 1,
@@ -27974,7 +27813,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": null,
+      "booking_days": 13,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -30238,7 +30077,7 @@
       "id": 415453,
       "number": "115",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 2,
       "area": 61.37,
       "floor": 12,
@@ -30249,7 +30088,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -30377,7 +30216,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 8,
+      "booking_days": 7,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -30408,7 +30247,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 13,
+      "booking_days": 12,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -30501,7 +30340,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -30625,7 +30464,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 12,
+      "booking_days": 11,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -31098,7 +30937,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 1,
+      "booking_days": 6,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -31935,7 +31774,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -32059,7 +31898,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 12,
+      "booking_days": 11,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -34113,7 +33952,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 35,
+      "booking_days": 34,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -34642,7 +34481,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 42,
+      "booking_days": 41,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -35171,7 +35010,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -41477,7 +41316,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 84,
+      "booking_days": 83,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -42192,7 +42031,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 55,
+      "booking_days": 54,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -43401,7 +43240,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -44258,7 +44097,7 @@
       "id": 451283,
       "number": "303",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 2,
       "area": 55.67,
       "floor": 7,
@@ -44269,7 +44108,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -44596,37 +44435,6 @@
       "project_class": "Бизнес",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/10e7b1d0feba214ba36c621d37654a58a31e3fb7.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/286e8f555e03c1217103a76795ed0b2675cd3fa7.svg"
-    },
-    {
-      "id": 415745,
-      "number": "160",
-      "type": "flat",
-      "status": "Бронь",
-      "rooms": 3,
-      "area": 75.71,
-      "floor": 17,
-      "max_floor": 25,
-      "price": 21210156.5,
-      "original_price": "24953125.00",
-      "dvizh_min_mortgage": 42585,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "С отделкой",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 43,
-      "project_name": "«Сезоны», видовой комплекс",
-      "project_slug": "sezony-vidovoj-kompleks",
-      "building": "622",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 2,
-      "project_class": "Комфорт",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/745521868744a6698105cf14cfe5f8f169c2e195.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/3be4f7cffa02347109bef2116e1275e9b63f47e0.svg"
     },
     {
       "id": 416027,
@@ -45945,7 +45753,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 13,
+      "booking_days": 12,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -46058,7 +45866,7 @@
       "id": 374980,
       "number": "896",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 1,
       "area": 46.54,
       "floor": 11,
@@ -46193,7 +46001,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -46379,7 +46187,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -46751,7 +46559,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 79,
+      "booking_days": 78,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -47119,11 +46927,11 @@
       "max_floor": 9,
       "price": 22305050.4,
       "original_price": "27881313.00",
-      "dvizh_min_mortgage": 63893,
+      "dvizh_min_mortgage": 196129,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 12,
+      "booking_days": 11,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -47137,7 +46945,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/3b2483ebd8237a07302d0ae52b205b28a81f2215.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 146231,
@@ -47216,7 +47024,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -47243,7 +47051,7 @@
       "max_floor": 9,
       "price": 22367772.8,
       "original_price": "27959716.00",
-      "dvizh_min_mortgage": 64072,
+      "dvizh_min_mortgage": 196681,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -47261,7 +47069,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f5e7ea430b15f211767e84ff6fbc5e3aa54f2f30.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 373802,
@@ -48073,7 +47881,7 @@
       "id": 397957,
       "number": "157",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 2,
       "area": 61.6,
       "floor": 8,
@@ -48084,7 +47892,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -49217,37 +49025,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/3313583acecdeac2251869a0f6052802af36a12a.svg"
     },
     {
-      "id": 397846,
-      "number": "46",
-      "type": "flat",
-      "status": "Бронь",
-      "rooms": 2,
-      "area": 63.32,
-      "floor": 5,
-      "max_floor": 13,
-      "price": 23057978.0,
-      "original_price": "27127032.00",
-      "dvizh_min_mortgage": 46295,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": 1,
-      "finishing": "Предчистовая",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 39,
-      "project_name": "«РЕСПЕКТ», жилой квартал",
-      "project_slug": "zhk-respect",
-      "building": "3",
-      "section": 135,
-      "completion_year": 2027,
-      "completion_quarter": 4,
-      "project_class": "Комфорт",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e091a0e49be9d6bd20c5d355ff8d97ba383994bf.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/30fcb98dda922279b6035c05df88385d9cc244d3.svg"
-    },
-    {
       "id": 373754,
       "number": "5",
       "type": "flat",
@@ -49355,7 +49132,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 11,
+      "booking_days": 10,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -49555,7 +49332,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/740f53931c1184a4571fed63b2cc2dff0404784c.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/2d84bb8a517b3296046ce7eae2a9ae83e1a1fb20.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8a9db6c5584db6fa21e044e165b88a40e869682a.svg"
     },
     {
       "id": 338924,
@@ -50595,7 +50372,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -50688,7 +50465,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 50,
+      "booking_days": 49,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -50874,7 +50651,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 62,
+      "booking_days": 61,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -51277,7 +51054,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 64,
+      "booking_days": 63,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -51304,7 +51081,7 @@
       "max_floor": 9,
       "price": 24118272.0,
       "original_price": "30147840.00",
-      "dvizh_min_mortgage": 69087,
+      "dvizh_min_mortgage": 212073,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -51322,7 +51099,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/bb1fc43b58a255ae57d2c8405bf66ab1454f79b7.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 398477,
@@ -51339,7 +51116,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 64,
+      "booking_days": 63,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -51401,7 +51178,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 11,
+      "booking_days": 10,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -51432,7 +51209,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 3,
+      "booking_days": 7,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -51618,7 +51395,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 11,
+      "booking_days": 10,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -51862,11 +51639,11 @@
       "max_floor": 9,
       "price": 24422638.1,
       "original_price": "30528297.00",
-      "dvizh_min_mortgage": 69958,
+      "dvizh_min_mortgage": 214749,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 21,
+      "booking_days": 20,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -51880,7 +51657,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b7711e2967cccee7874df5eaeb1a92ef43312755.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 397842,
@@ -52296,7 +52073,7 @@
       "max_floor": 9,
       "price": 24775732.8,
       "original_price": "30969666.00",
-      "dvizh_min_mortgage": 70970,
+      "dvizh_min_mortgage": 217854,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -52314,7 +52091,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/78dfa33c3c215d11c170843574e4b528d6b94400.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/2d84bb8a517b3296046ce7eae2a9ae83e1a1fb20.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8a9db6c5584db6fa21e044e165b88a40e869682a.svg"
     },
     {
       "id": 339076,
@@ -52672,7 +52449,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 24,
+      "booking_days": 23,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -53013,7 +52790,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -53188,7 +52965,7 @@
       "id": 401782,
       "number": "220",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 2,
       "area": 54.06,
       "floor": 4,
@@ -53354,7 +53131,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -53436,7 +53213,7 @@
       "id": 401608,
       "number": "46",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 2,
       "area": 53.92,
       "floor": 8,
@@ -53447,7 +53224,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -53633,7 +53410,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -53974,7 +53751,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -55024,7 +54801,7 @@
       "max_floor": 9,
       "price": 26627800.0,
       "original_price": "33284750.00",
-      "dvizh_min_mortgage": 76275,
+      "dvizh_min_mortgage": 234140,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -55042,7 +54819,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/15c81f8e1004257d3337c1aa5603b9ffd38fc786.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 401645,
@@ -55183,7 +54960,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -55234,7 +55011,7 @@
       "id": 146311,
       "number": "230",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 2,
       "area": 63.1,
       "floor": 4,
@@ -55245,7 +55022,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -55334,7 +55111,7 @@
       "max_floor": 9,
       "price": 26790552.0,
       "original_price": "33488190.00",
-      "dvizh_min_mortgage": 76741,
+      "dvizh_min_mortgage": 235571,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -55352,7 +55129,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0cfb568985bf8e088da02b54942de88cea890b9d.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 432068,
@@ -55365,7 +55142,7 @@
       "max_floor": 9,
       "price": 26796152.0,
       "original_price": "33495190.00",
-      "dvizh_min_mortgage": 76757,
+      "dvizh_min_mortgage": 235620,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -55383,7 +55160,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c0d5b3bae8ccd5c10e54872749c1fdb73c7644ab.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 146515,
@@ -55458,7 +55235,7 @@
       "max_floor": 9,
       "price": 26842464.0,
       "original_price": "33553080.00",
-      "dvizh_min_mortgage": 76890,
+      "dvizh_min_mortgage": 236027,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -55476,7 +55253,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7fbae8059aff1f8ebb6807b698954c9e761ed9df.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5cc1ec86cf2a8cd307f247df99bd8f8e18d4d78b.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
       "id": 146573,
@@ -55551,7 +55328,7 @@
       "max_floor": 9,
       "price": 26953760.0,
       "original_price": "33692200.00",
-      "dvizh_min_mortgage": 77209,
+      "dvizh_min_mortgage": 237006,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -55569,7 +55346,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/dc146f9504469b63bae118614a933a58b807111f.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 374584,
@@ -55799,7 +55576,7 @@
       "max_floor": 9,
       "price": 27128736.0,
       "original_price": "33910920.00",
-      "dvizh_min_mortgage": 77710,
+      "dvizh_min_mortgage": 238544,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -55817,7 +55594,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/35a5b1fcefb57e8378a29a60f07debc6e4ea2665.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 146477,
@@ -55954,7 +55731,7 @@
       "max_floor": 9,
       "price": 27290250.0,
       "original_price": "34112812.00",
-      "dvizh_min_mortgage": 78173,
+      "dvizh_min_mortgage": 239964,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -55972,7 +55749,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a81bedaf627290102ac6aac5a573ef859004ff36.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 374450,
@@ -56016,7 +55793,7 @@
       "max_floor": 9,
       "price": 27313184.0,
       "original_price": "34141480.00",
-      "dvizh_min_mortgage": 78238,
+      "dvizh_min_mortgage": 240166,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -56034,7 +55811,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7fbfa54d6bc35a30cb22691b8c8eb115b2a2a625.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 374593,
@@ -56202,7 +55979,7 @@
       "max_floor": 9,
       "price": 27393872.0,
       "original_price": "34242340.00",
-      "dvizh_min_mortgage": 78470,
+      "dvizh_min_mortgage": 240876,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -56220,7 +55997,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a549046f37b95a394ff5eb9ba142502c98e90e92.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 431934,
@@ -56233,7 +56010,7 @@
       "max_floor": 9,
       "price": 27457860.0,
       "original_price": "34322325.00",
-      "dvizh_min_mortgage": 78653,
+      "dvizh_min_mortgage": 241438,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -56251,7 +56028,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/22dfb48faa7c5278aeabcf1b672d7841a97b3b17.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 374714,
@@ -56543,7 +56320,7 @@
       "max_floor": 9,
       "price": 27649650.0,
       "original_price": "34562062.00",
-      "dvizh_min_mortgage": 79202,
+      "dvizh_min_mortgage": 243125,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -56561,7 +56338,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1098f21b2b833d7f8961de464120191deb2e4740.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 401666,
@@ -56636,7 +56413,7 @@
       "max_floor": 9,
       "price": 27664728.0,
       "original_price": "34580910.00",
-      "dvizh_min_mortgage": 79245,
+      "dvizh_min_mortgage": 243257,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -56654,7 +56431,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/97965bc9de911529814c7dcd258b380e7b556f06.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/57ad199bc033136a4f0a48e30ec249f948842232.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
       "id": 374738,
@@ -56760,7 +56537,7 @@
       "max_floor": 9,
       "price": 27819920.0,
       "original_price": "34774900.00",
-      "dvizh_min_mortgage": 79690,
+      "dvizh_min_mortgage": 244622,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -56778,7 +56555,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/bdd44d34d0f1e7583aa3549a2cacd9a2f505bc6c.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 431878,
@@ -56791,7 +56568,7 @@
       "max_floor": 9,
       "price": 27838800.0,
       "original_price": "34798500.00",
-      "dvizh_min_mortgage": 79744,
+      "dvizh_min_mortgage": 244788,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -56809,7 +56586,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1635112227b0720822f25ac0a2ae70a00fe83bad.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 146517,
@@ -57194,7 +56971,7 @@
       "max_floor": 9,
       "price": 28031136.0,
       "original_price": "35038920.00",
-      "dvizh_min_mortgage": 80295,
+      "dvizh_min_mortgage": 246479,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -57212,7 +56989,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7b221ad25479c27fb135f6ec7b83ec9d8d262da2.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/75abacbcccbea6fe65805d2a67c91d864790ac11.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
       "id": 431982,
@@ -57225,7 +57002,7 @@
       "max_floor": 9,
       "price": 28055808.0,
       "original_price": "35069760.00",
-      "dvizh_min_mortgage": 80366,
+      "dvizh_min_mortgage": 246696,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -57243,7 +57020,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2c71e62ef62555c35a2cb129232504ac958e7f6b.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 373800,
@@ -57318,7 +57095,7 @@
       "max_floor": 9,
       "price": 28078128.0,
       "original_price": "35097660.00",
-      "dvizh_min_mortgage": 80430,
+      "dvizh_min_mortgage": 246892,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -57336,7 +57113,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0e24e221fcde397296a0ad16963ace1e38171120.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 374948,
@@ -57690,11 +57467,11 @@
       "max_floor": 9,
       "price": 28422240.0,
       "original_price": "35527800.00",
-      "dvizh_min_mortgage": 81415,
+      "dvizh_min_mortgage": 249918,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -57708,7 +57485,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9806b3f6ea4b7f29e723b8db6972ec7c04e6bb14.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d38a0913576dce1ac5e754a8bec564768bf4a75a.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d741d4cfb2bd8d3ee8c02e995ac973851d3281f7.svg"
     },
     {
       "id": 374958,
@@ -57938,7 +57715,7 @@
       "max_floor": 9,
       "price": 28568480.0,
       "original_price": "35710600.00",
-      "dvizh_min_mortgage": 81834,
+      "dvizh_min_mortgage": 251204,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -57956,7 +57733,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/fa1d62066736bcdd2085a4a1f86c3982905da114.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 451017,
@@ -58155,7 +57932,7 @@
       "max_floor": 9,
       "price": 28634160.0,
       "original_price": "35792700.00",
-      "dvizh_min_mortgage": 82022,
+      "dvizh_min_mortgage": 251782,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -58173,7 +57950,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7f498e39bd3c843381372775a586ac0fcc1063d4.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 374612,
@@ -58985,7 +58762,7 @@
       "id": 425616,
       "number": "70",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 3,
       "area": 77.14,
       "floor": 11,
@@ -58996,7 +58773,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -59151,7 +58928,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 13,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -59519,7 +59296,7 @@
       "max_floor": 9,
       "price": 29418816.0,
       "original_price": "36773520.00",
-      "dvizh_min_mortgage": 84270,
+      "dvizh_min_mortgage": 258681,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -59537,7 +59314,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/78b6d896e9686761a95bdfae5047e24cac9d0829.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 401605,
@@ -59860,7 +59637,7 @@
       "max_floor": 9,
       "price": 29747520.0,
       "original_price": "37184400.00",
-      "dvizh_min_mortgage": 85212,
+      "dvizh_min_mortgage": 261571,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -59878,7 +59655,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/bc8e892ccbdbd06b949e82b9bc391511b594b430.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5cc1ec86cf2a8cd307f247df99bd8f8e18d4d78b.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
       "id": 338937,
@@ -60050,7 +59827,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 62,
+      "booking_days": 61,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -61645,7 +61422,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/efd1bdbbdc75541b2f8f19e3eef2b9ef2950538d.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/57ad199bc033136a4f0a48e30ec249f948842232.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
       "id": 451076,
@@ -61724,7 +61501,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 85,
+      "booking_days": 84,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -61879,7 +61656,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 37,
+      "booking_days": 36,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -61893,7 +61670,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/3aa8d5b21e07642503ce29002daae4be5c34c2ef.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 432010,
@@ -61924,7 +61701,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a4af3c1ccfc1cabfd7b5661dbaf7807473ca9bbf.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/49d98c938ae9dc3fcec9573436de141d8a3070fa.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/da5f5059e56791f120d1d458af10a60418154f55.svg"
     },
     {
       "id": 451301,
@@ -62158,7 +61935,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 36,
+      "booking_days": 35,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -62203,7 +61980,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4580295684b6439e231f81337ab5529232771388.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 450988,
@@ -62358,7 +62135,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/90b3fdfa693ac4c1ea5d19ffaf7f62413d6c7523.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/75abacbcccbea6fe65805d2a67c91d864790ac11.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
       "id": 401735,
@@ -62840,7 +62617,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 12,
+      "booking_days": 11,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -62854,7 +62631,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/6af46033bb8d2c0be5450e7358218e991a90efe2.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 432015,
@@ -62885,7 +62662,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/bb28c6f603d1145851b7cbcab0118bc0f12f7bba.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 373972,
@@ -62933,7 +62710,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 15,
+      "booking_days": 14,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -62947,7 +62724,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/75901b0deb4313d964c35fc923491f02e5fa5ce1.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d38a0913576dce1ac5e754a8bec564768bf4a75a.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d741d4cfb2bd8d3ee8c02e995ac973851d3281f7.svg"
     },
     {
       "id": 401891,
@@ -63040,7 +62817,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/da6d4964291c2a44c0c642a5ddaaf83917a86db3.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 451023,
@@ -63088,7 +62865,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 11,
+      "booking_days": 10,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -63319,7 +63096,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/774b3111555bc876979a91ca8b344c6804b2d965.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 401801,
@@ -63708,7 +63485,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 39,
+      "booking_days": 38,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -63722,7 +63499,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/cf9fad9056fe0c9b3330c8f65ce94451badd4a98.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/49d98c938ae9dc3fcec9573436de141d8a3070fa.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/da5f5059e56791f120d1d458af10a60418154f55.svg"
     },
     {
       "id": 425561,
@@ -64049,7 +63826,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 8,
+      "booking_days": 7,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -64063,7 +63840,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/35417b9080e23395fe10f5992f2fbbef49fb54be.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 425589,
@@ -64100,7 +63877,7 @@
       "id": 401933,
       "number": "371",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 2,
       "area": 79.29,
       "floor": 5,
@@ -64435,7 +64212,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/8ba39acff41822a51d55405593a2b388c1d8a97a.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 373753,
@@ -64483,7 +64260,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -64638,7 +64415,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 11,
+      "booking_days": 10,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -64714,7 +64491,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d1dee41a500c6d059568cd06151c73c6a1a85afa.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 401819,
@@ -64886,7 +64663,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -65030,7 +64807,7 @@
       "id": 373901,
       "number": "152",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 2,
       "area": 72.51,
       "floor": 12,
@@ -65041,7 +64818,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -65247,7 +65024,7 @@
       "id": 145884,
       "number": "19",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 3,
       "area": 97.3,
       "floor": 5,
@@ -65743,7 +65520,7 @@
       "id": 401604,
       "number": "42",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 2,
       "area": 89.34,
       "floor": 7,
@@ -65754,7 +65531,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -65985,7 +65762,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1c8f5df65b5518229b3584205087c7b9d4b3890d.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 373799,
@@ -66388,7 +66165,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1c430bab9ca93a00ff699e6e267717b338371639.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 374541,
@@ -66481,7 +66258,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/29708e44abb94aa80b98298501e5aec2b63fda95.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 374739,
@@ -66760,7 +66537,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d425e857bc78a9497ba2dd30bf30d03d0d3dcc65.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/2d84bb8a517b3296046ce7eae2a9ae83e1a1fb20.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8a9db6c5584db6fa21e044e165b88a40e869682a.svg"
     },
     {
       "id": 374470,
@@ -66822,7 +66599,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/75d53d43b94de459eccbfd7a4c8fee49ad342a19.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 374747,
@@ -67101,7 +66878,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4a89df38009b32788a3810f4043a6f5bad3bae71.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/2d84bb8a517b3296046ce7eae2a9ae83e1a1fb20.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8a9db6c5584db6fa21e044e165b88a40e869682a.svg"
     },
     {
       "id": 374821,
@@ -67318,7 +67095,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/142f279ea152465cd62aa2a20f35ab88c8fc325c.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 374837,
@@ -67535,7 +67312,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/92e336c42adf22f53aaaee8296bd3e1eda3a5657.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 432079,
@@ -67552,7 +67329,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 13,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -67566,7 +67343,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7255ddf13b973f9f7e500c5af28afa5661000dad.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 373819,
@@ -67752,7 +67529,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/65467e48a1a06e934d522a9037ddbc2992d60f95.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 373858,
@@ -67955,7 +67732,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 15,
+      "booking_days": 14,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -67969,7 +67746,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7eedf6d2ff32ead3f1773716903f7b3f26337f4f.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 373862,
@@ -68062,7 +67839,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0ae3ad0d0c09d5079250340b698f985ce413998a.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 374484,
@@ -68155,7 +67932,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1390cd1c3b1f82e6a04425e69d3a0e71058eaebe.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 401964,
@@ -68279,7 +68056,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d7fb4c07088d50307783f34a18086be2c87ffb7a.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 401795,
@@ -68341,7 +68118,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4ba3f6b7747ed92705cccbcb9fe870ec4a516807.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d38a0913576dce1ac5e754a8bec564768bf4a75a.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d741d4cfb2bd8d3ee8c02e995ac973851d3281f7.svg"
     },
     {
       "id": 85990,
@@ -68358,7 +68135,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -68434,7 +68211,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/526e38998a8bb35307c5b5148e643574b2ff3a4e.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 374899,
@@ -68527,7 +68304,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/bb5e940383e01bd8d40092409a065bdd4d29a91a.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 401800,
@@ -68699,7 +68476,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -68713,7 +68490,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/eb5713f855669f5974940c3d00f242b4157a4455.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 86014,
@@ -68837,7 +68614,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/33cdbf1eb578bfbe237e007f2975127d88ee1ebf.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 432006,
@@ -68854,7 +68631,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 15,
+      "booking_days": 14,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -68868,7 +68645,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/088c461530a7733e485dc1c705f0e99cb72cd9bc.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 431908,
@@ -68899,7 +68676,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/022e583f244a1ead35f2aae9acdb2027f4807fd2.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 85968,
@@ -68967,7 +68744,7 @@
       "id": 432077,
       "number": "270",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 2,
       "area": 73.04,
       "floor": 5,
@@ -68992,7 +68769,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c48f2ae740daa66eb322c3e503e2a2fdc0133d99.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 432017,
@@ -69023,7 +68800,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b3e1d3e3afde9a14c731e47badf94a7ad2212a09.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 431948,
@@ -69054,7 +68831,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/09d1ff3038fabdd6766d6b60f740ef3d225dae15.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 374959,
@@ -69116,7 +68893,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2b03c7691d992cef6d9b767dfafe4636f090ab65.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 85984,
@@ -69178,7 +68955,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/718916151cd7fc9e1d48d1f995d53a3f786e62ac.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 373894,
@@ -69240,7 +69017,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/afb8d62c3386df0b15146730411b5d59ce32bad8.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 431947,
@@ -69271,7 +69048,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9df6d20ba57e6ee88325adc6567bb2568e399ea7.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 432041,
@@ -69302,7 +69079,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e93f0cdb14b8fc0d1bf2f31d693e0ff6f2b26193.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 87517,
@@ -69319,7 +69096,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -69364,7 +69141,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/8d846efadf1f7034eef9c2f61287a884d7ddcf81.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5cc1ec86cf2a8cd307f247df99bd8f8e18d4d78b.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
       "id": 431842,
@@ -69395,7 +69172,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4c30e754f7e41403b944cb37f98b3e0506fa6d88.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/2d84bb8a517b3296046ce7eae2a9ae83e1a1fb20.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8a9db6c5584db6fa21e044e165b88a40e869682a.svg"
     },
     {
       "id": 431953,
@@ -69426,7 +69203,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/ff2133bbee3a157907a103db2f309ad58c83b456.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 431815,
@@ -69457,7 +69234,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/508e755ba9ff2a67304533bbbfa91c8980a60ace.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5cc1ec86cf2a8cd307f247df99bd8f8e18d4d78b.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
       "id": 86000,
@@ -69519,7 +69296,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a405e6f472a7edd89fae02c75d6eb1da90ef2ff7.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 86003,
@@ -69536,7 +69313,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -69581,7 +69358,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b84d4b1ebd07569221af80bca8f8bff3609c5808.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/2d84bb8a517b3296046ce7eae2a9ae83e1a1fb20.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8a9db6c5584db6fa21e044e165b88a40e869682a.svg"
     },
     {
       "id": 431851,
@@ -69612,7 +69389,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/076c162e9dab4571907683df1762a7f4c691140c.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/57ad199bc033136a4f0a48e30ec249f948842232.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
       "id": 401848,
@@ -69674,7 +69451,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/eda968d1fc189e02c875fb16567cc087dd5a13bb.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 85940,
@@ -69736,7 +69513,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7e0e3bae6c8356ff9bd846c6de38a2ea34072e00.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 431814,
@@ -69767,7 +69544,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/eaa56af693b205f36e097138d58100614a70a3a7.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5cc1ec86cf2a8cd307f247df99bd8f8e18d4d78b.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
       "id": 374979,
@@ -69829,7 +69606,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/28f4160f61ffbbef2eedf443ce8f466c89622ee5.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/57ad199bc033136a4f0a48e30ec249f948842232.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
       "id": 401855,
@@ -69891,7 +69668,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b4532652bf979fa34df95fc62caf9729fa6a4786.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5cc1ec86cf2a8cd307f247df99bd8f8e18d4d78b.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
       "id": 431859,
@@ -69922,7 +69699,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7bac04ac35eb2efc83c3ca1bb6ce76a1a5cd7fb7.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/75abacbcccbea6fe65805d2a67c91d864790ac11.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
       "id": 431875,
@@ -69953,7 +69730,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/55f8f22eda86b5450a510b3f7c9b273712a71dee.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 431877,
@@ -69984,7 +69761,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0e0a76a60fe8192b95cb6ad4e66bf928ffd0c93b.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 86015,
@@ -70077,7 +69854,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0ba44b11c6ca92e62cbcc6e6467edd4eee789c70.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/75abacbcccbea6fe65805d2a67c91d864790ac11.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
       "id": 431874,
@@ -70108,7 +69885,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/91a45e9fa198f0f7eb3b8905d1a83efab0f669d0.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 431822,
@@ -70139,7 +69916,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a81424dcb624c63ca305b7b3bbc57a52d288afaa.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/57ad199bc033136a4f0a48e30ec249f948842232.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
       "id": 431885,
@@ -70170,7 +69947,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d76180f8524048b317b2b2dc57ad4a570b2f7ef5.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 431887,
@@ -70201,7 +69978,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e0db748839bf118b674d815674e3579947dbe7ee.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 87543,
@@ -70218,7 +69995,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -70263,7 +70040,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e192a411dd5d0f79e2637ce11180bba1599bdd65.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/57ad199bc033136a4f0a48e30ec249f948842232.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
       "id": 401920,
@@ -70325,7 +70102,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/52614539ecccf4194fa977c04b4c3039df6f94bb.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 374681,
@@ -70449,7 +70226,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/eb4d5935a133e634002af2f98f69a180c912086d.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/75abacbcccbea6fe65805d2a67c91d864790ac11.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
       "id": 431895,
@@ -70480,7 +70257,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/868f7638e09bf892df61900487e71b384d44556f.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 431897,
@@ -70511,7 +70288,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b0062066a8556cadebedcc1097e4d24f3c52c97b.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 431860,
@@ -70542,7 +70319,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4106ed9723525e0e050217a0446a637b8acb0f1e.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/75abacbcccbea6fe65805d2a67c91d864790ac11.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
       "id": 431949,
@@ -70573,7 +70350,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/536048fdb56a4725927b3e6aa25113c654b67130.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 401869,
@@ -70635,7 +70412,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e6921ac09e1b4db490ca657ffff4942bdfd2d215.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 87387,
@@ -70652,7 +70429,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -70697,7 +70474,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4d00d49ac20e44cb5e6ed3d26b9a21888e00f298.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 431955,
@@ -70728,7 +70505,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7e8d30882e2181da16dead3967f7fdfb2f0c31a0.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 401838,
@@ -70790,7 +70567,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e7b244728c03cc0b4269b2c9c01f26b205e96ede.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 401935,
@@ -70852,7 +70629,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d7bdd1b3af199f8f80be49d9c6a6f65371cea455.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5cc1ec86cf2a8cd307f247df99bd8f8e18d4d78b.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
       "id": 432049,
@@ -70883,7 +70660,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9436027c659d434cab8f468f313e585677a6be43.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 87386,
@@ -70900,7 +70677,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -70945,7 +70722,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/fe93ac5d13656b879e6353c6089b88677717c46d.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5cc1ec86cf2a8cd307f247df99bd8f8e18d4d78b.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
       "id": 431961,
@@ -70976,7 +70753,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4c81d6dd50d1702201cc48d484bb9018c02b5231.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 431838,
@@ -71007,7 +70784,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/635322aaa45d05ee6e603d716675f0268650a80f.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/2e44cd40f262562715e4581bd042096c93c3327d.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a4e0d0fe22617bd0c29e1ed2cf073f1a654107f.svg"
     },
     {
       "id": 431923,
@@ -71038,7 +70815,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/dd7f8e358ab8d595c0a049b732e6bcdc9c5b57d8.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 431854,
@@ -71069,7 +70846,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/16a69db5e7646cf932439888a5eb531a2cecbf08.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/57ad199bc033136a4f0a48e30ec249f948842232.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
       "id": 431969,
@@ -71100,7 +70877,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/57f8e96a0bf9dd18383c29020d214d2b8d8a5bca.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 401890,
@@ -71162,7 +70939,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/861fe87e075379a82321732a30d13a3f2f3a92b7.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 432055,
@@ -71193,7 +70970,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1611ae5a39e29a866b7b08b3175f357363a6a32e.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 87660,
@@ -71210,7 +70987,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -71255,7 +71032,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/ab3a11ca2c4efc6cda810f6a245788ac818a1d2d.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/57ad199bc033136a4f0a48e30ec249f948842232.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
       "id": 431879,
@@ -71286,7 +71063,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1910eab4f24e59e38bf6ca9d05b9387c19e8c279.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 431862,
@@ -71317,7 +71094,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/dc2d9fd3e222549b25b80841346cff6228b0a078.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/75abacbcccbea6fe65805d2a67c91d864790ac11.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
       "id": 431975,
@@ -71348,7 +71125,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/beafaa9cee7f5f32fb6ba2b63252638416d5b52c.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 432114,
@@ -71379,7 +71156,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b8620be20b7c147cc403bd9dfec91f8e1a754048.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 431828,
@@ -71410,7 +71187,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/3930f2384eaab3a767a521fef8bf2cd06ecbaa53.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/75abacbcccbea6fe65805d2a67c91d864790ac11.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
       "id": 431971,
@@ -71441,7 +71218,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b05c9ba3d3b326aafecbdb84d658ec3c4a92ca63.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 431889,
@@ -71472,7 +71249,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4d2e507db0fec940ced2d3b2fc350e45ba705390.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 432028,
@@ -71503,7 +71280,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/8207113dcf4eb69fa7fdc21d7587471bdf084a8c.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 401950,
@@ -71565,7 +71342,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/53f02b91e10c5df2c72eca27f60a26adf39e00fd.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 431981,
@@ -71596,7 +71373,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2079a70493d6a18b2d886923c5d29dd7a24382d9.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 401904,
@@ -71613,7 +71390,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -71658,7 +71435,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/33256473bb8b7891fb5492d0107442b816a9034b.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 431899,
@@ -71689,7 +71466,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/6bf5ed689dcd982bc66579998cf68af9c078eb95.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 85950,
@@ -71751,7 +71528,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/017def87309166af46d103c5488ecb28094395ba.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 401955,
@@ -71799,7 +71576,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -71844,7 +71621,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/21d947fa3033f0b70e6bd8da738f1323e663b8ed.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 401839,
@@ -71906,7 +71683,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/5575d17b6de8fe63ee4a1e6d2210819b15c18848.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/2e44cd40f262562715e4581bd042096c93c3327d.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a4e0d0fe22617bd0c29e1ed2cf073f1a654107f.svg"
     },
     {
       "id": 432036,
@@ -71937,7 +71714,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/03fdfa64806cf93a903cee3a25bb0995b1c92343.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 85982,
@@ -72030,7 +71807,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b63e9b6687bc9373f0291c9b702b56f345531f87.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 432107,
@@ -72061,7 +71838,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/47a6e5d9c65233591641db2478d8ab89deb112d9.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 85979,
@@ -72123,7 +71900,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/598b5e0e34d1516b74d99f2bcfa2a2cd1f98e6bf.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 401915,
@@ -72185,7 +71962,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/012a5102d971743c95214f4d6f453d0b72fd0a6c.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 431917,
@@ -72216,7 +71993,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0db792a65607fcd4cafa1b04ab1ad536b6897d42.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 432142,
@@ -72247,7 +72024,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f661aba56623cbebac2027f709b3b7247da3a419.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 431993,
@@ -72278,7 +72055,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/24b04f271b69058c3db462be3069733421f363f0.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 431994,
@@ -72309,7 +72086,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/063aa1492bc810faa72eccc5d45c2b9b6b8cfc17.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 432071,
@@ -72340,7 +72117,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2e7c723b930f3138913e6fe3fc6a657a0edeb674.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 432070,
@@ -72371,7 +72148,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d55bacc0158d0a06cf74c10ad762a9fef43db6fb.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 432127,
@@ -72402,7 +72179,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d8472306c2fe64c8fa09b4d3aa85ba1705b2f866.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 431911,
@@ -72433,7 +72210,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9afa88c369e63d4593cd7e981161198576afd225.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 87321,
@@ -72450,7 +72227,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": 6,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -72495,7 +72272,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/78b73d0a678ec1838606e6b37e0595ce9db78874.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 432051,
@@ -72526,7 +72303,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c354887c7fe35f1984bdbe1ca95f46387d738f04.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 431916,
@@ -72557,7 +72334,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/fba82d215c97864b12b94643076274c061be5cb3.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 432143,
@@ -72588,7 +72365,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a3c74d724b30f4137ec8352cf7fac545821ae73e.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 87629,
@@ -72650,7 +72427,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c55362b71cbce2232a1f7f3c79d905bab4796be7.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 432115,
@@ -72681,7 +72458,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/020898d5ca5023adc1716625fe907c30875e4dcb.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 432027,
@@ -72712,7 +72489,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/599b8084d391547a2909df847e92e705dc81ed55.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 87632,
@@ -72729,7 +72506,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -72774,7 +72551,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/272ff2fce8d7f531a47ab823eb4b4d469777d3ad.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 432003,
@@ -72805,7 +72582,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/68c90b2cef7235073a1058aa600a966fa8eb2bcf.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 432152,
@@ -72836,7 +72613,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7bf0ede7d4044a0ac1190e88739b973a134a2ed5.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 432004,
@@ -72867,7 +72644,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2fd24762409f3d0e68444005299ab7436b9359b3.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 432081,
@@ -72898,7 +72675,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a1656d1176e06901f41b25d48b43e3de8848514c.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 432080,
@@ -72929,7 +72706,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c47981cd7332c23c5d620c7187e43091fcc084c2.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 85935,
@@ -72991,7 +72768,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/49133c014cb69f3cd0e61df5cf896379f82088f6.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 432125,
@@ -73022,7 +72799,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c80db29591835abc483e07eb2fd5d02c4e844fa2.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 432009,
@@ -73053,7 +72830,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/80c248f7be21c6749df5ed028b87b6989419252a.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/49d98c938ae9dc3fcec9573436de141d8a3070fa.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/da5f5059e56791f120d1d458af10a60418154f55.svg"
     },
     {
       "id": 431926,
@@ -73084,7 +72861,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e20806fe89978b88cdcbef149ceaedf5eeb7f7f2.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 432153,
@@ -73101,7 +72878,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 8,
+      "booking_days": 7,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -73115,7 +72892,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4dae81de17a48c3c893b0900c38d0abb073b2549.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 87326,
@@ -73132,7 +72909,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 38,
+      "booking_days": 37,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -73177,7 +72954,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/540410bb616cc1d6fbae8665bcbd083fe698bcf4.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 432090,
@@ -73208,7 +72985,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/5b0f6c47c10731a1e17fd9004c769b953ad4fea5.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 432013,
@@ -73239,7 +73016,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0ae098d0c565d3bbd5f3eeca8e51f0cf8c8d9498.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 431937,
@@ -73270,7 +73047,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e3c9aa8c143af812ed482a5f53023cab9c76a2be.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 432037,
@@ -73287,7 +73064,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 7,
+      "booking_days": 6,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -73301,7 +73078,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c049a5bdacb145c76e2d774ee5cb139fc07f84ba.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d38a0913576dce1ac5e754a8bec564768bf4a75a.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d741d4cfb2bd8d3ee8c02e995ac973851d3281f7.svg"
     },
     {
       "id": 432103,
@@ -73332,7 +73109,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/69e66c0dddbb17128a5d5e5ef21e681b70cd2053.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/80354a799231bbaa69c68dba15321d6b51a8ec57.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
       "id": 431965,
@@ -73363,7 +73140,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2c87c65bee6d3f057492dbcb0d91b813ce70881c.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/b1a43609175a08165ea2e3bbe8c483bae7c8a4a3.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6ea0e05c67d2a3163de494d92434e8bb9bfafd5c.svg"
     },
     {
       "id": 86009,
@@ -73425,7 +73202,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/eac435ef32189b0f01483df50fbac9652c22b34c.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 432113,
@@ -73456,7 +73233,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/699c9e8588d6135f3cea32fa490a82d2b601f655.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7bee86169410672acf8b73ac1aea4fa3aff62525.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
       "id": 85967,
@@ -73504,7 +73281,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 15,
+      "booking_days": 14,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -73518,7 +73295,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/76ba5ca36bffec997ccd451d2e719a40bc77bd3e.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d38a0913576dce1ac5e754a8bec564768bf4a75a.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d741d4cfb2bd8d3ee8c02e995ac973851d3281f7.svg"
     },
     {
       "id": 432018,
@@ -73535,7 +73312,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -73549,7 +73326,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b53e291b85f4ad62d415eb91a9e558ff2f255d88.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d38a0913576dce1ac5e754a8bec564768bf4a75a.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d741d4cfb2bd8d3ee8c02e995ac973851d3281f7.svg"
     },
     {
       "id": 432123,
@@ -73580,7 +73357,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/fba4289efb7cc95ce984c4aa65eab23323b9b2de.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/84bd440e9d35b8854ff6556507a296dbc8c0f591.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
       "id": 85983,
@@ -73642,7 +73419,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/266785ee1c3a69ccd918290f100c1d7a4400ae34.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d3ed4a627511f329a9e8e258fa347edf2c5ff296.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
       "id": 86024,
@@ -73659,7 +73436,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -73710,7 +73487,7 @@
       "id": 86019,
       "number": "41",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 3,
       "area": 129.4,
       "floor": 8,
@@ -73797,7 +73574,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9a1612a031104fb48424ce947480ba5583c5b16b.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/b1a43609175a08165ea2e3bbe8c483bae7c8a4a3.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6ea0e05c67d2a3163de494d92434e8bb9bfafd5c.svg"
     },
     {
       "id": 87542,
@@ -73814,7 +73591,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -73907,7 +73684,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 12,
+      "booking_days": 11,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -73938,7 +73715,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -73983,13 +73760,13 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b1c6cc5e23c0bc2d2d1c5aedc2950afdd82a9c73.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/b1a43609175a08165ea2e3bbe8c483bae7c8a4a3.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6ea0e05c67d2a3163de494d92434e8bb9bfafd5c.svg"
     },
     {
       "id": 87570,
       "number": "253",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 3,
       "area": 160.9,
       "floor": 6,
@@ -74000,7 +73777,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -74031,7 +73808,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -74076,7 +73853,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c82d1005b09d01b6ee0f2305167260ddcd2124b3.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/b1a43609175a08165ea2e3bbe8c483bae7c8a4a3.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6ea0e05c67d2a3163de494d92434e8bb9bfafd5c.svg"
     },
     {
       "id": 87636,
@@ -74138,7 +73915,7 @@
       "completion_quarter": 2,
       "project_class": "Премиум",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/366138b03b0e289a0a018d17fa8dbed46fca38c9.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/b1a43609175a08165ea2e3bbe8c483bae7c8a4a3.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6ea0e05c67d2a3163de494d92434e8bb9bfafd5c.svg"
     }
   ]
 }
