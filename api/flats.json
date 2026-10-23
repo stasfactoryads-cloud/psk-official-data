@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:20:17+00:00",
+  "generated_at": "2026-10-23T09:14:49+00:00",
   "source": "https://psk-info.ru/api/flats/",
   "count": 2354,
   "flats": [
@@ -1679,7 +1679,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 13,
+      "booking_days": 12,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -4735,7 +4735,7 @@
       "id": 336719,
       "number": "1103",
       "type": "apartments",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 0,
       "area": 25.7,
       "floor": 11,
@@ -10068,7 +10068,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -10617,7 +10617,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 2,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -13195,7 +13195,7 @@
       "id": 139630,
       "number": "180",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 1,
       "area": 36.1,
       "floor": 4,
@@ -13208,7 +13208,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -13426,7 +13426,7 @@
       "id": 334938,
       "number": "45",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 1,
       "area": 35.4,
       "floor": 2,
@@ -26844,7 +26844,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -30216,7 +30216,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 7,
+      "booking_days": 6,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -30340,7 +30340,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -33876,37 +33876,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/b0f39c33bac53723169a5506c815878259c5d3a9.svg"
     },
     {
-      "id": 374877,
-      "number": "793",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 1,
-      "area": 39.57,
-      "floor": 1,
-      "max_floor": 12,
-      "price": 18854867.58,
-      "original_price": "22182197.00",
-      "dvizh_min_mortgage": 37856,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "5",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/603e6110f1e442231af5666ea58ff8bbf21717b2.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5482dde203ec07d43f3dd81982a00ab15344a0bb.svg"
-    },
-    {
       "id": 416014,
       "number": "182",
       "type": "flat",
@@ -34124,37 +34093,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/31ebbe8cfb38ebabb9a2c24cbf2111fe4d79411d.svg"
     },
     {
-      "id": 374892,
-      "number": "808",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 1,
-      "area": 38.82,
-      "floor": 3,
-      "max_floor": 12,
-      "price": 18933057.48,
-      "original_price": "22274185.00",
-      "dvizh_min_mortgage": 38013,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "5",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/306c825f12c7b901b2217d1a2ca21654a0245d2c.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d4d704d8a5301a4202d4dbdcff5e0a0ac04cc02a.svg"
-    },
-    {
       "id": 415474,
       "number": "136",
       "type": "flat",
@@ -34370,6 +34308,37 @@
       "project_class": "Комфорт",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a4d769b211d778a631e174568dfec61fd3e386b2.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/061050c5a30c499da737ba3d22c4fdc511c3490d.svg"
+    },
+    {
+      "id": 374877,
+      "number": "793",
+      "type": "flat",
+      "status": "Свободно",
+      "rooms": 1,
+      "area": 39.57,
+      "floor": 1,
+      "max_floor": 12,
+      "price": 19044803.58,
+      "original_price": "22405651.00",
+      "dvizh_min_mortgage": 37856,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": null,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "5",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/603e6110f1e442231af5666ea58ff8bbf21717b2.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5482dde203ec07d43f3dd81982a00ab15344a0bb.svg"
     },
     {
       "id": 374441,
@@ -34653,6 +34622,37 @@
       "project_class": "Комфорт",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d366d7b18091aa3dd722d9532497c02e99f1d6e7.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/27d439bb0a945fc635b5dc824f51896e529228bb.svg"
+    },
+    {
+      "id": 374892,
+      "number": "808",
+      "type": "flat",
+      "status": "Свободно",
+      "rooms": 1,
+      "area": 38.82,
+      "floor": 3,
+      "max_floor": 12,
+      "price": 19123275.48,
+      "original_price": "22497971.00",
+      "dvizh_min_mortgage": 38013,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": null,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "5",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/306c825f12c7b901b2217d1a2ca21654a0245d2c.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d4d704d8a5301a4202d4dbdcff5e0a0ac04cc02a.svg"
     },
     {
       "id": 145941,
@@ -36655,37 +36655,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/31ebbe8cfb38ebabb9a2c24cbf2111fe4d79411d.svg"
     },
     {
-      "id": 374942,
-      "number": "858",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 1,
-      "area": 38.82,
-      "floor": 8,
-      "max_floor": 12,
-      "price": 19566599.88,
-      "original_price": "23019529.00",
-      "dvizh_min_mortgage": 39285,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "5",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/306c825f12c7b901b2217d1a2ca21654a0245d2c.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/659aa5e8d20bb24805e6837d49af66a463dcc91b.svg"
-    },
-    {
       "id": 416030,
       "number": "198",
       "type": "flat",
@@ -37961,6 +37930,37 @@
       "project_class": "Бизнес",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/bf692af4c10a0b2bec66e3a05565590f3422e178.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/cbc30028a5f5b8e921f3bc80cc77344d51bfd451.svg"
+    },
+    {
+      "id": 374942,
+      "number": "858",
+      "type": "flat",
+      "status": "Свободно",
+      "rooms": 1,
+      "area": 38.82,
+      "floor": 8,
+      "max_floor": 12,
+      "price": 19760699.88,
+      "original_price": "23247882.00",
+      "dvizh_min_mortgage": 39285,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": null,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "5",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/306c825f12c7b901b2217d1a2ca21654a0245d2c.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/659aa5e8d20bb24805e6837d49af66a463dcc91b.svg"
     },
     {
       "id": 395206,
@@ -41893,37 +41893,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d468b451e54fc57cd497b0d611db44dcfae4bf41.svg"
     },
     {
-      "id": 374972,
-      "number": "888",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 1,
-      "area": 38.82,
-      "floor": 11,
-      "max_floor": 12,
-      "price": 20564429.16,
-      "original_price": "24193446.00",
-      "dvizh_min_mortgage": 41289,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "5",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9768f28ca1e09e6062ff113044b1ec071c5e1bd9.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/4857d8c0367d4dd16fd1e42ad7f0b1b7e5c462ce.svg"
-    },
-    {
       "id": 451352,
       "number": "372",
       "type": "flat",
@@ -42604,6 +42573,37 @@
       "project_class": "Бизнес",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/619f2c5a1352d14f21fa218aa22eba80953b7d24.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/30c196c580c445a84a87ba0f258feb1ed893a64c.svg"
+    },
+    {
+      "id": 374972,
+      "number": "888",
+      "type": "flat",
+      "status": "Свободно",
+      "rooms": 1,
+      "area": 38.82,
+      "floor": 11,
+      "max_floor": 12,
+      "price": 20770175.16,
+      "original_price": "24435500.00",
+      "dvizh_min_mortgage": 41289,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": null,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "5",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9768f28ca1e09e6062ff113044b1ec071c5e1bd9.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/4857d8c0367d4dd16fd1e42ad7f0b1b7e5c462ce.svg"
     },
     {
       "id": 374520,
@@ -44375,37 +44375,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/71a08d899c0c1b48a48b5430ea52d21f37b2a487.svg"
     },
     {
-      "id": 374525,
-      "number": "441",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 1,
-      "area": 42.71,
-      "floor": 2,
-      "max_floor": 12,
-      "price": 21199108.5,
-      "original_price": "24940127.00",
-      "dvizh_min_mortgage": 42563,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "4",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e5a181b8b7795da8db03d7a5b4c194a5f50c095b.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d1f618c9685cb5e6651fec9f4433f88a15dee250.svg"
-    },
-    {
       "id": 374408,
       "number": "324",
       "type": "flat",
@@ -44809,6 +44778,37 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/71a08d899c0c1b48a48b5430ea52d21f37b2a487.svg"
     },
     {
+      "id": 374525,
+      "number": "441",
+      "type": "flat",
+      "status": "Свободно",
+      "rooms": 1,
+      "area": 42.71,
+      "floor": 2,
+      "max_floor": 12,
+      "price": 21305883.5,
+      "original_price": "25065745.00",
+      "dvizh_min_mortgage": 42563,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": null,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "4",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e5a181b8b7795da8db03d7a5b4c194a5f50c095b.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d1f618c9685cb5e6651fec9f4433f88a15dee250.svg"
+    },
+    {
       "id": 374414,
       "number": "330",
       "type": "flat",
@@ -44838,37 +44838,6 @@
       "project_class": "Бизнес",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4e15fc7d06781c0c30ea916298336c8d12d1736f.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/55bd2e521cac7608f4f7b0570d66f01398b73f2c.svg"
-    },
-    {
-      "id": 374534,
-      "number": "450",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 1,
-      "area": 42.54,
-      "floor": 3,
-      "max_floor": 12,
-      "price": 21309987.6,
-      "original_price": "25070573.00",
-      "dvizh_min_mortgage": 42786,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "4",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/be1c99ce858b6d8444222125f30b2f68cb185fd3.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/79afd11d1027978037caa33dfcdf2207295eff61.svg"
     },
     {
       "id": 401888,
@@ -45243,6 +45212,37 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6775b182b69f7747df6be5e1a04c9acaaf4aed39.svg"
     },
     {
+      "id": 374534,
+      "number": "450",
+      "type": "flat",
+      "status": "Свободно",
+      "rooms": 1,
+      "area": 42.54,
+      "floor": 3,
+      "max_floor": 12,
+      "price": 21416337.6,
+      "original_price": "25195691.00",
+      "dvizh_min_mortgage": 42786,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": null,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "4",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/be1c99ce858b6d8444222125f30b2f68cb185fd3.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/79afd11d1027978037caa33dfcdf2207295eff61.svg"
+    },
+    {
       "id": 415567,
       "number": "229",
       "type": "flat",
@@ -45305,37 +45305,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/b80a6d120fc30772834e2de65238be77f0e71946.svg"
     },
     {
-      "id": 374533,
-      "number": "449",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 1,
-      "area": 42.85,
-      "floor": 3,
-      "max_floor": 12,
-      "price": 21465279.0,
-      "original_price": "25253269.00",
-      "dvizh_min_mortgage": 43098,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "4",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f298729fe732e31cad90fd27097801543a9f4339.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/79afd11d1027978037caa33dfcdf2207295eff61.svg"
-    },
-    {
       "id": 374930,
       "number": "846",
       "type": "flat",
@@ -45367,37 +45336,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/9f4fb5ceebddcdbc4e2b4351828378b2f39f1553.svg"
     },
     {
-      "id": 374570,
-      "number": "486",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 1,
-      "area": 42.54,
-      "floor": 7,
-      "max_floor": 12,
-      "price": 21483550.8,
-      "original_price": "25274765.00",
-      "dvizh_min_mortgage": 43134,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "4",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/be1c99ce858b6d8444222125f30b2f68cb185fd3.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/286e8f555e03c1217103a76795ed0b2675cd3fa7.svg"
-    },
-    {
       "id": 401708,
       "number": "146",
       "type": "flat",
@@ -45427,68 +45365,6 @@
       "project_class": "Бизнес",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/748d201523391afe2420ed2abea86cfcc997bb60.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5b6a922ca6b1a66dba7871e1ad9e7b74dbc85bdd.svg"
-    },
-    {
-      "id": 374542,
-      "number": "458",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 1,
-      "area": 42.85,
-      "floor": 4,
-      "max_floor": 12,
-      "price": 21508986.0,
-      "original_price": "25304689.00",
-      "dvizh_min_mortgage": 43185,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "4",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f298729fe732e31cad90fd27097801543a9f4339.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/1e9a3755e766ec99cafaec1a0568b58ea8d8dcbc.svg"
-    },
-    {
-      "id": 374579,
-      "number": "495",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 1,
-      "area": 42.54,
-      "floor": 8,
-      "max_floor": 12,
-      "price": 21526941.6,
-      "original_price": "25325813.00",
-      "dvizh_min_mortgage": 43221,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "4",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/be1c99ce858b6d8444222125f30b2f68cb185fd3.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/55bd2e521cac7608f4f7b0570d66f01398b73f2c.svg"
     },
     {
       "id": 415805,
@@ -45553,17 +45429,17 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/21fa4e5b05f33b1529b50cfdd5e3219c6192e779.svg"
     },
     {
-      "id": 374524,
-      "number": "440",
+      "id": 374533,
+      "number": "449",
       "type": "flat",
       "status": "Свободно",
       "rooms": 1,
-      "area": 43.61,
-      "floor": 2,
+      "area": 42.85,
+      "floor": 3,
       "max_floor": 12,
-      "price": 21556859.1,
-      "original_price": "25361010.00",
-      "dvizh_min_mortgage": 43281,
+      "price": 21572404.0,
+      "original_price": "25379298.00",
+      "dvizh_min_mortgage": 43098,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -45580,8 +45456,8 @@
       "completion_year": 2028,
       "completion_quarter": 3,
       "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2f7f9c848338c8761741bf5b27535cabe59b6907.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d1f618c9685cb5e6651fec9f4433f88a15dee250.svg"
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f298729fe732e31cad90fd27097801543a9f4339.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/79afd11d1027978037caa33dfcdf2207295eff61.svg"
     },
     {
       "id": 374950,
@@ -45677,17 +45553,48 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/37e0ff4bc7161eea7400f069642c2851f901a259.svg"
     },
     {
-      "id": 374560,
-      "number": "476",
+      "id": 374570,
+      "number": "486",
+      "type": "flat",
+      "status": "Свободно",
+      "rooms": 1,
+      "area": 42.54,
+      "floor": 7,
+      "max_floor": 12,
+      "price": 21589900.8,
+      "original_price": "25399883.00",
+      "dvizh_min_mortgage": 43134,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": null,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "4",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/be1c99ce858b6d8444222125f30b2f68cb185fd3.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/286e8f555e03c1217103a76795ed0b2675cd3fa7.svg"
+    },
+    {
+      "id": 374542,
+      "number": "458",
       "type": "flat",
       "status": "Свободно",
       "rooms": 1,
       "area": 42.85,
-      "floor": 6,
+      "floor": 4,
       "max_floor": 12,
-      "price": 21596400.0,
-      "original_price": "25407529.00",
-      "dvizh_min_mortgage": 43361,
+      "price": 21616111.0,
+      "original_price": "25430718.00",
+      "dvizh_min_mortgage": 43185,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
@@ -45705,7 +45612,7 @@
       "completion_quarter": 3,
       "project_class": "Бизнес",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f298729fe732e31cad90fd27097801543a9f4339.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/f285a025f4339a14394a4f315ab2b45736d04153.svg"
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/1e9a3755e766ec99cafaec1a0568b58ea8d8dcbc.svg"
     },
     {
       "id": 374960,
@@ -45739,21 +45646,21 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/cbc9adccc266dc5c6728b48b7984a34a865fa3fd.svg"
     },
     {
-      "id": 374569,
-      "number": "485",
+      "id": 374579,
+      "number": "495",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 1,
-      "area": 42.85,
-      "floor": 7,
+      "area": 42.54,
+      "floor": 8,
       "max_floor": 12,
-      "price": 21640107.0,
-      "original_price": "25458949.00",
-      "dvizh_min_mortgage": 43449,
+      "price": 21633291.6,
+      "original_price": "25450931.00",
+      "dvizh_min_mortgage": 43221,
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 12,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -45766,8 +45673,8 @@
       "completion_year": 2028,
       "completion_quarter": 3,
       "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f298729fe732e31cad90fd27097801543a9f4339.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/286e8f555e03c1217103a76795ed0b2675cd3fa7.svg"
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/be1c99ce858b6d8444222125f30b2f68cb185fd3.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/55bd2e521cac7608f4f7b0570d66f01398b73f2c.svg"
     },
     {
       "id": 146519,
@@ -45801,6 +45708,37 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/a52dacc7226c998dc5c277bb8ccdf531260e79ff.svg"
     },
     {
+      "id": 374524,
+      "number": "440",
+      "type": "flat",
+      "status": "Свободно",
+      "rooms": 1,
+      "area": 43.61,
+      "floor": 2,
+      "max_floor": 12,
+      "price": 21665884.1,
+      "original_price": "25489275.00",
+      "dvizh_min_mortgage": 43281,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": null,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "4",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2f7f9c848338c8761741bf5b27535cabe59b6907.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d1f618c9685cb5e6651fec9f4433f88a15dee250.svg"
+    },
+    {
       "id": 401736,
       "number": "174",
       "type": "flat",
@@ -45830,6 +45768,37 @@
       "project_class": "Бизнес",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/ac780168e66493c6a391dd930085e483b24efb56.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8efc3a23aa695f44801c8e081a0a3fdc8d8abb34.svg"
+    },
+    {
+      "id": 374560,
+      "number": "476",
+      "type": "flat",
+      "status": "Свободно",
+      "rooms": 1,
+      "area": 42.85,
+      "floor": 6,
+      "max_floor": 12,
+      "price": 21703525.0,
+      "original_price": "25533558.00",
+      "dvizh_min_mortgage": 43361,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": null,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "4",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f298729fe732e31cad90fd27097801543a9f4339.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/f285a025f4339a14394a4f315ab2b45736d04153.svg"
     },
     {
       "id": 374956,
@@ -45985,6 +45954,37 @@
       "project_class": "Комфорт",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/20a359e7041d3d8b9bc2b35c4eb3738d4edd47fa.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5fa56c4d28a36501194cfe98434ccaab6cac7832.svg"
+    },
+    {
+      "id": 374569,
+      "number": "485",
+      "type": "flat",
+      "status": "Бронь",
+      "rooms": 1,
+      "area": 42.85,
+      "floor": 7,
+      "max_floor": 12,
+      "price": 21747232.0,
+      "original_price": "25584978.00",
+      "dvizh_min_mortgage": 43449,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": 12,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "4",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f298729fe732e31cad90fd27097801543a9f4339.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/286e8f555e03c1217103a76795ed0b2675cd3fa7.svg"
     },
     {
       "id": 401750,
@@ -46559,7 +46559,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 78,
+      "booking_days": 77,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -46944,7 +46944,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/3b2483ebd8237a07302d0ae52b205b28a81f2215.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b5259452905eec1ba3bb92c542e7eac543832c5e.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -47068,7 +47068,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f5e7ea430b15f211767e84ff6fbc5e3aa54f2f30.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/807891d28bbd0684d5da46aa38f6a2febaff5294.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -49331,7 +49331,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/740f53931c1184a4571fed63b2cc2dff0404784c.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7d0e2439297f4e1f1761c58449012b1ad4c4dcee.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8a9db6c5584db6fa21e044e165b88a40e869682a.svg"
     },
     {
@@ -50651,7 +50651,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 61,
+      "booking_days": 60,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -51054,7 +51054,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 63,
+      "booking_days": 62,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -51098,7 +51098,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/bb1fc43b58a255ae57d2c8405bf66ab1454f79b7.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c403e6ec753173bfd49c472a8b9724c745695944.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -51656,7 +51656,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b7711e2967cccee7874df5eaeb1a92ef43312755.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2892b09f9aae19840037617d3658a78b4e5f91ad.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -52090,7 +52090,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/78dfa33c3c215d11c170843574e4b528d6b94400.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4293be5e1a724f95e236901d3bd0ef206d2a4698.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8a9db6c5584db6fa21e044e165b88a40e869682a.svg"
     },
     {
@@ -54614,7 +54614,7 @@
       "floor": 7,
       "max_floor": 7,
       "price": 26572602.0,
-      "original_price": "31261884.71",
+      "original_price": "31261884.00",
       "dvizh_min_mortgage": 53352,
       "min_mortgage": null,
       "discount": false,
@@ -54818,7 +54818,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/15c81f8e1004257d3337c1aa5603b9ffd38fc786.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/46bba321f62ebba540d6542ea985f98e7cef41f2.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -55128,7 +55128,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0cfb568985bf8e088da02b54942de88cea890b9d.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4403ee21e6819dbf8ec94e7c9fceb4b62d7eaa17.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -55159,7 +55159,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c0d5b3bae8ccd5c10e54872749c1fdb73c7644ab.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7ab66bc98dec2fef46be0b3f208c5e545fedc185.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -55252,7 +55252,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7fbae8059aff1f8ebb6807b698954c9e761ed9df.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/ad5066c55f3f1c746e3a3592785047a90d21ecec.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
@@ -55345,7 +55345,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/dc146f9504469b63bae118614a933a58b807111f.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/6abfdf68ae9a12477bbae60f2e764e00057e410c.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -55593,7 +55593,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/35a5b1fcefb57e8378a29a60f07debc6e4ea2665.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/fbd209f1a661ba11a3d29e2afd8050ce6c538896.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -55748,7 +55748,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a81bedaf627290102ac6aac5a573ef859004ff36.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b760d7d7ed02ee3407214f863f99b3d18a1d400b.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -55810,7 +55810,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7fbfa54d6bc35a30cb22691b8c8eb115b2a2a625.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f60e7189dd61cad969d8a488ed096b728598d577.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -55996,7 +55996,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a549046f37b95a394ff5eb9ba142502c98e90e92.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/015fb01f237b67d40109bd44c3367bbe7c221090.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -56027,7 +56027,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/22dfb48faa7c5278aeabcf1b672d7841a97b3b17.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/351bad4d1cc0f751ff8929e60e82816f187ad65b.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -56337,7 +56337,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1098f21b2b833d7f8961de464120191deb2e4740.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/36b13a1491d09277d23fcb263dfb25f1d385322a.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -56430,7 +56430,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/97965bc9de911529814c7dcd258b380e7b556f06.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/04ef43215f6800911dc5552621b7bbfb26c8b920.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
@@ -56554,7 +56554,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/bdd44d34d0f1e7583aa3549a2cacd9a2f505bc6c.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b1187f0ee783868e73d012c3d8e510f97c383bd1.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -56585,7 +56585,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1635112227b0720822f25ac0a2ae70a00fe83bad.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/425c2df855a226f2ca5e080cf404fbfbea0aa8a4.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -56988,7 +56988,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7b221ad25479c27fb135f6ec7b83ec9d8d262da2.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/6ade92595f590fddb2914f91b4739f6176db79ba.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
@@ -57019,7 +57019,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2c71e62ef62555c35a2cb129232504ac958e7f6b.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c873ebb9a7f9f159f62af09986adab2bb31e3262.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -57112,7 +57112,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0e24e221fcde397296a0ad16963ace1e38171120.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a8f159c68c67090b34e3e0038fc232a3b430f45e.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -57484,7 +57484,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9806b3f6ea4b7f29e723b8db6972ec7c04e6bb14.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/73ce087179d4837ea395678193c42b044028a8b1.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d741d4cfb2bd8d3ee8c02e995ac973851d3281f7.svg"
     },
     {
@@ -57732,7 +57732,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/fa1d62066736bcdd2085a4a1f86c3982905da114.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/257c19cedfc0fa035023045860d0d3d5886f73a0.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -57949,7 +57949,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7f498e39bd3c843381372775a586ac0fcc1063d4.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2adf843a3216d5beff8e78c6328bfc9f132f87fb.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -58830,7 +58830,7 @@
       "floor": 8,
       "max_floor": 12,
       "price": 28981848.0,
-      "original_price": "34096292.00",
+      "original_price": "34096291.00",
       "dvizh_min_mortgage": 58189,
       "min_mortgage": null,
       "discount": false,
@@ -59140,7 +59140,7 @@
       "floor": 10,
       "max_floor": 12,
       "price": 29196195.84,
-      "original_price": "34348465.69",
+      "original_price": "34348465.00",
       "dvizh_min_mortgage": 58620,
       "min_mortgage": null,
       "discount": false,
@@ -59313,7 +59313,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/78b6d896e9686761a95bdfae5047e24cac9d0829.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b4f55a859a2ba0e5cde1fd3f1d61dc63595b7987.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -59472,68 +59472,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/35ecb062f79ade9705b3929f64899aeca7a4c988.svg"
     },
     {
-      "id": 374880,
-      "number": "796",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 2,
-      "area": 76.26,
-      "floor": 1,
-      "max_floor": 12,
-      "price": 29612978.16,
-      "original_price": "34838797.00",
-      "dvizh_min_mortgage": 59456,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "5",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/73a29c5342500a7c756c80d3266d55ad3e61f97b.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5482dde203ec07d43f3dd81982a00ab15344a0bb.svg"
-    },
-    {
-      "id": 374887,
-      "number": "803",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 2,
-      "area": 75.33,
-      "floor": 2,
-      "max_floor": 12,
-      "price": 29674294.92,
-      "original_price": "34910935.00",
-      "dvizh_min_mortgage": 59579,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "5",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e11eff42d5324abf36ce26d7dd6718eaa8706b42.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/fdd87718a54909dd8ad98b85a55f565ba553c5e4.svg"
-    },
-    {
       "id": 145871,
       "number": "6",
       "type": "flat",
@@ -59654,7 +59592,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/bc8e892ccbdbd06b949e82b9bc391511b594b430.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/44d6aa68ce46e373d296856c665ae2714fc55662.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
@@ -59906,6 +59844,37 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/22c63e2f494a69af477c809409e6661bf247c7fa.svg"
     },
     {
+      "id": 374880,
+      "number": "796",
+      "type": "flat",
+      "status": "Свободно",
+      "rooms": 2,
+      "area": 76.26,
+      "floor": 1,
+      "max_floor": 12,
+      "price": 29910392.16,
+      "original_price": "35188696.00",
+      "dvizh_min_mortgage": 59456,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": null,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "5",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/73a29c5342500a7c756c80d3266d55ad3e61f97b.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5482dde203ec07d43f3dd81982a00ab15344a0bb.svg"
+    },
+    {
       "id": 374703,
       "number": "619",
       "type": "flat",
@@ -60061,6 +60030,37 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/ec36788a21fa4738314a2eac23a3a54482118b9d.svg"
     },
     {
+      "id": 374887,
+      "number": "803",
+      "type": "flat",
+      "status": "Свободно",
+      "rooms": 2,
+      "area": 75.33,
+      "floor": 2,
+      "max_floor": 12,
+      "price": 29968081.92,
+      "original_price": "35256566.00",
+      "dvizh_min_mortgage": 59579,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": null,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "5",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e11eff42d5324abf36ce26d7dd6718eaa8706b42.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/fdd87718a54909dd8ad98b85a55f565ba553c5e4.svg"
+    },
+    {
       "id": 373994,
       "number": "245",
       "type": "flat",
@@ -60090,37 +60090,6 @@
       "project_class": "Бизнес",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/952309c979bd2c3fd4da05658e25a1a06be2dc45.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/45b6a54c2f895c0f489afce265ff4a36d518f985.svg"
-    },
-    {
-      "id": 374895,
-      "number": "811",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 2,
-      "area": 75.33,
-      "floor": 3,
-      "max_floor": 12,
-      "price": 30020059.62,
-      "original_price": "35317717.00",
-      "dvizh_min_mortgage": 60274,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "5",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a4ca60555302f12f076bb586f803727207d78eed.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d4d704d8a5301a4202d4dbdcff5e0a0ac04cc02a.svg"
     },
     {
       "id": 401700,
@@ -60402,37 +60371,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/a364735430e5a2dadf12c5a6c4a1025b5e68ac70.svg"
     },
     {
-      "id": 373810,
-      "number": "61",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 2,
-      "area": 75.36,
-      "floor": 4,
-      "max_floor": 12,
-      "price": 30136162.56,
-      "original_price": "35454308.00",
-      "dvizh_min_mortgage": 60507,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "2",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/dac2642f378d133faae4cc38cb5aa2b46c94d970.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6e44fb24ab9f9def9ccfd3514996aceb782bfb2e.svg"
-    },
-    {
       "id": 373869,
       "number": "120",
       "type": "flat",
@@ -60679,6 +60617,37 @@
       "project_class": "Бизнес",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/89d68bce3541784039b9b9a5996ca107f1cbe6e8.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/5fbf563e633925679641a7f3b69cd0a7568f05b6.svg"
+    },
+    {
+      "id": 374895,
+      "number": "811",
+      "type": "flat",
+      "status": "Свободно",
+      "rooms": 2,
+      "area": 75.33,
+      "floor": 3,
+      "max_floor": 12,
+      "price": 30321379.62,
+      "original_price": "35672211.00",
+      "dvizh_min_mortgage": 60274,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": null,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "5",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a4ca60555302f12f076bb586f803727207d78eed.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d4d704d8a5301a4202d4dbdcff5e0a0ac04cc02a.svg"
     },
     {
       "id": 451104,
@@ -61020,6 +60989,37 @@
       "project_class": "Комфорт",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f2c7990df6a011de0eea68507f272dac7418d291.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/e8cb431671825beb06061b3f1423e97817b286ac.svg"
+    },
+    {
+      "id": 373810,
+      "number": "61",
+      "type": "flat",
+      "status": "Свободно",
+      "rooms": 2,
+      "area": 75.36,
+      "floor": 4,
+      "max_floor": 12,
+      "price": 30437602.56,
+      "original_price": "35808944.00",
+      "dvizh_min_mortgage": 60507,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": null,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "2",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/dac2642f378d133faae4cc38cb5aa2b46c94d970.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6e44fb24ab9f9def9ccfd3514996aceb782bfb2e.svg"
     },
     {
       "id": 373954,
@@ -61421,7 +61421,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/efd1bdbbdc75541b2f8f19e3eef2b9ef2950538d.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/40d57d6530e5e031ace0183bd6780f5925daf2d5.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
@@ -61669,7 +61669,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/3aa8d5b21e07642503ce29002daae4be5c34c2ef.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/befcaa8bc8e049b959a30c487a871d5996ed6c10.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -61700,7 +61700,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a4af3c1ccfc1cabfd7b5661dbaf7807473ca9bbf.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a705288674d4497c2b4d2243a831a3ae7cc52850.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/da5f5059e56791f120d1d458af10a60418154f55.svg"
     },
     {
@@ -61806,7 +61806,7 @@
       "floor": 11,
       "max_floor": 12,
       "price": 30981124.3,
-      "original_price": "36448381.53",
+      "original_price": "36448381.00",
       "dvizh_min_mortgage": 62203,
       "min_mortgage": null,
       "discount": false,
@@ -61837,7 +61837,7 @@
       "floor": 11,
       "max_floor": 12,
       "price": 30990197.7,
-      "original_price": "36459056.12",
+      "original_price": "36459056.00",
       "dvizh_min_mortgage": 62222,
       "min_mortgage": null,
       "discount": false,
@@ -61868,7 +61868,7 @@
       "floor": 11,
       "max_floor": 12,
       "price": 31005070.8,
-      "original_price": "36476553.88",
+      "original_price": "36476553.00",
       "dvizh_min_mortgage": 62251,
       "min_mortgage": null,
       "discount": false,
@@ -61921,37 +61921,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/71a08d899c0c1b48a48b5430ea52d21f37b2a487.svg"
     },
     {
-      "id": 374955,
-      "number": "871",
-      "type": "flat",
-      "status": "Бронь",
-      "rooms": 2,
-      "area": 75.33,
-      "floor": 9,
-      "max_floor": 12,
-      "price": 31080103.38,
-      "original_price": "36564827.00",
-      "dvizh_min_mortgage": 62402,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": 35,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "5",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a4ca60555302f12f076bb586f803727207d78eed.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/cbc9adccc266dc5c6728b48b7984a34a865fa3fd.svg"
-    },
-    {
       "id": 432106,
       "number": "299",
       "type": "flat",
@@ -61979,7 +61948,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4580295684b6439e231f81337ab5529232771388.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/566661c0f33632e8927d119c374db89590cdd81e.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -62134,7 +62103,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/90b3fdfa693ac4c1ea5d19ffaf7f62413d6c7523.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0b64a36c684571f1a7b2edf1a75696fc9914fed5.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
@@ -62324,6 +62293,37 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/ec36788a21fa4738314a2eac23a3a54482118b9d.svg"
     },
     {
+      "id": 374955,
+      "number": "871",
+      "type": "flat",
+      "status": "Бронь",
+      "rooms": 2,
+      "area": 75.33,
+      "floor": 9,
+      "max_floor": 12,
+      "price": 31388956.38,
+      "original_price": "36928183.00",
+      "dvizh_min_mortgage": 62402,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": 35,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "5",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a4ca60555302f12f076bb586f803727207d78eed.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/cbc9adccc266dc5c6728b48b7984a34a865fa3fd.svg"
+    },
+    {
       "id": 451132,
       "number": "152",
       "type": "flat",
@@ -62364,7 +62364,7 @@
       "floor": 11,
       "max_floor": 12,
       "price": 31447346.92,
-      "original_price": "36996878.73",
+      "original_price": "36996878.00",
       "dvizh_min_mortgage": 63139,
       "min_mortgage": null,
       "discount": false,
@@ -62541,37 +62541,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/48b8835484894d685354b05ba5e79ba56ec63a85.svg"
     },
     {
-      "id": 373830,
-      "number": "81",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 2,
-      "area": 75.36,
-      "floor": 8,
-      "max_floor": 12,
-      "price": 31759869.12,
-      "original_price": "37364551.00",
-      "dvizh_min_mortgage": 63767,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "2",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/6f4646d9b61a4138bc2431d37e184ba5c53dbbe0.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/b3a3b644d2b4f2031c45f7e3bd97f34214b4157c.svg"
-    },
-    {
       "id": 373885,
       "number": "136",
       "type": "flat",
@@ -62630,7 +62599,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/6af46033bb8d2c0be5450e7358218e991a90efe2.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b75657310cc0d7b093163879f8598ba9b8d8964c.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -62661,7 +62630,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/bb28c6f603d1145851b7cbcab0118bc0f12f7bba.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/71380f9b5afb865f5302989662989549b3230e12.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -62674,7 +62643,7 @@
       "floor": 12,
       "max_floor": 12,
       "price": 31810320.0,
-      "original_price": "37423905.88",
+      "original_price": "37423905.00",
       "dvizh_min_mortgage": 63868,
       "min_mortgage": null,
       "discount": false,
@@ -62723,7 +62692,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/75901b0deb4313d964c35fc923491f02e5fa5ce1.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/ded2920a0edca3826ccb452ed9d81f580a29022b.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d741d4cfb2bd8d3ee8c02e995ac973851d3281f7.svg"
     },
     {
@@ -62816,7 +62785,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/da6d4964291c2a44c0c642a5ddaaf83917a86db3.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e5f4e4526b5966c452752f1286dae41ae45abc68.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -62975,6 +62944,37 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6032c1881b22ced8bb6eace6850ea980f6feda8d.svg"
     },
     {
+      "id": 373830,
+      "number": "81",
+      "type": "flat",
+      "status": "Свободно",
+      "rooms": 2,
+      "area": 75.36,
+      "floor": 8,
+      "max_floor": 12,
+      "price": 32076381.12,
+      "original_price": "37736918.00",
+      "dvizh_min_mortgage": 63767,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": null,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "2",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/6f4646d9b61a4138bc2431d37e184ba5c53dbbe0.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/b3a3b644d2b4f2031c45f7e3bd97f34214b4157c.svg"
+    },
+    {
       "id": 401706,
       "number": "144",
       "type": "flat",
@@ -63095,7 +63095,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/774b3111555bc876979a91ca8b344c6804b2d965.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b54f66f20c2b8461f819233346ce6a588b02dba8.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -63325,7 +63325,7 @@
       "floor": 12,
       "max_floor": 12,
       "price": 32802361.6,
-      "original_price": "38591013.65",
+      "original_price": "38591013.00",
       "dvizh_min_mortgage": 65860,
       "min_mortgage": null,
       "discount": false,
@@ -63498,7 +63498,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/cf9fad9056fe0c9b3330c8f65ce94451badd4a98.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/ff13a8fcd8e2866c1880241139d3576d8b5e058f.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/da5f5059e56791f120d1d458af10a60418154f55.svg"
     },
     {
@@ -63750,37 +63750,6 @@
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/a60c2155647afd390e7837088cbf02000e95a1fc.svg"
     },
     {
-      "id": 374975,
-      "number": "891",
-      "type": "flat",
-      "status": "Свободно",
-      "rooms": 2,
-      "area": 74.81,
-      "floor": 11,
-      "max_floor": 12,
-      "price": 33441416.58,
-      "original_price": "39342843.04",
-      "dvizh_min_mortgage": 67143,
-      "min_mortgage": null,
-      "discount": false,
-      "tags": [],
-      "booking_days": null,
-      "finishing": "Без отделки",
-      "assignment": false,
-      "leasing": false,
-      "auction": false,
-      "project": 41,
-      "project_name": "«Ассамблея», клубный квартал",
-      "project_slug": "assambleya-klubnyj-kvartal",
-      "building": "5",
-      "section": null,
-      "completion_year": 2028,
-      "completion_quarter": 3,
-      "project_class": "Бизнес",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/847239bf7420cf066c574cb7e3f4ba27c95ac745.svg",
-      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/4857d8c0367d4dd16fd1e42ad7f0b1b7e5c462ce.svg"
-    },
-    {
       "id": 401808,
       "number": "246",
       "type": "flat",
@@ -63839,7 +63808,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/35417b9080e23395fe10f5992f2fbbef49fb54be.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/8d838c4152c261d3205d63b1dedf91f24ef6970b.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -63996,6 +63965,37 @@
       "project_class": "Комфорт",
       "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4561bf24a948e144520201220ed22b725245b040.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/da29bb3f7c8d235e8d6b02b6cff1e77c54720725.svg"
+    },
+    {
+      "id": 374975,
+      "number": "891",
+      "type": "flat",
+      "status": "Свободно",
+      "rooms": 2,
+      "area": 74.81,
+      "floor": 11,
+      "max_floor": 12,
+      "price": 33778061.58,
+      "original_price": "39738895.00",
+      "dvizh_min_mortgage": 67143,
+      "min_mortgage": null,
+      "discount": false,
+      "tags": [],
+      "booking_days": null,
+      "finishing": "Без отделки",
+      "assignment": false,
+      "leasing": false,
+      "auction": false,
+      "project": 41,
+      "project_name": "«Ассамблея», клубный квартал",
+      "project_slug": "assambleya-klubnyj-kvartal",
+      "building": "5",
+      "section": null,
+      "completion_year": 2028,
+      "completion_quarter": 3,
+      "project_class": "Бизнес",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/847239bf7420cf066c574cb7e3f4ba27c95ac745.svg",
+      "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/4857d8c0367d4dd16fd1e42ad7f0b1b7e5c462ce.svg"
     },
     {
       "id": 146855,
@@ -64211,7 +64211,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/8ba39acff41822a51d55405593a2b388c1d8a97a.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e8f85e701a97de0e7f236098149fddc1f5c3c8c5.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -64260,7 +64260,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -64490,7 +64490,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d1dee41a500c6d059568cd06151c73c6a1a85afa.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/00fe6e9716d66964f9bb7979c68828497fdd6a68.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -64813,7 +64813,7 @@
       "floor": 12,
       "max_floor": 12,
       "price": 34855557.0,
-      "original_price": "41006537.65",
+      "original_price": "41006537.00",
       "dvizh_min_mortgage": 69982,
       "min_mortgage": null,
       "discount": false,
@@ -64906,7 +64906,7 @@
       "floor": 7,
       "max_floor": 7,
       "price": 34880463.0,
-      "original_price": "41035838.82",
+      "original_price": "41035838.00",
       "dvizh_min_mortgage": 70032,
       "min_mortgage": null,
       "discount": false,
@@ -65216,7 +65216,7 @@
       "floor": 7,
       "max_floor": 7,
       "price": 35246929.2,
-      "original_price": "41466975.53",
+      "original_price": "41466975.00",
       "dvizh_min_mortgage": 70768,
       "min_mortgage": null,
       "discount": false,
@@ -65761,7 +65761,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1c8f5df65b5518229b3584205087c7b9d4b3890d.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0d2864a3a74b2dbb4dab4ebfb285274de952a962.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -66164,7 +66164,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1c430bab9ca93a00ff699e6e267717b338371639.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/fe0e23332a99607b6a856adb4e15231084d80374.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -66257,7 +66257,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/29708e44abb94aa80b98298501e5aec2b63fda95.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/6230f7be77459b2044546a53cb1a892cffa8b374.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -66536,7 +66536,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d425e857bc78a9497ba2dd30bf30d03d0d3dcc65.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/99f26762087d81e08a577d4f8f74dcd9ed63f0a6.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8a9db6c5584db6fa21e044e165b88a40e869682a.svg"
     },
     {
@@ -66598,7 +66598,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/75d53d43b94de459eccbfd7a4c8fee49ad342a19.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f6abd88de103a19b2a4c3daa7fa7bbc82575d2c7.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -66828,7 +66828,7 @@
       "floor": 7,
       "max_floor": 7,
       "price": 38323398.4,
-      "original_price": "45086351.06",
+      "original_price": "45086351.00",
       "dvizh_min_mortgage": 76945,
       "min_mortgage": null,
       "discount": false,
@@ -66877,7 +66877,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4a89df38009b32788a3810f4043a6f5bad3bae71.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d3ada2e44eeb3cdbac66273c26c21a83219915c0.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8a9db6c5584db6fa21e044e165b88a40e869682a.svg"
     },
     {
@@ -67094,7 +67094,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/142f279ea152465cd62aa2a20f35ab88c8fc325c.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/43611dc0e77246b7cb9109f3b7d732d8cb45e7c0.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -67311,7 +67311,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/92e336c42adf22f53aaaee8296bd3e1eda3a5657.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e690361141a688b6e51d86ef188a264cfeaeaaa1.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -67329,7 +67329,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 13,
+      "booking_days": 12,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -67342,7 +67342,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7255ddf13b973f9f7e500c5af28afa5661000dad.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4a2735c221be139d311f4618d22eade7aa15a894.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -67479,7 +67479,7 @@
       "floor": 7,
       "max_floor": 7,
       "price": 39379993.2,
-      "original_price": "46329403.76",
+      "original_price": "46329403.00",
       "dvizh_min_mortgage": 79066,
       "min_mortgage": null,
       "discount": false,
@@ -67528,7 +67528,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/65467e48a1a06e934d522a9037ddbc2992d60f95.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f1337046c824a480c72aab14ab8558ca9bc35198.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -67659,7 +67659,7 @@
       "id": 85975,
       "number": "21",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 2,
       "area": 72.3,
       "floor": 5,
@@ -67745,7 +67745,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7eedf6d2ff32ead3f1773716903f7b3f26337f4f.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/608741afe1bb7c5a4301cee8233e263ef1ccdcd3.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -67838,7 +67838,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0ae3ad0d0c09d5079250340b698f985ce413998a.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/19910645da24dab87c31dfa592295fc41e1f1ca5.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -67931,7 +67931,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1390cd1c3b1f82e6a04425e69d3a0e71058eaebe.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/969d073543c3ac33fd01cfb4df7d8a12c0a82276.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -68055,7 +68055,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d7fb4c07088d50307783f34a18086be2c87ffb7a.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0569dbd33af898a2e469dd17f0f3631180110158.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -68117,7 +68117,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4ba3f6b7747ed92705cccbcb9fe870ec4a516807.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b5f816fcab1e1721e1b5e43e6709b8f96938e352.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d741d4cfb2bd8d3ee8c02e995ac973851d3281f7.svg"
     },
     {
@@ -68210,7 +68210,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/526e38998a8bb35307c5b5148e643574b2ff3a4e.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c7d2aafce51984bdfbb39f9234e70763e95527a9.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -68303,7 +68303,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/bb5e940383e01bd8d40092409a065bdd4d29a91a.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/47bb3b1441af91c96ec42fd5370093f8e2163bd0.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -68409,7 +68409,7 @@
       "floor": 11,
       "max_floor": 12,
       "price": 41343809.36,
-      "original_price": "48639775.72",
+      "original_price": "48639775.00",
       "dvizh_min_mortgage": 83009,
       "min_mortgage": null,
       "discount": false,
@@ -68489,7 +68489,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/eb5713f855669f5974940c3d00f242b4157a4455.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1f12d45ecd7e2c30f59632fbedc0018c33881497.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -68613,7 +68613,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/33cdbf1eb578bfbe237e007f2975127d88ee1ebf.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c443ccc034e746b8198ae9bd726cdd3f2430201e.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -68644,7 +68644,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/088c461530a7733e485dc1c705f0e99cb72cd9bc.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/128df14df811937b59d05a7dd8f873787dc7171b.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -68675,7 +68675,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/022e583f244a1ead35f2aae9acdb2027f4807fd2.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b5d673342464bb8e242c42a80e87d1cdd5d0bc9b.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -68768,7 +68768,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c48f2ae740daa66eb322c3e503e2a2fdc0133d99.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/32e0278e4e2bf552ada739b0d3b3675e2e6603ac.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -68799,7 +68799,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b3e1d3e3afde9a14c731e47badf94a7ad2212a09.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/abe93a8773d8fe1ec981cb1b94eb9670922f79a2.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -68830,7 +68830,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/09d1ff3038fabdd6766d6b60f740ef3d225dae15.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/6e43b2c0ff9eee9bfd2e4cc0efb9bf34b3ed9fca.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -68892,7 +68892,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2b03c7691d992cef6d9b767dfafe4636f090ab65.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/31cfe7eb18862477d02402ba7277997b06b2ed95.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -68954,7 +68954,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/718916151cd7fc9e1d48d1f995d53a3f786e62ac.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/145cd2ce2ef746124de622825973ac9ead1a8683.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -68967,7 +68967,7 @@
       "floor": 11,
       "max_floor": 12,
       "price": 43116062.04,
-      "original_price": "50724778.87",
+      "original_price": "50724778.00",
       "dvizh_min_mortgage": 86568,
       "min_mortgage": null,
       "discount": false,
@@ -69016,7 +69016,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/afb8d62c3386df0b15146730411b5d59ce32bad8.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f5ed46592921bcf92eb6e2287e836dbb64c5bb27.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -69047,7 +69047,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9df6d20ba57e6ee88325adc6567bb2568e399ea7.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/49077f8ec4f4041797c46daaf7e7f40d8113fbbd.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -69078,7 +69078,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e93f0cdb14b8fc0d1bf2f31d693e0ff6f2b26193.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9c9228f93436cb49ab5f273136bce1e028565d84.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -69140,7 +69140,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/8d846efadf1f7034eef9c2f61287a884d7ddcf81.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7aeb3a4a2dbddc29e49a1e245fb9278f9cc06d50.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
@@ -69171,7 +69171,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4c30e754f7e41403b944cb37f98b3e0506fa6d88.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4479c6fee20f33b12c0e9dfe5f857d136ed2c334.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8a9db6c5584db6fa21e044e165b88a40e869682a.svg"
     },
     {
@@ -69202,7 +69202,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/ff2133bbee3a157907a103db2f309ad58c83b456.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/79e809f851ea6391f025aaee04dfb9c3e3614fc5.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -69233,7 +69233,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/508e755ba9ff2a67304533bbbfa91c8980a60ace.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/ab54ed30e42388fc73f3af4c05232dcfca4d594f.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
@@ -69295,7 +69295,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a405e6f472a7edd89fae02c75d6eb1da90ef2ff7.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/63941b2c10290cb9ebcd294e8c959328b6a57029.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -69357,7 +69357,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b84d4b1ebd07569221af80bca8f8bff3609c5808.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/aebb7c1c25514e082274b024293c483fa92b2662.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8a9db6c5584db6fa21e044e165b88a40e869682a.svg"
     },
     {
@@ -69388,7 +69388,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/076c162e9dab4571907683df1762a7f4c691140c.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/50398e67a611130a4050b098206e82601a7a9e41.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
@@ -69450,7 +69450,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/eda968d1fc189e02c875fb16567cc087dd5a13bb.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e57d8810c6aed5b39e653da643b188688a0ea06f.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -69512,7 +69512,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7e0e3bae6c8356ff9bd846c6de38a2ea34072e00.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/cb18040b7ee9b19c9023ab6945875b344d28471d.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -69543,7 +69543,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/eaa56af693b205f36e097138d58100614a70a3a7.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c0861d8938c1e83aa657947435935c2f2af3633d.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
@@ -69556,7 +69556,7 @@
       "floor": 11,
       "max_floor": 12,
       "price": 45704653.56,
-      "original_price": "53770180.66",
+      "original_price": "53770180.00",
       "dvizh_min_mortgage": 85934,
       "min_mortgage": null,
       "discount": false,
@@ -69605,7 +69605,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/28f4160f61ffbbef2eedf443ce8f466c89622ee5.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/3fe7119c8dfc6921120215e650d744b6e576de9b.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
@@ -69667,7 +69667,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b4532652bf979fa34df95fc62caf9729fa6a4786.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/6145e92f8f502f5cae6c608ae6407f09f5c23583.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
@@ -69698,7 +69698,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7bac04ac35eb2efc83c3ca1bb6ce76a1a5cd7fb7.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/8355690cddc0349fbd7ae274a80bf91df3288305.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
@@ -69729,7 +69729,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/55f8f22eda86b5450a510b3f7c9b273712a71dee.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/fe83dee7ceedacec5f3d061884477395685512fc.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -69760,7 +69760,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0e0a76a60fe8192b95cb6ad4e66bf928ffd0c93b.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/210adaf54908a4ca65614b2f72812a43715bac63.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -69853,7 +69853,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0ba44b11c6ca92e62cbcc6e6467edd4eee789c70.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/97064d8263b34543076e8e6c21e75efc9ec65c9f.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
@@ -69884,7 +69884,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/91a45e9fa198f0f7eb3b8905d1a83efab0f669d0.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/07526829b92efd424aabe0aec4348b5e4ad0e1ee.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -69915,7 +69915,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a81424dcb624c63ca305b7b3bbc57a52d288afaa.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b3edd3310da80ca910620cd052c1670d250f55fd.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
@@ -69946,7 +69946,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d76180f8524048b317b2b2dc57ad4a570b2f7ef5.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f91827ed9d47bd04d7873e2cd712b5c2af943bdc.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -69977,7 +69977,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e0db748839bf118b674d815674e3579947dbe7ee.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/895143b7d626642016371f87e0b55bed3f655153.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -70039,7 +70039,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e192a411dd5d0f79e2637ce11180bba1599bdd65.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b95e9c1f8a6129f220ef6224e910bca3959ba710.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
@@ -70101,7 +70101,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/52614539ecccf4194fa977c04b4c3039df6f94bb.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/eb5c626624105d3cd69eb2003b0449630ffc622a.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -70225,7 +70225,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/eb4d5935a133e634002af2f98f69a180c912086d.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2aa8327e52958d4eecf0d37869447a308d01637e.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
@@ -70256,7 +70256,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/868f7638e09bf892df61900487e71b384d44556f.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/bdb331fb31c56b18b7bff177e21e4a0f145cff5d.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -70287,7 +70287,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b0062066a8556cadebedcc1097e4d24f3c52c97b.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7905aa706de4c46f6bf0635976969fe2a176325a.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -70318,7 +70318,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4106ed9723525e0e050217a0446a637b8acb0f1e.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/ea957e54125e14c14849c9b60a50ceb4693ca947.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
@@ -70349,7 +70349,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/536048fdb56a4725927b3e6aa25113c654b67130.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/bd70368c6a6d7f7ec1ba7786bbf3a3c8a32c257b.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -70411,7 +70411,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e6921ac09e1b4db490ca657ffff4942bdfd2d215.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/072f795e99a9f804dcf62ee192ba6e93dbea9fbb.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -70429,7 +70429,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -70473,7 +70473,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4d00d49ac20e44cb5e6ed3d26b9a21888e00f298.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/3a6fd7715748cd72a1bc433d0595ad1228aaca45.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -70504,7 +70504,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7e8d30882e2181da16dead3967f7fdfb2f0c31a0.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0217adba45751cb37c8fecd903339b0a801b2190.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -70566,7 +70566,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e7b244728c03cc0b4269b2c9c01f26b205e96ede.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/8ec8ef1ddea0a038f415d402225f8627c35326bd.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -70628,7 +70628,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d7bdd1b3af199f8f80be49d9c6a6f65371cea455.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4c750f761f75eaa9130681c2470f9e73196e9f50.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
@@ -70659,7 +70659,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9436027c659d434cab8f468f313e585677a6be43.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1d491ab71db23ded785b1b01a7508833e37ebbeb.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -70677,7 +70677,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -70721,7 +70721,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/fe93ac5d13656b879e6353c6089b88677717c46d.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0056d8160083da18051b0506c58757969e0a3fc4.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/297ed88b60fb40fb683f12691db6fe37514ac9b4.svg"
     },
     {
@@ -70752,7 +70752,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4c81d6dd50d1702201cc48d484bb9018c02b5231.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/603d620b47ec973c499b7401267a38859b693f6b.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -70783,7 +70783,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/635322aaa45d05ee6e603d716675f0268650a80f.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0dd6689572fb24dab258655bbb14e4a0f702f8a3.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a4e0d0fe22617bd0c29e1ed2cf073f1a654107f.svg"
     },
     {
@@ -70814,7 +70814,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/dd7f8e358ab8d595c0a049b732e6bcdc9c5b57d8.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d82b4b24862ab49c2ef03679e8f9efb59f03ee82.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -70845,7 +70845,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/16a69db5e7646cf932439888a5eb531a2cecbf08.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e81ca60a0fdb21039f032a18ccd8b2059298a201.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
@@ -70876,7 +70876,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/57f8e96a0bf9dd18383c29020d214d2b8d8a5bca.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/41eba6cbfefc3e8c30c9ffce0fed67d1e5a09b48.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -70938,7 +70938,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/861fe87e075379a82321732a30d13a3f2f3a92b7.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/3e09ab517bd77ac81c26cdf86c6f189bd32b1bb1.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -70969,7 +70969,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1611ae5a39e29a866b7b08b3175f357363a6a32e.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/fca3d38d2fbfa6d932741896dfa1bd5a8df7a92b.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -71031,7 +71031,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/ab3a11ca2c4efc6cda810f6a245788ac818a1d2d.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b00bea7571d50e8e59a16100b44deedf8b0937e4.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/91a61ee3a09ffa7b9cc41703a5621e972e214fca.svg"
     },
     {
@@ -71062,7 +71062,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1910eab4f24e59e38bf6ca9d05b9387c19e8c279.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/6cd3d7c99a002ad25502c8110e4626b377f1f051.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -71093,7 +71093,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/dc2d9fd3e222549b25b80841346cff6228b0a078.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/506ae7255c5f7f2b2e56c68a6c892ee3fca31fb4.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
@@ -71124,7 +71124,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/beafaa9cee7f5f32fb6ba2b63252638416d5b52c.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/3abf843f95e9139ae0514a8b10a6c6014b0d60f3.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -71155,7 +71155,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b8620be20b7c147cc403bd9dfec91f8e1a754048.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/fbf0fd8ddf8a84a91bfc5bbcd234b7b3c50b561f.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -71186,7 +71186,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/3930f2384eaab3a767a521fef8bf2cd06ecbaa53.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1ac0ad42673ee2f90e4dfadbf64b35738ce56536.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/731c16e8053b598cd128f8d610a35484077e1f4b.svg"
     },
     {
@@ -71217,7 +71217,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b05c9ba3d3b326aafecbdb84d658ec3c4a92ca63.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/aba0820dc4b7d3fd5222cc3b51387d13fe7ea2c0.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -71248,7 +71248,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4d2e507db0fec940ced2d3b2fc350e45ba705390.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/5d453d343f3ef548378de36b20746198503b232f.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -71279,7 +71279,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/8207113dcf4eb69fa7fdc21d7587471bdf084a8c.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/be7cb6349a6d2a533c9a780ad090776fd96c9700.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -71341,7 +71341,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/53f02b91e10c5df2c72eca27f60a26adf39e00fd.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1691154d444a3e11014fb61301a9085f34fa861b.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -71372,7 +71372,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2079a70493d6a18b2d886923c5d29dd7a24382d9.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0565561b41d5afb071cecb869a80e0e8989830fd.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -71434,7 +71434,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/33256473bb8b7891fb5492d0107442b816a9034b.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7e7bcd81d4abb1a0d8df421708af4bae1c87fb89.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -71465,7 +71465,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/6bf5ed689dcd982bc66579998cf68af9c078eb95.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/6ed41d9b99afcbfb28e1664e246e17702977547e.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -71527,7 +71527,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/017def87309166af46d103c5488ecb28094395ba.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/679928368907d5ed44c9f1d9eb557f9f0a590008.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -71620,7 +71620,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/21d947fa3033f0b70e6bd8da738f1323e663b8ed.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/bcac57e3b4f746c4c85eb027f0e0753d2e53253c.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -71682,7 +71682,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/5575d17b6de8fe63ee4a1e6d2210819b15c18848.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e095e5a52d74ec984bd290b449e7363ab8474da2.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a4e0d0fe22617bd0c29e1ed2cf073f1a654107f.svg"
     },
     {
@@ -71713,7 +71713,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/03fdfa64806cf93a903cee3a25bb0995b1c92343.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1fa6d7eaa64f82ef5178d4e62e3269455e39a767.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -71806,7 +71806,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b63e9b6687bc9373f0291c9b702b56f345531f87.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f49ee7bfee8ed3e063914e1d711ed399f0dda1da.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -71837,7 +71837,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/47a6e5d9c65233591641db2478d8ab89deb112d9.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/3ce67fb22d91fc2fd16612b17b79f94abf21d357.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -71899,7 +71899,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/598b5e0e34d1516b74d99f2bcfa2a2cd1f98e6bf.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b7ed89eaa4c112acb80f7659d4f837bc95a71818.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -71961,7 +71961,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/012a5102d971743c95214f4d6f453d0b72fd0a6c.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/df84eb302c547834f859b23e352ae01807b29f4d.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -71992,7 +71992,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0db792a65607fcd4cafa1b04ab1ad536b6897d42.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1c62c8d41efe955ccb81aafb1ec98bd97925e90b.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -72023,7 +72023,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/f661aba56623cbebac2027f709b3b7247da3a419.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/86b9e373a260d095995940002750f9493e1bfd46.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -72054,7 +72054,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/24b04f271b69058c3db462be3069733421f363f0.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e3b85028707af5c5b52901b5781abd20130656bc.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -72085,7 +72085,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/063aa1492bc810faa72eccc5d45c2b9b6b8cfc17.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/ef2571fca4c29318677cc5b8967de4c5aef1cfe2.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -72116,7 +72116,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2e7c723b930f3138913e6fe3fc6a657a0edeb674.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9c194e0ebf8512320037b4be2064e03686fb40db.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -72147,7 +72147,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d55bacc0158d0a06cf74c10ad762a9fef43db6fb.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/53f37a7b8968f2ce5306a54b7b27ea0bf20f9d71.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -72178,7 +72178,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d8472306c2fe64c8fa09b4d3aa85ba1705b2f866.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/26cc859e243f045af1adca7c8a5ea98ee32514a7.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -72209,7 +72209,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9afa88c369e63d4593cd7e981161198576afd225.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0325e021b13e77de4af80f87741fc0160148f2f7.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -72271,7 +72271,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/78b73d0a678ec1838606e6b37e0595ce9db78874.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e1956dd994a8482001792f9cde7780dc5d4fbb42.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -72302,7 +72302,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c354887c7fe35f1984bdbe1ca95f46387d738f04.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b8f4b5511d315d54d533a4a72138f857451dc309.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -72333,7 +72333,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/fba82d215c97864b12b94643076274c061be5cb3.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/81e42289fac85b2cd761d079efb348c206e772eb.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -72364,7 +72364,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a3c74d724b30f4137ec8352cf7fac545821ae73e.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9fb1bfc086aa442fcee8335be390ac6d8a6f2811.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -72426,7 +72426,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c55362b71cbce2232a1f7f3c79d905bab4796be7.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/5d0b71defd2676f5a3e55a744c5b78aa6d086672.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -72457,7 +72457,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/020898d5ca5023adc1716625fe907c30875e4dcb.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9a41d8630aaa7dbdda53053ba0a81f6278cc3e89.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -72488,7 +72488,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/599b8084d391547a2909df847e92e705dc81ed55.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/8229bcae62e44a8b1f13443e6e267aa56f5f6296.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -72550,7 +72550,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/272ff2fce8d7f531a47ab823eb4b4d469777d3ad.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/fcfe66607f0d075ca10c2730794bfa7d9c16fb1e.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -72581,7 +72581,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/68c90b2cef7235073a1058aa600a966fa8eb2bcf.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/26abc145a7a95eee6bd63e90606a3ec24bb3d3e6.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -72612,7 +72612,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7bf0ede7d4044a0ac1190e88739b973a134a2ed5.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2b5407de26eaa2f9cd419b8223fb9fa4c386ae55.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -72643,7 +72643,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2fd24762409f3d0e68444005299ab7436b9359b3.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c9b742a77a740e607c2030767b8bbd982721dcf2.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -72674,7 +72674,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/a1656d1176e06901f41b25d48b43e3de8848514c.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/ac14271fbeba7cb8b5c086b96f26925c3f99a6aa.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -72705,7 +72705,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c47981cd7332c23c5d620c7187e43091fcc084c2.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/8a90b73e976eab9d35c2768cd4e073cef53dc3a1.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -72767,7 +72767,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/49133c014cb69f3cd0e61df5cf896379f82088f6.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/36b32d96b0ef0bd7c8a54637fc16fa843146b6fa.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -72798,7 +72798,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c80db29591835abc483e07eb2fd5d02c4e844fa2.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/cec2d61f3cddc6439254e18ee0b8d99e1f92c9b5.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -72829,7 +72829,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/80c248f7be21c6749df5ed028b87b6989419252a.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/15e631ddc5a477330cd555426a69bb1321d934f3.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/da5f5059e56791f120d1d458af10a60418154f55.svg"
     },
     {
@@ -72860,7 +72860,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e20806fe89978b88cdcbef149ceaedf5eeb7f7f2.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/affe96179485f3609ee183098a911193763d3624.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -72891,7 +72891,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4dae81de17a48c3c893b0900c38d0abb073b2549.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/1d99f3a72a961291fee5d484083918bcbae09009.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -72953,7 +72953,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/540410bb616cc1d6fbae8665bcbd083fe698bcf4.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/73e2866c864df5be244b57514a855f943678d864.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -72984,7 +72984,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/5b0f6c47c10731a1e17fd9004c769b953ad4fea5.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/4cb56591d68bf1493aeed341696f95d14739ca16.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -73015,7 +73015,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0ae098d0c565d3bbd5f3eeca8e51f0cf8c8d9498.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/8db7f32c7bbe45416db0337b100b509e7ac90c18.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -73046,7 +73046,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/e3c9aa8c143af812ed482a5f53023cab9c76a2be.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/47529d4dc568c833c51da43677da66c1509f54b7.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -73077,7 +73077,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c049a5bdacb145c76e2d774ee5cb139fc07f84ba.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/3ba5bd6ec4c236e341e8f88079fc6e7d94f85aae.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d741d4cfb2bd8d3ee8c02e995ac973851d3281f7.svg"
     },
     {
@@ -73108,7 +73108,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/69e66c0dddbb17128a5d5e5ef21e681b70cd2053.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/5aa71da1db7151b6ba6f3d1288cd75962e578084.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/7c44418fc323dbd579b805590e84471c9c498d9b.svg"
     },
     {
@@ -73139,7 +73139,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/2c87c65bee6d3f057492dbcb0d91b813ce70881c.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/5055a696ef5fc508396e786275fb238e83ddf6ba.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6ea0e05c67d2a3163de494d92434e8bb9bfafd5c.svg"
     },
     {
@@ -73201,7 +73201,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/eac435ef32189b0f01483df50fbac9652c22b34c.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/cc4dc63bac699ea4e30ca9082115411193abf6fc.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -73232,7 +73232,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/699c9e8588d6135f3cea32fa490a82d2b601f655.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/35025a00621dd4b3387aff8b0831c9f00f5e8a46.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6a22cfd1e1eae40685f7ed8fb98a6625067730dc.svg"
     },
     {
@@ -73294,7 +73294,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/76ba5ca36bffec997ccd451d2e719a40bc77bd3e.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/0f80493ed70a1e2bc56a2d5072d450a9bb5c1968.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d741d4cfb2bd8d3ee8c02e995ac973851d3281f7.svg"
     },
     {
@@ -73325,7 +73325,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b53e291b85f4ad62d415eb91a9e558ff2f255d88.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/8424323299ce8ef3e78545f3dee48c00b787abe7.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/d741d4cfb2bd8d3ee8c02e995ac973851d3281f7.svg"
     },
     {
@@ -73356,7 +73356,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/fba4289efb7cc95ce984c4aa65eab23323b9b2de.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/05163bbde35e8ee071658e3743a57bce3e7a5f6a.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/603da1c15be443fef822bdcd13fde160b31fc531.svg"
     },
     {
@@ -73418,7 +73418,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/266785ee1c3a69ccd918290f100c1d7a4400ae34.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/d604f6c05664ddba99df18201ca111a93430f1a6.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/8d4e62e27b8e0b08dd2adf049716a26d25b5659d.svg"
     },
     {
@@ -73573,7 +73573,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9a1612a031104fb48424ce947480ba5583c5b16b.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/67268a73b7b89be1ef36f7932de667c2ec148d0b.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6ea0e05c67d2a3163de494d92434e8bb9bfafd5c.svg"
     },
     {
@@ -73759,7 +73759,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b1c6cc5e23c0bc2d2d1c5aedc2950afdd82a9c73.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/9f67196a24e441306c3190975135b642a080644a.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6ea0e05c67d2a3163de494d92434e8bb9bfafd5c.svg"
     },
     {
@@ -73852,7 +73852,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/c82d1005b09d01b6ee0f2305167260ddcd2124b3.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/7bc7fced285b5a55af866933c6155be15707d119.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6ea0e05c67d2a3163de494d92434e8bb9bfafd5c.svg"
     },
     {
@@ -73914,7 +73914,7 @@
       "completion_year": 2029,
       "completion_quarter": 2,
       "project_class": "Премиум",
-      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/366138b03b0e289a0a018d17fa8dbed46fca38c9.svg",
+      "plan": "https://storage.yandexcloud.net/psk-media/media/p/p/b720f1c4c7a779d757ba4957f3197024516cf2c6.svg",
       "floor_plan": "https://storage.yandexcloud.net/psk-media/media/b/f/p/6ea0e05c67d2a3163de494d92434e8bb9bfafd5c.svg"
     }
   ]
