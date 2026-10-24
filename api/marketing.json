@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:15:10+00:00",
+  "generated_at": "2026-10-24T05:17:52+00:00",
   "source": "https://psk-info.ru/api/projects/<slug>/",
   "count": 13,
   "projects": {
@@ -2331,7 +2331,7 @@
         "is_coming": false,
         "completion_percent": 100
       },
-      "min_price": "29044000.00",
+      "min_price": "34230000.00",
       "landing_url": null,
       "virtual_tour_url": null,
       "genplan_url": null,
