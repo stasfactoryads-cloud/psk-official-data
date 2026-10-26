@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-25T05:19:55+00:00",
+  "generated_at": "2026-10-26T05:24:12+00:00",
   "description": "Посадочные страницы (лендинги) проектов ГК ПСК. Обновляется ежедневно вместе с API.",
   "summary": {
     "projects_total": 13,
     "projects_with_landings": 9,
     "links_total": 32,
-    "links_ok": 32,
-    "links_error": 0,
+    "links_ok": 31,
+    "links_error": 1,
     "projects_without_landings": [
       "bakunina33",
       "friends",
@@ -219,8 +219,9 @@
         {
           "url": "https://mrqz.me/nord-corona",
           "type": "лендинг",
-          "status": "ok",
-          "http_code": 200
+          "status": "ошибка",
+          "http_code": null,
+          "error": "RemoteDisconnected"
         }
       ],
       "manual_check_date": "2026-10-21",

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-25T05:19:03+00:00",
+  "generated_at": "2026-10-26T05:23:21+00:00",
   "source": "https://psk-info.ru/api/flats/",
   "totals": {
     "total": 2341,
-    "free": 2192,
-    "reserved": 149,
+    "free": 2187,
+    "reserved": 154,
     "other": 0
   },
   "projects": {
@@ -26,29 +26,29 @@
     "zhk-respect": {
       "project_name": "«РЕСПЕКТ», жилой квартал",
       "total": 486,
-      "free": 454,
-      "reserved": 32,
+      "free": 456,
+      "reserved": 30,
       "other": 0,
-      "free_share_pct": 93.4,
+      "free_share_pct": 93.8,
       "free_min_price": 11576908.2,
       "free_by_rooms": {
-        "0": 76,
+        "0": 75,
         "1": 164,
-        "2": 153,
-        "3": 61
+        "2": 155,
+        "3": 62
       }
     },
     "sezony-vidovoj-kompleks": {
       "project_name": "«Сезоны», видовой комплекс",
       "total": 274,
-      "free": 263,
-      "reserved": 11,
+      "free": 262,
+      "reserved": 12,
       "other": 0,
-      "free_share_pct": 96.0,
+      "free_share_pct": 95.6,
       "free_min_price": 6800248.91,
       "free_by_rooms": {
-        "0": 57,
-        "1": 65,
+        "0": 55,
+        "1": 66,
         "2": 71,
         "3": 70
       }
@@ -71,14 +71,14 @@
     "galernaya-gavan": {
       "project_name": "«Галерная гавань», жилой комплекс",
       "total": 220,
-      "free": 211,
-      "reserved": 9,
+      "free": 212,
+      "reserved": 8,
       "other": 0,
-      "free_share_pct": 95.9,
+      "free_share_pct": 96.4,
       "free_min_price": 15286022.5,
       "free_by_rooms": {
         "0": 9,
-        "1": 59,
+        "1": 60,
         "2": 93,
         "3": 43,
         "4": 7
@@ -119,51 +119,52 @@
     "industrial-avenir": {
       "project_name": "Апарт‐отель Industrial AVENIR",
       "total": 132,
-      "free": 113,
-      "reserved": 19,
+      "free": 111,
+      "reserved": 21,
       "other": 0,
-      "free_share_pct": 85.6,
+      "free_share_pct": 84.1,
       "free_min_price": 5601639.35,
       "free_by_rooms": {
-        "0": 111,
+        "0": 109,
         "2": 2
       }
     },
     "ladozhsky": {
       "project_name": "Апарт‐отель Ladozhsky AVENIR",
       "total": 70,
-      "free": 64,
-      "reserved": 6,
+      "free": 61,
+      "reserved": 9,
       "other": 0,
-      "free_share_pct": 91.4,
+      "free_share_pct": 87.1,
       "free_min_price": 6920891.67,
       "free_by_rooms": {
-        "0": 64
+        "0": 61
       }
     },
     "bakunina33": {
       "project_name": "BAKUNINA 33, клубный дом",
       "total": 24,
-      "free": 19,
-      "reserved": 5,
+      "free": 17,
+      "reserved": 7,
       "other": 0,
-      "free_share_pct": 79.2,
-      "free_min_price": 41100000.0,
+      "free_share_pct": 70.8,
+      "free_min_price": 40768000.0,
       "free_by_rooms": {
         "2": 7,
-        "3": 6,
-        "4": 6
+        "3": 5,
+        "4": 5
       }
     },
     "korona": {
       "project_name": "«Северная корона», квартиры - резиденции",
       "total": 16,
-      "free": 4,
-      "reserved": 12,
+      "free": 5,
+      "reserved": 11,
       "other": 0,
-      "free_share_pct": 25.0,
-      "free_min_price": 68472000.0,
+      "free_share_pct": 31.2,
+      "free_min_price": 49628000.0,
       "free_by_rooms": {
+        "1": 1,
         "2": 2,
         "3": 2
       }
@@ -181,14 +182,12 @@
     "korona_apart": {
       "project_name": "Северная корона Apartments",
       "total": 1,
-      "free": 1,
-      "reserved": 0,
+      "free": 0,
+      "reserved": 1,
       "other": 0,
-      "free_share_pct": 100.0,
-      "free_min_price": 46500000.0,
-      "free_by_rooms": {
-        "3": 1
-      }
+      "free_share_pct": 0.0,
+      "free_min_price": null,
+      "free_by_rooms": {}
     }
   }
 }
