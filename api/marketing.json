@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T10:40:42+00:00",
+  "generated_at": "2026-11-01T11:36:53+00:00",
   "source": "https://psk-info.ru/api/projects/<slug>/",
   "count": 12,
   "projects": {
@@ -25,7 +25,7 @@
         "is_coming": false,
         "completion_percent": 5
       },
-      "min_price": "22305050.40",
+      "min_price": "22869552.00",
       "landing_url": "https://akvatoriya.psk-info.ru/",
       "virtual_tour_url": null,
       "genplan_url": null,
@@ -2581,7 +2581,7 @@
         "is_coming": false,
         "completion_percent": 100
       },
-      "min_price": "34658000.00",
+      "min_price": "47300000.00",
       "landing_url": "https://nord-corona.ru/",
       "virtual_tour_url": null,
       "genplan_url": "https://nord-corona.ru/plans?slide=3",
