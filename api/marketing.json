@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T11:36:53+00:00",
+  "generated_at": "2026-11-02T12:59:31+00:00",
   "source": "https://psk-info.ru/api/projects/<slug>/",
   "count": 12,
   "projects": {
@@ -1223,7 +1223,7 @@
         "is_coming": false,
         "completion_percent": 30
       },
-      "min_price": "6800248.91",
+      "min_price": "6833541.91",
       "landing_url": "https://sezony.psk-info.ru/",
       "virtual_tour_url": null,
       "genplan_url": null,
@@ -1788,7 +1788,7 @@
         "is_coming": false,
         "completion_percent": 47
       },
-      "min_price": "11576908.20",
+      "min_price": "11635252.20",
       "landing_url": null,
       "virtual_tour_url": "https://file.motionpix.ru/psk-respect/",
       "genplan_url": null,
