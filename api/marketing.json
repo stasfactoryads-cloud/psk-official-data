@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T12:59:31+00:00",
+  "generated_at": "2026-11-03T12:32:13+00:00",
   "source": "https://psk-info.ru/api/projects/<slug>/",
   "count": 12,
   "projects": {
@@ -480,15 +480,18 @@
           "name": "Внутренний двор",
           "text": "Экосистема только для своих. Пять зданий квартала формируют закрытый внутренний двор, что обеспечивает максимальную безопасность и комфорт. Для спокойного отдыха предусмотрены лаунж-зоны с эргономичными беседками. Предпочитающим активный образ жизни — воркаут и стритбол для волейбола, баскетбола или бадминтона. Для детей разных возрастов предусмотрены игровые комплексы, в том числе интерактивные. Двор спроектирован в формате «без машин».",
           "images": [
-            "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c4a12a81f08c5784abc792282b7f391b0ae5840a.jpg"
+            "https://storage.yandexcloud.net/psk-media/media/p/gi/i/dc674f5c9f0c769786f9564b0fb9936618f978c6.jpg",
+            "https://storage.yandexcloud.net/psk-media/media/p/gi/i/87561c7d78c3bf1d97d27b28fb97158735a311db.jpg",
+            "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4d962bc2cac33fde6e56663cc3c85ec015fd7182.jpg"
           ]
         },
         {
           "name": "Ландшафтный дизайн",
           "text": "В основе ландшафт-кода концепция «лесных комнат». Внутреннее пространство двора клубного квартала делится на независимые части — «комнаты». Соединенные друг с другом, они превращают весь двор в череду самостоятельных ландшафтных зон, плавно перетекающих одна в другую. «Стенами» каждой зелёной «комнаты» служат разновысотные живые изгороди, перголы, миксбордеры, кустарниковые растения и ландшафтные ширмы.",
           "images": [
-            "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8fe1b5d6674f5e01705256e8eb5be806558048f0.jpg",
-            "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9775c3c8151ce758615c9da415c04b4751433ce5.jpg"
+            "https://storage.yandexcloud.net/psk-media/media/p/gi/i/17613b3fd35c1c1e53a75e14dfc429179718421f.jpg",
+            "https://storage.yandexcloud.net/psk-media/media/p/gi/i/2c0cef22637055591ceedd517a6aa332b858273d.jpg",
+            "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6f7b19e5b1c70acca33e2c794c3f9e08d2995b70.jpg"
           ]
         },
         {
@@ -552,11 +555,15 @@
           "https://storage.yandexcloud.net/psk-media/media/p/si/i/30e25b2ee81cb5639dc229a94770b92d74725850.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/si/i/c4a12a81f08c5784abc792282b7f391b0ae5840a.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/si/i/4c3e87c5a184ff9828fc820d84936138c74cc851.jpg",
-          "https://storage.yandexcloud.net/psk-media/media/p/si/i/902a3cb709b9e9328994365593bf0698c5489411.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/17613b3fd35c1c1e53a75e14dfc429179718421f.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/si/i/6ef9d8aa936f0f424aa30131836e190b2197ddda.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/si/i/79d91736ad0b1489a0185fc89ec03041a7e098a8.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/si/i/1778f9ee5dab1823a30ff8e7888549cf4e235132.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/si/i/b952d04f94ab20fe15623bdd9780051490b89dfb.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/6f7b19e5b1c70acca33e2c794c3f9e08d2995b70.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/dc674f5c9f0c769786f9564b0fb9936618f978c6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/4d962bc2cac33fde6e56663cc3c85ec015fd7182.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/si/i/2c0cef22637055591ceedd517a6aa332b858273d.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4e5e3c65db7d719ab5057768e63131deca63a0c7.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7a2b4dfc1d5e634f15990d66915f8ca5cdcb1d00.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7543819708c8f67061cfb0df9c981ad2079c0d51.jpg",
@@ -583,9 +590,12 @@
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6e836e7f85d2831c7d6af25a92c71df03be9899f.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/33a619dc501508ffaca64a3b165ae1236673bd84.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/239e11a42bcd7783e22211bf636f6fba55689f77.jpg",
-          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/c4a12a81f08c5784abc792282b7f391b0ae5840a.jpg",
-          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8fe1b5d6674f5e01705256e8eb5be806558048f0.jpg",
-          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/9775c3c8151ce758615c9da415c04b4751433ce5.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/dc674f5c9f0c769786f9564b0fb9936618f978c6.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/87561c7d78c3bf1d97d27b28fb97158735a311db.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4d962bc2cac33fde6e56663cc3c85ec015fd7182.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/17613b3fd35c1c1e53a75e14dfc429179718421f.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/2c0cef22637055591ceedd517a6aa332b858273d.jpg",
+          "https://storage.yandexcloud.net/psk-media/media/p/gi/i/6f7b19e5b1c70acca33e2c794c3f9e08d2995b70.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/7e5ea9f2b986ae3f14d068fa5604b03146a921b8.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/44ebadaf3fbf3d7a926d1395e9ef142365f9e0b9.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/2d2e6d7e3c08214294278697fd30d79b3b077a3f.jpg",
