@@ -80,6 +80,12 @@
           "type": "лендинг",
           "status": "ok",
           "http_code": 200
+        },
+        {
+          "url": "https://mrqz.me/6a548fb949901400194729fd",
+          "type": "лендинг",
+          "status": "не проверено",
+          "http_code": null
         }
       ],
       "manual_check_date": "2026-10-21",
