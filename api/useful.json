@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-11-05T09:30:00+00:00",
+  "section": "Полезный материал",
+  "count": 3,
+  "items": [
+    {
+      "title": "Генератор планировок",
+      "description": "Генератор карточек с планировками квартир.",
+      "url": "https://stasfactoryads-cloud.github.io/psk-generator/cards/"
+    },
+    {
+      "title": "Фиды для агентств недвижимости",
+      "description": "Фид с объектами ГК ПСК для агентств недвижимости.",
+      "url": "https://feedhub.realty/feed-evel/"
+    },
+    {
+      "title": "Просмотрщик фидов",
+      "description": "Просмотр и проверка фидов ГК ПСК.",
+      "url": "https://stasfactoryads-cloud.github.io/psk-feeds/"
+    }
+  ]
+}
