@@ -11,7 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 API = ROOT / "api"
 OUT = API / "API.html"
-FILES = ["projects.json", "marketing.json", "flats.json", "availability.json", "index.json", "conditions.json"]
+FILES = ["projects.json", "marketing.json", "flats.json", "availability.json", "index.json", "conditions.json", "useful.json"]
 
 TEMPLATE = r"""<!doctype html>
 <html lang="ru">
@@ -78,6 +78,7 @@ h4 { margin:14px 0 4px; font-size:15px; color:var(--brand); }
     <button data-tab="marketing">Маркетинг</button>
     <button data-tab="flats">Лоты</button>
     <button data-tab="conditions">Условия</button>
+    <button data-tab="useful">Полезный материал</button>
     <button data-tab="files">Файлы</button>
   </nav>
   </div>
@@ -88,6 +89,7 @@ h4 { margin:14px 0 4px; font-size:15px; color:var(--brand); }
   <section id="marketing" class="hidden"></section>
   <section id="flats" class="hidden"></section>
   <section id="conditions" class="hidden"></section>
+  <section id="useful" class="hidden"></section>
   <section id="files" class="hidden"></section>
 </main>
 <script>
@@ -235,6 +237,19 @@ function renderFlats() {
   draw();
 }
 
+// ---- Полезный материал ----
+function renderUseful() {
+  const u = DATA.useful || {};
+  $("#useful").replaceChildren(
+    el("p", { class: "small" }, "Полезные ссылки для работы с данными ГК ПСК."),
+    el("table", {},
+      el("thead", {}, el("tr", {}, el("th", {}, "Материал"), el("th", {}, "Что это"), el("th", {}, "Ссылка"))),
+      el("tbody", {}, (u.items || []).map((it) => el("tr", {},
+        el("td", {}, el("b", {}, it.title)),
+        el("td", {}, it.description),
+        el("td", {}, el("a", { href: it.url, target: "_blank" }, it.url)))))));
+}
+
 // ---- Файлы ----
 function renderFiles() {
   const idx = DATA.index;
@@ -288,7 +303,7 @@ function renderConditions() {
 }
 
 renderAlerts(); renderConditions();
-renderOverview(); renderProjects(); renderMarketing(); renderFlats(); renderFiles();
+renderOverview(); renderProjects(); renderMarketing(); renderFlats(); renderUseful(); renderFiles();
 </script>
 </body>
 </html>
@@ -302,7 +317,7 @@ def read(name):
 def main():
     bundle = {"generated": datetime.now(timezone.utc).isoformat(timespec="seconds")}
     keys = {"projects.json": "projects", "marketing.json": "marketing",
-            "flats.json": "flats", "availability.json": "availability", "index.json": "index", "conditions.json": "conditions"}
+            "flats.json": "flats", "availability.json": "availability", "index.json": "index", "conditions.json": "conditions", "useful.json": "useful"}
     for f in FILES:
         bundle[keys[f]] = read(f)
     # безопасная вставка JSON в <script>: экранируем «</» и «<!--»

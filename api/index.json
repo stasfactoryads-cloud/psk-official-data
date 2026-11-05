@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T12:43:43+00:00",
+  "generated_at": "2026-11-05T09:47:20+00:00",
   "repository": "https://github.com/stasfactoryads-cloud/psk-official-data",
   "base_url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/",
   "alerts": [
@@ -61,6 +61,14 @@
       "description": "Все посадочные страницы по проектам, ссылки проверены запросом (HTTP-статус). Обновляется ежедневно.",
       "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/landings.json",
       "generated_at": "2026-11-04T12:43:43+00:00"
+    },
+    {
+      "file": "useful.json",
+      "title": "Полезный материал: генератор планировок, фиды, просмотрщик фидов",
+      "description": "Полезные ссылки для работы: генератор карточек с планировками, фиды для агентств недвижимости, просмотрщик фидов.",
+      "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/useful.json",
+      "generated_at": "2026-11-05T09:30:00+00:00",
+      "count": 3
     },
     {
       "file": "utp.json",
