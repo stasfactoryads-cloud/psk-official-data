@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T12:43:43+00:00",
+  "generated_at": "2026-11-05T12:53:35+00:00",
   "description": "Посадочные страницы (лендинги) проектов ГК ПСК. Обновляется ежедневно вместе с API.",
   "summary": {
     "projects_total": 13,
     "projects_with_landings": 9,
-    "links_total": 32,
-    "links_ok": 32,
+    "links_total": 33,
+    "links_ok": 33,
     "links_error": 0,
     "projects_without_landings": [
       "bakunina33",
@@ -84,8 +84,8 @@
         {
           "url": "https://mrqz.me/6a548fb949901400194729fd",
           "type": "лендинг",
-          "status": "не проверено",
-          "http_code": null
+          "status": "ok",
+          "http_code": 200
         }
       ],
       "manual_check_date": "2026-10-21",

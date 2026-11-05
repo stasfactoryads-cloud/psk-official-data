@@ -71,7 +71,7 @@
       ]
     }
   ],
-  "generated_at": "2026-11-04T12:43:43+00:00",
+  "generated_at": "2026-11-05T12:53:35+00:00",
   "count": 13,
   "projects": [
     {
@@ -155,7 +155,8 @@
         "https://psk-info.ru/projects/akvatoriya-premialnyj-dom",
         "https://aqua.psk-info.ru",
         "https://aqua.psk-info.ru/",
-        "https://akvatoria-dom.mrqz.me/"
+        "https://akvatoria-dom.mrqz.me/",
+        "https://mrqz.me/6a548fb949901400194729fd"
       ],
       "landing_urls_checked": "2026-10-21",
       "conditions_status": "требует проверки",
@@ -394,11 +395,11 @@
         },
         {
           "title": "Квартиры",
-          "text": "166 квартир в проекте"
+          "text": "167 квартир в проекте"
         },
         {
           "title": "Минимальная цена",
-          "text": "от 23,7 млн ₽ за свободную квартиру"
+          "text": "от 22,9 млн ₽ за свободную квартиру"
         },
         {
           "title": "Особенности",
@@ -2142,7 +2143,7 @@
         },
         {
           "title": "Квартиры",
-          "text": "14 квартир в проекте"
+          "text": "13 квартир в проекте"
         },
         {
           "title": "Минимальная цена",
