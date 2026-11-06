@@ -74,8 +74,8 @@
     "api/flats.json",
     "api/availability.json"
   ],
-  "conditions_status": "требует проверки",
-  "conditions_as_of": "2026-10-19",
+  "conditions_status": "актуально",
+  "conditions_as_of": "2026-11-06",
   "landing_urls": [
     "https://pulkovsky.plus/dom/"
   ],
