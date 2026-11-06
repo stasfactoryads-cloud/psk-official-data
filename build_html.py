@@ -290,16 +290,25 @@ function renderConditions() {
   const projects = c.projects || {};
   const names = Object.fromEntries(((DATA.projects && DATA.projects.projects) || []).map((p) => [p.slug, p.name]));
   const docs = (c.documents || []).map((d) => d.file + " — " + (d.as_of ? new Date(d.as_of).toLocaleDateString("ru-RU") : "дата не указана") + " (" + d.status + ")");
-  const blocks = Object.keys(projects).sort().map((slug) => {
+  const slugs = Object.keys(projects).sort((a, b) => (names[a] || a).localeCompare(names[b] || b, "ru"));
+  const box = el("div", {});
+  const block = (slug) => {
     const sec = projects[slug];
     return el("div", { class: "proj" }, el("h3", {}, names[slug] || slug),
       ...Object.keys(COND_LABELS).filter((k) => sec[k] && sec[k].length).map((k) =>
         el("div", {}, el("h4", {}, COND_LABELS[k] + " (" + sec[k].length + ")"), condRows(sec[k]))));
-  });
+  };
+  const draw = (slug) => box.replaceChildren(...(slug ? [slug] : slugs).map((x) => block(x)));
+  const select = el("select", { id: "cond-project", style: "margin-left:8px;padding:6px 8px;font:inherit;" },
+    el("option", { value: "" }, "Все проекты"),
+    slugs.map((slug) => el("option", { value: slug }, names[slug] || slug)));
+  select.onchange = () => draw(select.value);
   $("#conditions").replaceChildren(
     el("p", { class: "small" }, "Источник: " + (docs.join(" · ") || "нет файлов")),
     el("p", {}, el("span", { class: "tag " + (c.status === "актуально" ? "ok" : "warn") }, "Статус условий: " + (c.status || "нет данных"))),
-    ...blocks);
+    el("p", {}, el("label", { class: "small" }, "Проект:", select)),
+    box);
+  draw("");
 }
 
 renderAlerts(); renderConditions();
