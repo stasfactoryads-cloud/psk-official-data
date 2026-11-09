@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T11:38:33+00:00",
+  "generated_at": "2026-11-09T13:31:19+00:00",
   "description": "УТП проектов, собранные из данных. Ручные фразы — в projects/<slug>.json, поле utp_manual.",
   "projects": {
     "akvatoriya-premialnyj-dom": {
@@ -15,7 +15,7 @@
         },
         {
           "title": "Квартиры",
-          "text": "167 квартир в проекте"
+          "text": "168 квартир в проекте"
         },
         {
           "title": "Минимальная цена",

@@ -1,16 +1,14 @@
 {
-  "generated_at": "2026-11-08T11:38:32+00:00",
+  "generated_at": "2026-11-09T13:31:19+00:00",
   "description": "Посадочные страницы (лендинги) проектов ГК ПСК. Обновляется ежедневно вместе с API.",
   "summary": {
     "projects_total": 13,
-    "projects_with_landings": 9,
-    "links_total": 33,
-    "links_ok": 33,
+    "projects_with_landings": 11,
+    "links_total": 35,
+    "links_ok": 35,
     "links_error": 0,
     "projects_without_landings": [
-      "bakunina33",
       "friends",
-      "industrial-avenir",
       "korona_apart"
     ]
   },
@@ -146,8 +144,8 @@
         {
           "url": "https://lp.bakunina33.house/",
           "type": "лендинг",
-          "status": "не проверено",
-          "http_code": null
+          "status": "ok",
+          "http_code": 200
         }
       ],
       "manual_check_date": null,
@@ -217,8 +215,8 @@
         {
           "url": "https://industrialavenir.ru/",
           "type": "лендинг",
-          "status": "не проверено",
-          "http_code": null
+          "status": "ok",
+          "http_code": 200
         }
       ],
       "manual_check_date": null,

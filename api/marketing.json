@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T11:37:56+00:00",
+  "generated_at": "2026-11-09T13:30:46+00:00",
   "source": "https://psk-info.ru/api/projects/<slug>/",
   "count": 12,
   "projects": {
@@ -2322,7 +2322,9 @@
       "tags": [
         "Рассрочка"
       ],
-      "landing_urls": []
+      "landing_urls": [
+        "https://industrialavenir.ru/"
+      ]
     },
     "bakunina33": {
       "id": 30,
@@ -2568,7 +2570,9 @@
         ]
       },
       "tags": [],
-      "landing_urls": []
+      "landing_urls": [
+        "https://lp.bakunina33.house/"
+      ]
     },
     "korona": {
       "id": 22,
