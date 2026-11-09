@@ -71,7 +71,7 @@
       ]
     }
   ],
-  "generated_at": "2026-11-08T11:38:33+00:00",
+  "generated_at": "2026-11-09T11:48:43+00:00",
   "count": 13,
   "projects": [
     {
@@ -913,7 +913,7 @@
         "walk_min": 12,
         "source": "psk-info-api"
       },
-      "landing_url": null,
+      "landing_url": "https://lp.bakunina33.house/",
       "psk_info_slug": "bakunina33",
       "psk_info_id": 30,
       "status": {
@@ -987,6 +987,9 @@
           "келлеры и зарядные станции для электромобилей"
         ]
       },
+      "landing_urls": [
+        "https://lp.bakunina33.house/"
+      ],
       "conditions": {
         "installment": [
           {
@@ -1663,7 +1666,7 @@
         "walk_min": 3,
         "source": "psk-info-api"
       },
-      "landing_url": null,
+      "landing_url": "https://industrialavenir.ru/",
       "psk_info_slug": "industrial-avenir",
       "psk_info_id": 40,
       "status": {
@@ -1736,6 +1739,9 @@
           "меблировка"
         ]
       },
+      "landing_urls": [
+        "https://industrialavenir.ru/"
+      ],
       "conditions": {
         "mortgage": [
           {

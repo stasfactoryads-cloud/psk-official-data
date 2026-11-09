@@ -13,7 +13,7 @@
     "walk_min": 12,
     "source": "psk-info-api"
   },
-  "landing_url": null,
+  "landing_url": "https://lp.bakunina33.house/",
   "psk_info_slug": "bakunina33",
   "psk_info_id": 30,
   "status": {
@@ -86,5 +86,8 @@
       "высокие потолки: 3 м на типовых этажах, 3,5 м на последнем",
       "келлеры и зарядные станции для электромобилей"
     ]
-  }
+  },
+  "landing_urls": [
+    "https://lp.bakunina33.house/"
+  ]
 }

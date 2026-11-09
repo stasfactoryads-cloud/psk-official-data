@@ -13,7 +13,7 @@
     "walk_min": 3,
     "source": "psk-info-api"
   },
-  "landing_url": null,
+  "landing_url": "https://industrialavenir.ru/",
   "psk_info_slug": "industrial-avenir",
   "psk_info_id": 40,
   "status": {
@@ -85,5 +85,8 @@
       "коворкинг и выставочное пространство",
       "меблировка"
     ]
-  }
+  },
+  "landing_urls": [
+    "https://industrialavenir.ru/"
+  ]
 }
