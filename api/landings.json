@@ -141,8 +141,15 @@
       "slug": "bakunina33",
       "name": "BAKUNINA 33, клубный дом",
       "developer": "ГК ПСК",
-      "primary_url": null,
-      "links": [],
+      "primary_url": "https://lp.bakunina33.house/",
+      "links": [
+        {
+          "url": "https://lp.bakunina33.house/",
+          "type": "лендинг",
+          "status": "не проверено",
+          "http_code": null
+        }
+      ],
       "manual_check_date": null,
       "owner_confirmed": null
     },
@@ -205,8 +212,15 @@
       "slug": "industrial-avenir",
       "name": "Апарт‐отель Industrial AVENIR",
       "developer": "ГК ПСК",
-      "primary_url": null,
-      "links": [],
+      "primary_url": "https://industrialavenir.ru/",
+      "links": [
+        {
+          "url": "https://industrialavenir.ru/",
+          "type": "лендинг",
+          "status": "не проверено",
+          "http_code": null
+        }
+      ],
       "manual_check_date": null,
       "owner_confirmed": null
     },
