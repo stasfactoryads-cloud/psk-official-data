@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T13:31:19+00:00",
+  "generated_at": "2026-11-10T09:08:41+00:00",
   "repository": "https://github.com/stasfactoryads-cloud/psk-official-data",
   "base_url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/",
   "alerts": [],
@@ -9,7 +9,7 @@
       "title": "Проекты: цены, ипотека, рассрочка, статусы",
       "description": "Структурные данные по проектам с источником и статусом проверки каждого поля. Ручные правки отдела продаж — в manual_overrides.",
       "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/projects.json",
-      "generated_at": "2026-11-09T13:31:19+00:00",
+      "generated_at": "2026-11-10T09:08:41+00:00",
       "count": 13
     },
     {
