@@ -1,0 +1,571 @@
+{
+  "title": "Регламент разметки Smartis",
+  "source": "Smartis_.docx",
+  "generated_at": "2026-11-10T06:53:30+00:00",
+  "paragraphs": [
+    {
+      "t": "Регламент разметки Smartis",
+      "h": true
+    },
+    {
+      "t": "Приложение 1. Названия кампаний в рекламных кабинетах VK, ЯД, МТ.",
+      "h": true
+    },
+    {
+      "t": "В Smartis подтягиваются названия кампания из рекламных кабинетов. Для того, чтобы можно было строить срезы по свойствам кампаний, корректно настраивать профильные отчёты, необходимо наличие параметров в названиях кампаний, описанные ниже",
+      "h": false
+    },
+    {
+      "t": "Метка поиска и сетей:",
+      "h": false
+    },
+    {
+      "t": "Поиск, РСЯ или Search, Rsya",
+      "h": false
+    },
+    {
+      "t": "Метка агентств: Nazvanie_agentstva",
+      "h": false
+    },
+    {
+      "t": "Название объектов(на русском или на английском):",
+      "h": false
+    },
+    {
+      "t": "Nazvanie_object, Название_объекта.",
+      "h": false
+    },
+    {
+      "t": "Пример: Яндекс: Nazvanie_object| Nazvanie_agentstva | РСЯ |  далее по вашему усмотрению  myTarget и ВКонтакте: Nazvanie_object| Nazvanie_agentstva | далее по вашему усмотрению",
+      "h": false
+    },
+    {
+      "t": "Приложение 2. UTM метки рекламных кампаний",
+      "h": true
+    },
+    {
+      "t": "Рекомендации ниже обеспечивают наиболее полную сквозную аналитику эффективности рекламных площадок, без каких-либо доработок на стороне Smartis. В данных рекомендациях сведены лучшие практики многих рекламодателей и рекламных агентств и опыт 8 лет анализа данных по рекламным площадкам.",
+      "h": false
+    },
+    {
+      "t": "Основные требования:",
+      "h": false
+    },
+    {
+      "t": "Достоверно определить к какой конкретно кампании/объявлению/фразе относится посетитель/обращение/ сделка для выстраивания сквозной аналитики без использования динамических уникальных параметров (campaign_id, keyword_id, adgroup_id, gbid итд.) - нельзя. Поэтому необходимо обязательно использовать эти динамические параметры в разметке.",
+      "h": false
+    },
+    {
+      "t": "Везде используем один разделитель «|» или «_» , другие разделители опасны с технической точки зрения как для анализа рекламы, так и для самого сайта. Правило не относится к MyTarget.",
+      "h": false
+    },
+    {
+      "t": "Везде используем только латинские символы. Использовать кириллические символы недопустимо (приведет к нечитабельным и сложно анализируемым автоматически без ручного вмешательства ссылкам). Для .рф рекламных площадок вставляем в метки наименование основного домена транслитом.",
+      "h": false
+    },
+    {
+      "t": "Важно! Якорь (#), если есть, добавлять в конец ссылки или шаблона отслеживания, после всех меток.",
+      "h": false
+    },
+    {
+      "t": "В utm_content, после обязательных меток, можно добавлять метки по своему усмотрению с разделителем «|» или «_»",
+      "h": false
+    },
+    {
+      "t": "Перечень меток агентств транслитом: Nazvanie_agentstva",
+      "h": false
+    },
+    {
+      "t": "Перечень объектов транслитом: Nazvanie_object",
+      "h": false
+    },
+    {
+      "t": "Регион размещения рекламы при необходимости (в campaign)",
+      "h": false
+    },
+    {
+      "t": "Яндекс Директ",
+      "h": false
+    },
+    {
+      "t": "utm_source=yandex",
+      "h": false
+    },
+    {
+      "t": "utm_medium=cpc",
+      "h": false
+    },
+    {
+      "t": "utm_campaign=metka_agentstva_translitom|nazvanie_objekta_translitom|{campaign_name}|{campaign_id}|{source_type}",
+      "h": false
+    },
+    {
+      "t": "utm_content={gbid}|{ad_id}|{phrase_id}|{source}|{device_type}|{banner_id}|{campaign_type}|{retargeting_id}|{adtarget_id}|{position}|{position_type}|{region_id}",
+      "h": false
+    },
+    {
+      "t": "utm_term= {keyword}",
+      "h": false
+    },
+    {
+      "t": "Быстрые ссылки Яндекс",
+      "h": false
+    },
+    {
+      "t": "utm метки должны полностью совпадать, кроме utm_content={gbid}|{ad_id}|{phrase_id}|{source}|{device_type}|{banner_id}|{campaign_type}|{retargeting_id} |{adtarget_id}|{position}|{position_type}|{region_id}|{addphrases}",
+      "h": false
+    },
+    {
+      "t": "Пример:",
+      "h": false
+    },
+    {
+      "t": "https://smartis.bi/?utm_source=yandex&utm_medium=cpc&utm_campaign=metka_agentstva_translitom|nazvanie_objekta_translitom|{campaign_name}|{campaign_id}|{source_type}&utm_content={gbid}|{ad_id}|{phrase_id}|{source}|{device_type}|{banner_id}|{campaign_type}|{retargeting_id}|{adtarget_id}|{position}|{position_type}|{region_id}&utm_term= {keyword}",
+      "h": false
+    },
+    {
+      "t": "myTarget",
+      "h": false
+    },
+    {
+      "t": "utm_source=mytarget",
+      "h": false
+    },
+    {
+      "t": "utm_medium=cpc или cpm или olv",
+      "h": false
+    },
+    {
+      "t": "utm_term={{search_phrase}}",
+      "h": false
+    },
+    {
+      "t": "utm_campaign=metka_agentstva_translitom|nazvanie_objekta_translitom|{{campaign_id}}|{{campaign_name}}|utm_content={{banner_id}}|{{age}}|{{gender}}|{{geo}}",
+      "h": false
+    },
+    {
+      "t": "ВКонтакте",
+      "h": false
+    },
+    {
+      "t": "utm_source=vk",
+      "h": false
+    },
+    {
+      "t": "utm_medium=cpc или cpm или olv utm_campaign=metka_agentstva_translitom|nazvanie_objekta_translitom|{campaign_id}|{campaign_name}|utm_content={ad_id}",
+      "h": false
+    },
+    {
+      "t": "Telegram",
+      "h": false
+    },
+    {
+      "t": "В utm_source необходимо написать название телеграм канала",
+      "h": false
+    },
+    {
+      "t": "utm_medium – tg",
+      "h": false
+    },
+    {
+      "t": "utm_campaign=metka_agentstva_translitom|nazvanie_object_translitom|nazvanie_rk_translitom",
+      "h": false
+    },
+    {
+      "t": "Если не будете делить телеграмм каналы на площадки, то указываем в utm_source - Telegram",
+      "h": false
+    },
+    {
+      "t": "Прочие размещения в социальных сетях",
+      "h": false
+    },
+    {
+      "t": "В utm_source основной домен площадки без «.» и последующей доменной зоны.",
+      "h": false
+    },
+    {
+      "t": "utm_source=fb",
+      "h": false
+    },
+    {
+      "t": "utm_medium= ( модель закупки)",
+      "h": false
+    },
+    {
+      "t": "utm_campaign=metka_agentstva_translitom|nazvanie_objekta_translitom|{campaign_id}",
+      "h": false
+    },
+    {
+      "t": "utm_source=tiktok",
+      "h": false
+    },
+    {
+      "t": "utm_medium= ( модель закупки)",
+      "h": false
+    },
+    {
+      "t": "utm_campaign=metka_agentstva_translitom|nazvanie_objekta_translitom|{campaign_id}",
+      "h": false
+    },
+    {
+      "t": "utm_source=linkedin",
+      "h": false
+    },
+    {
+      "t": "utm_medium= ( модель закупки)",
+      "h": false
+    },
+    {
+      "t": "utm_campaign=metka_agentstva_translitom|nazvanie_objekta_translitom|{campaign_id}",
+      "h": false
+    },
+    {
+      "t": "utm_source=instagram",
+      "h": false
+    },
+    {
+      "t": "utm_medium= ( модель закупки)",
+      "h": false
+    },
+    {
+      "t": "utm_campaign=metka_agentstva_translitom|nazvanie_objekta_translitom|{campaign_id}",
+      "h": false
+    },
+    {
+      "t": "Медийная реклама",
+      "h": false
+    },
+    {
+      "t": "В utm_source основной домен медийной площадки без «.» и последующей доменной зоны. Например: utm_source=avaho или utm_source=novostroy-m.",
+      "h": false
+    },
+    {
+      "t": "Возможные варианты значений в utm_medium:",
+      "h": false
+    },
+    {
+      "t": "Закупка по кликам cpc",
+      "h": false
+    },
+    {
+      "t": "Закупка по показам cpm",
+      "h": false
+    },
+    {
+      "t": "Текстово-графический блок tgb",
+      "h": false
+    },
+    {
+      "t": "Формат баннера параллакс banner",
+      "h": false
+    },
+    {
+      "t": "Спецпроект specproject",
+      "h": false
+    },
+    {
+      "t": "utm_campaign=metka_agentstva_translitom|nazvanie_objekta_translitom|nazvanie_rk_translitom utm_content=format000x000|creative1|desktop",
+      "h": false
+    },
+    {
+      "t": "format000x000 – указывается формат используемого изображения, например, format385x290.",
+      "h": false
+    },
+    {
+      "t": "creative1 – имя конкретного креатива транслитом",
+      "h": false
+    },
+    {
+      "t": "desktop или mobile – данный параметр указывается, если есть отдельные ссылки перехода для разных платформ, например, у Циан",
+      "h": false
+    },
+    {
+      "t": "Базы недвижимости/Классифайды",
+      "h": false
+    },
+    {
+      "t": "В utm_source основной домен медийной площадки без «.» и последующей доменной зоны. Например: utm_source=cian или utm_source=avito",
+      "h": false
+    },
+    {
+      "t": "Возможные варианты значений в utm_medium:",
+      "h": false
+    },
+    {
+      "t": "Закупка звонок cpl",
+      "h": false
+    },
+    {
+      "t": "Закупка xml",
+      "h": false
+    },
+    {
+      "t": "Фид feed utm_campaign=metka_agentstva_translitom|nazvanie_objekta_translitom|nazvanie_rk_translitom + xml метка, чтобы отличать от медийного формата",
+      "h": false
+    },
+    {
+      "t": "Программатик / RTB-реклама",
+      "h": false
+    },
+    {
+      "t": "В utm_source добавляем префикс «rtb_», далее основной домен медийной площадки без «.» и последующей доменной зоны. Например: utm_source=rtb_beeline или utm_source=rtb_novostroy-gid",
+      "h": false
+    },
+    {
+      "t": "Возможные варианты значений в utm_medium:",
+      "h": false
+    },
+    {
+      "t": "Закупка по кликам cpc",
+      "h": false
+    },
+    {
+      "t": "Закупка по показам cpm",
+      "h": false
+    },
+    {
+      "t": "Текстово-графический блок tgb",
+      "h": false
+    },
+    {
+      "t": "Формат баннера параллакс banner",
+      "h": false
+    },
+    {
+      "t": "Спецпроект specproject utm_campaign=metka_agentstva_translitom|nazvanie_objekta_translitom|nazvanie_rk_translitom utm_content=format000x000|creative1|desktop",
+      "h": false
+    },
+    {
+      "t": "format000x000 – указывается формат используемого изображения, например, format385x290.",
+      "h": false
+    },
+    {
+      "t": "creative1 – имя конкретного креатива транслитом",
+      "h": false
+    },
+    {
+      "t": "desktop или mobile – данный параметр указывается, если есть отдельные ссылки перехода для разных платформ",
+      "h": false
+    },
+    {
+      "t": "Online Video реклама (OLV)",
+      "h": false
+    },
+    {
+      "t": "В utm_source основной домен медийной площадки без «.» и последующей доменной зоны. utm_medium=olv utm_campaign=metka_agentstva_translitom|nazvanie_objekta_translitom|nazvanie_rk_translitom utm_content=format000x000|creative1|desktop",
+      "h": false
+    },
+    {
+      "t": "format000x000 – указывается формат используемого видео, например, format1280x720.",
+      "h": false
+    },
+    {
+      "t": "creative1 – имя конкретного видео-креатива транслитом",
+      "h": false
+    },
+    {
+      "t": "desktop или mobile – данный параметр указывается, если есть отдельные ссылки перехода для разных платформ",
+      "h": false
+    },
+    {
+      "t": "Использовать кириллические символы недопустимо (приведет к нечитабельным и сложно анализируемым автоматически без ручного вмешательства ссылкам). Для .рф рекламных площадок вставляем в метки наименование основного домена транслитом.",
+      "h": false
+    },
+    {
+      "t": "Важно! Якорь (#), если есть, добавлять в конец ссылки или шаблона отслеживания, после всех меток.",
+      "h": false
+    },
+    {
+      "t": "В utm_content, после обязательных меток, можно добавлять метки по своему усмотрению с разделителем «|»",
+      "h": false
+    },
+    {
+      "t": "Приложение 3. Название рекламной кампании в самом кабинете общая рекомендация",
+      "h": true
+    },
+    {
+      "t": "Маска: Агентство (1) | Объект (2) | Канал (3) | Площадка (4)",
+      "h": false
+    },
+    {
+      "t": "Например: Nazvanie_agentstva| Nazvanie_object| cpc | Яндекс",
+      "h": false
+    },
+    {
+      "t": "Агентство",
+      "h": false
+    },
+    {
+      "t": "Nazvanie_agentstva",
+      "h": false
+    },
+    {
+      "t": "Объект",
+      "h": false
+    },
+    {
+      "t": "Nazvanie_object, Название_объекта",
+      "h": false
+    },
+    {
+      "t": "Канал",
+      "h": false
+    },
+    {
+      "t": "Короткое название",
+      "h": false
+    },
+    {
+      "t": "Канал",
+      "h": false
+    },
+    {
+      "t": "cpc",
+      "h": false
+    },
+    {
+      "t": "Контекстная реклама",
+      "h": false
+    },
+    {
+      "t": "fid или xml",
+      "h": false
+    },
+    {
+      "t": "Базы недвижимости",
+      "h": false
+    },
+    {
+      "t": "seo",
+      "h": false
+    },
+    {
+      "t": "SEO",
+      "h": false
+    },
+    {
+      "t": "maps",
+      "h": false
+    },
+    {
+      "t": "Карты",
+      "h": false
+    },
+    {
+      "t": "e-mail или sms или push",
+      "h": false
+    },
+    {
+      "t": "Рассылки",
+      "h": false
+    },
+    {
+      "t": "social",
+      "h": false
+    },
+    {
+      "t": "Социальные сети",
+      "h": false
+    },
+    {
+      "t": "smm",
+      "h": false
+    },
+    {
+      "t": "Соцсети органика",
+      "h": false
+    },
+    {
+      "t": "telegram",
+      "h": false
+    },
+    {
+      "t": "Телеграмм",
+      "h": false
+    },
+    {
+      "t": "rtb",
+      "h": false
+    },
+    {
+      "t": "Программатик",
+      "h": false
+    },
+    {
+      "t": "cpa",
+      "h": false
+    },
+    {
+      "t": "Лидогенерация",
+      "h": false
+    },
+    {
+      "t": "offline",
+      "h": false
+    },
+    {
+      "t": "Оффлайн источники",
+      "h": false
+    },
+    {
+      "t": "other",
+      "h": false
+    },
+    {
+      "t": "Прочее",
+      "h": false
+    },
+    {
+      "t": "media",
+      "h": false
+    },
+    {
+      "t": "Медийная реклама",
+      "h": false
+    },
+    {
+      "t": "organic",
+      "h": false
+    },
+    {
+      "t": "Органический трафик",
+      "h": false
+    },
+    {
+      "t": "direct",
+      "h": false
+    },
+    {
+      "t": "Прямой заход",
+      "h": false
+    },
+    {
+      "t": "referral",
+      "h": false
+    },
+    {
+      "t": "Реферальный трафик",
+      "h": false
+    },
+    {
+      "t": "Площадка",
+      "h": false
+    },
+    {
+      "t": "Название площадки, на которой размещена реклама, например, Яндекс, novostroy-m, и т.д. Если реклама размещается на каком-то интернет-ресурсе используйте его доменное имя с маленькой буквы с доменом. Отдельно создавать рекламные кампании для визиток (Яндекс.Визитка, Google Визитка). Каждую площадку заводим отдельно.",
+      "h": false
+    },
+    {
+      "t": "Пример: novostroy-m.ru",
+      "h": false
+    },
+    {
+      "t": "Если реклама размещается на физических носителях или ТВ, то также указываем название оператора или площадки.",
+      "h": false
+    },
+    {
+      "t": "Например, для радио Дождь: «Nazvanie_object| Nazvanie_agentstva | радио | Дождь»",
+      "h": false
+    }
+  ]
+}

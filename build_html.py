@@ -79,6 +79,7 @@ h4 { margin:14px 0 4px; font-size:15px; color:var(--brand); }
     <button data-tab="flats">Лоты</button>
     <button data-tab="conditions">Условия</button>
     <button data-tab="useful">Полезный материал</button>
+    <button data-tab="markup">Разметка</button>
     <button data-tab="files">Файлы</button>
   </nav>
   </div>
@@ -90,6 +91,7 @@ h4 { margin:14px 0 4px; font-size:15px; color:var(--brand); }
   <section id="flats" class="hidden"></section>
   <section id="conditions" class="hidden"></section>
   <section id="useful" class="hidden"></section>
+  <section id="markup" class="hidden"></section>
   <section id="files" class="hidden"></section>
 </main>
 <script>
@@ -250,6 +252,14 @@ function renderUseful() {
         el("td", {}, el("a", { href: it.url, target: "_blank" }, it.url)))))));
 }
 
+function renderMarkup() {
+  const m = DATA.markup || {};
+  const paras = m.paragraphs || [];
+  $("#markup").replaceChildren(
+    el("p", { class: "small" }, "Источник: " + (m.source || "—") + (m.generated_at ? " · на " + new Date(m.generated_at).toLocaleDateString("ru-RU") : "")),
+    ...paras.map((p) => (p.h ? el("h3", {}, p.t) : el("p", {}, p.t))));
+}
+
 // ---- Файлы ----
 function renderFiles() {
   const idx = DATA.index;
@@ -312,7 +322,7 @@ function renderConditions() {
 }
 
 renderAlerts(); renderConditions();
-renderOverview(); renderProjects(); renderMarketing(); renderFlats(); renderUseful(); renderFiles();
+renderOverview(); renderProjects(); renderMarketing(); renderFlats(); renderUseful(); renderMarkup(); renderFiles();
 </script>
 </body>
 </html>
@@ -329,6 +339,7 @@ def main():
             "flats.json": "flats", "availability.json": "availability", "index.json": "index", "conditions.json": "conditions", "useful.json": "useful"}
     for f in FILES:
         bundle[keys[f]] = read(f)
+    bundle["markup"] = read("markup.json")
     # безопасная вставка JSON в <script>: экранируем «</» и «<!--»
     data = json.dumps(bundle, ensure_ascii=False).replace("</", "<\\/").replace("<!--", "<\\!--")
     OUT.write_text(TEMPLATE.replace("__DATA__", data), encoding="utf-8")
