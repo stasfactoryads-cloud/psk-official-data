@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-11T12:20:28+00:00",
+  "generated_at": "2026-11-12T13:28:42+00:00",
   "source": "https://psk-info.ru/api/flats/",
   "totals": {
-    "total": 2289,
-    "free": 2169,
-    "reserved": 120,
+    "total": 2286,
+    "free": 2155,
+    "reserved": 131,
     "other": 0
   },
   "projects": {
     "assambleya-klubnyj-kvartal": {
       "project_name": "«Ассамблея», клубный квартал",
       "total": 485,
-      "free": 480,
-      "reserved": 5,
+      "free": 478,
+      "reserved": 7,
       "other": 0,
-      "free_share_pct": 99.0,
+      "free_share_pct": 98.6,
       "free_min_price": 14043303.04,
       "free_by_rooms": {
         "0": 93,
         "1": 176,
-        "2": 150,
+        "2": 148,
         "3": 61
       }
     },
     "zhk-respect": {
       "project_name": "«РЕСПЕКТ», жилой квартал",
-      "total": 480,
-      "free": 455,
+      "total": 479,
+      "free": 454,
       "reserved": 25,
       "other": 0,
       "free_share_pct": 94.8,
@@ -34,17 +34,17 @@
       "free_by_rooms": {
         "0": 73,
         "1": 165,
-        "2": 158,
+        "2": 157,
         "3": 59
       }
     },
     "sezony-vidovoj-kompleks": {
       "project_name": "«Сезоны», видовой комплекс",
-      "total": 276,
+      "total": 275,
       "free": 259,
-      "reserved": 17,
+      "reserved": 16,
       "other": 0,
-      "free_share_pct": 93.8,
+      "free_share_pct": 94.2,
       "free_min_price": 6833541.91,
       "free_by_rooms": {
         "0": 54,
@@ -56,25 +56,25 @@
     "plus-pulkovskij": {
       "project_name": "ПЛЮС Пулковский, сити-квартал",
       "total": 239,
-      "free": 225,
-      "reserved": 14,
+      "free": 220,
+      "reserved": 19,
       "other": 0,
-      "free_share_pct": 94.1,
-      "free_min_price": 5842044.0,
+      "free_share_pct": 92.1,
+      "free_min_price": 5884550.0,
       "free_by_rooms": {
-        "0": 71,
-        "1": 60,
-        "2": 52,
-        "3": 42
+        "0": 70,
+        "1": 58,
+        "2": 51,
+        "3": 41
       }
     },
     "galernaya-gavan": {
       "project_name": "«Галерная гавань», жилой комплекс",
-      "total": 218,
+      "total": 219,
       "free": 210,
-      "reserved": 8,
+      "reserved": 9,
       "other": 0,
-      "free_share_pct": 96.3,
+      "free_share_pct": 95.9,
       "free_min_price": 15286022.5,
       "free_by_rooms": {
         "0": 8,
@@ -103,13 +103,13 @@
     "akvatoriya-premialnyj-dom": {
       "project_name": "«Акватория», премиальный дом",
       "total": 168,
-      "free": 164,
-      "reserved": 4,
+      "free": 163,
+      "reserved": 5,
       "other": 0,
-      "free_share_pct": 97.6,
+      "free_share_pct": 97.0,
       "free_min_price": 22869552.0,
       "free_by_rooms": {
-        "1": 32,
+        "1": 31,
         "2": 50,
         "3": 70,
         "4": 11,
@@ -118,40 +118,39 @@
     },
     "industrial-avenir": {
       "project_name": "Апарт‐отель Industrial AVENIR",
-      "total": 128,
-      "free": 105,
-      "reserved": 23,
+      "total": 126,
+      "free": 104,
+      "reserved": 22,
       "other": 0,
-      "free_share_pct": 82.0,
+      "free_share_pct": 82.5,
       "free_min_price": 5656819.35,
       "free_by_rooms": {
-        "0": 104,
+        "0": 103,
         "2": 1
       }
     },
     "ladozhsky": {
       "project_name": "Апарт‐отель Ladozhsky AVENIR",
       "total": 62,
-      "free": 51,
-      "reserved": 11,
+      "free": 50,
+      "reserved": 12,
       "other": 0,
-      "free_share_pct": 82.3,
-      "free_min_price": 6100000.0,
+      "free_share_pct": 80.6,
+      "free_min_price": 6920891.67,
       "free_by_rooms": {
-        "0": 51
+        "0": 50
       }
     },
     "bakunina33": {
       "project_name": "BAKUNINA 33, клубный дом",
       "total": 24,
-      "free": 23,
-      "reserved": 1,
+      "free": 20,
+      "reserved": 4,
       "other": 0,
-      "free_share_pct": 95.8,
-      "free_min_price": 34230000.0,
+      "free_share_pct": 83.3,
+      "free_min_price": 39765000.0,
       "free_by_rooms": {
-        "1": 1,
-        "2": 10,
+        "2": 8,
         "3": 6,
         "4": 6
       }

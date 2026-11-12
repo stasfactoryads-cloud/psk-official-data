@@ -1,17 +1,17 @@
 # Индекс данных API ГК ПСК
 
-Обновлено: 2026-11-11T12:26:03+00:00
+Обновлено: 2026-11-12T13:29:27+00:00
 Репозиторий: https://github.com/stasfactoryads-cloud/psk-official-data
 
 | Файл | Что внутри | Ссылка | Обновлено |
 |---|---|---|---|
-| `projects.json` | Проекты: цены, ипотека, рассрочка, статусы. Структурные данные по проектам с источником и статусом проверки каждого поля. Ручные правки отдела продаж — в manual_overrides. | [raw](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/projects.json) | 2026-11-11T12:26:03+00:00 |
-| `marketing.json` | Маркетинг: описания, УТП, фото и видео. Текст о проекте, преимущества, инфраструктура, прямые ссылки на фото (media.photos) и видео (media.videos). | [raw](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/marketing.json) | 2026-11-11T12:24:27+00:00 |
-| `flats.json` | Каталог лотов: все квартиры. Все квартиры по всем проектам: цена, площадь, этаж, статус, ипотечный платёж, планировка. | [raw](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/flats.json) | 2026-11-11T12:20:28+00:00 |
-| `availability.json` | Срез наличия: в продаже и в броне. Свободно и в броне по каждому проекту и по каталогу в целом, минимальная цена свободного лота. | [raw](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/availability.json) | 2026-11-11T12:20:28+00:00 |
+| `projects.json` | Проекты: цены, ипотека, рассрочка, статусы. Структурные данные по проектам с источником и статусом проверки каждого поля. Ручные правки отдела продаж — в manual_overrides. | [raw](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/projects.json) | 2026-11-12T13:29:27+00:00 |
+| `marketing.json` | Маркетинг: описания, УТП, фото и видео. Текст о проекте, преимущества, инфраструктура, прямые ссылки на фото (media.photos) и видео (media.videos). | [raw](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/marketing.json) | 2026-11-12T13:28:57+00:00 |
+| `flats.json` | Каталог лотов: все квартиры. Все квартиры по всем проектам: цена, площадь, этаж, статус, ипотечный платёж, планировка. | [raw](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/flats.json) | 2026-11-12T13:28:42+00:00 |
+| `availability.json` | Срез наличия: в продаже и в броне. Свободно и в броне по каждому проекту и по каталогу в целом, минимальная цена свободного лота. | [raw](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/availability.json) | 2026-11-12T13:28:42+00:00 |
 | `conditions.json` | Условия продаж: акции, рассрочка, ипотека, коммерция, машиноместа. Условия по каждому проекту из ежемесячных файлов. Файл считается актуальным, если загружен не раньше 6-го числа текущего месяца. | [raw](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/conditions.json) | 2026-11-06T14:18:11+00:00 |
-| `landings.json` | Лендинги: посадочные страницы проектов. Все посадочные страницы по проектам, ссылки проверены запросом (HTTP-статус). Обновляется ежедневно. | [raw](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/landings.json) | 2026-11-11T12:26:03+00:00 |
+| `landings.json` | Лендинги: посадочные страницы проектов. Все посадочные страницы по проектам, ссылки проверены запросом (HTTP-статус). Обновляется ежедневно. | [raw](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/landings.json) | 2026-11-12T13:29:27+00:00 |
 | `useful.json` | Полезный материал: генератор планировок, фиды, просмотрщик фидов. Полезные ссылки для работы: генератор карточек с планировками, фиды для агентств недвижимости, просмотрщик фидов. | [raw](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/useful.json) | 2026-11-05T09:30:00+00:00 |
-| `utp.json` | УТП проектов. Короткие УТП по каждому проекту: расположение, транспорт, квартиры, минимальная цена, особенности, условия покупки, застройщик. | [raw](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/utp.json) | 2026-11-11T12:26:03+00:00 |
+| `utp.json` | УТП проектов. Короткие УТП по каждому проекту: расположение, транспорт, квартиры, минимальная цена, особенности, условия покупки, застройщик. | [raw](https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/utp.json) | 2026-11-12T13:29:27+00:00 |
 
 Все файлы публичные и читаются без авторизации.

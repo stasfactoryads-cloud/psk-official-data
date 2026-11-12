@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-11T12:26:03+00:00",
+  "generated_at": "2026-11-12T13:29:27+00:00",
   "description": "Посадочные страницы (лендинги) проектов ГК ПСК. Обновляется ежедневно вместе с API.",
   "summary": {
     "projects_total": 13,
     "projects_with_landings": 11,
     "links_total": 35,
-    "links_ok": 31,
-    "links_error": 4,
+    "links_ok": 35,
+    "links_error": 0,
     "projects_without_landings": [
       "friends",
       "korona_apart"
@@ -116,9 +116,8 @@
         {
           "url": "https://psk-info.ru/projects/assambleya-klubnyj-kvartal",
           "type": "карточка проекта на сайте ПСК",
-          "status": "ошибка",
-          "http_code": null,
-          "error": "TimeoutError"
+          "status": "ok",
+          "http_code": 200
         },
         {
           "url": "https://assambleya-promo.psk-info.ru/",
@@ -176,9 +175,8 @@
         {
           "url": "https://psk-info.ru/projects/galernaya-gavan",
           "type": "карточка проекта на сайте ПСК",
-          "status": "ошибка",
-          "http_code": null,
-          "error": "TimeoutError"
+          "status": "ok",
+          "http_code": 200
         },
         {
           "url": "https://gavan-pro.psk-info.ru",
@@ -324,9 +322,8 @@
         {
           "url": "https://psk-info.ru/projects/sezony-vidovoj-kompleks",
           "type": "карточка проекта на сайте ПСК",
-          "status": "ошибка",
-          "http_code": null,
-          "error": "TimeoutError"
+          "status": "ok",
+          "http_code": 200
         }
       ],
       "manual_check_date": "2026-10-21",
@@ -347,9 +344,8 @@
         {
           "url": "https://psk-info.ru/projects/zhk-respect",
           "type": "карточка проекта на сайте ПСК",
-          "status": "ошибка",
-          "http_code": null,
-          "error": "TimeoutError"
+          "status": "ok",
+          "http_code": 200
         },
         {
           "url": "https://domrespect.ru/",
