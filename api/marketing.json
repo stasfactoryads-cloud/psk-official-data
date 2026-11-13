@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T13:28:57+00:00",
+  "generated_at": "2026-11-13T12:44:48+00:00",
   "source": "https://psk-info.ru/api/projects/<slug>/",
   "count": 12,
   "projects": {
@@ -307,7 +307,7 @@
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/54a51f6db7d42c9d0d1dcb517d4d26a3b1074eea.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/be1e3ff02942dd118058e02dcae9a9a8b9c68a0b.jpg"
         ],
-        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/30323e4103975f025c17005e9c2b3cc684ad4cbe.jpg",
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/2d9f9baddb32d4a53203160a0bd8c79cb2e1fd49.jpg",
         "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/36109191360938551e3f790857303d8b996202e6.png",
         "facade_or_plan_images": [
           "https://storage.yandexcloud.net/psk-media/media/p/p/g/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg",
@@ -603,7 +603,7 @@
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/293f6be40d97b9ed44ba3ba11865fc5ee42776f1.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/039883b341449f5f50052feba0eebba7f0e1950b.jpg"
         ],
-        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/136aaa527327e8fbd59aea1371b75cd9492d80d2.jpg",
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/7bed661c06ad6b4fe2e5438a0a448a5a7ffc772b.jpg",
         "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/d63bbd1e6e72bc86bb0dc3af053e736ed50238d9.svg",
         "facade_or_plan_images": [
           "https://storage.yandexcloud.net/psk-media/media/p/p/g/fc83c2cfd81b7a67a8163924dc269e6a35012287.jpg",
@@ -642,7 +642,7 @@
         "released": false,
         "sellable": true,
         "is_coming": false,
-        "completion_percent": 45
+        "completion_percent": 50
       },
       "min_price": "15286022.50",
       "landing_url": "https://gavan.psk-info.ru/",
@@ -923,7 +923,7 @@
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/5b519fdac4e2ea71317e0738be0d09cba655141c.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/03fa65627375e0c88826f298516fea299d8b70d5.jpg"
         ],
-        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/7693b5f8be7009ac6b29f12bc42cc91b88783076.jpg",
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/4d5c786ad778e8f10263dc0a497070d0ae23ce63.jpg",
         "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/38a0f647319ead154d4b8642c2325d74d9d75188.svg",
         "facade_or_plan_images": [
           "https://storage.yandexcloud.net/psk-media/media/p/p/g/884e45d5851d4f5a4271ef99f85ae1419053d951.jpg",
@@ -1199,7 +1199,7 @@
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/4b6cff1d7565d7b59a6e697fb6c7d3ca232d91e0.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/907ea229905039b9d65741b87a9abd059a3694cf.jpg"
         ],
-        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/4464473f02864d8a447105c01439b07049443476.jpg",
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/9011b3553b57a5a9bca99af7bfa0dc28e995a001.jpg",
         "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/952858861cb9dcb54532a455c23bd52162da2505.png",
         "facade_or_plan_images": [
           "https://storage.yandexcloud.net/psk-media/media/p/p/g/429a90f50596538812a297ba411617bcdbfe8dfc.jpg",
@@ -2811,7 +2811,7 @@
         "is_coming": false,
         "completion_percent": 100
       },
-      "min_price": "46500000.00",
+      "min_price": "49800000.00",
       "landing_url": null,
       "virtual_tour_url": null,
       "genplan_url": null,
