@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-13T12:44:25+00:00",
+  "generated_at": "2026-11-14T11:52:52+00:00",
   "source": "https://psk-info.ru/api/flats/",
   "totals": {
     "total": 2283,
-    "free": 2157,
-    "reserved": 126,
+    "free": 2159,
+    "reserved": 124,
     "other": 0
   },
   "projects": {
     "assambleya-klubnyj-kvartal": {
       "project_name": "«Ассамблея», клубный квартал",
       "total": 485,
-      "free": 478,
-      "reserved": 7,
+      "free": 479,
+      "reserved": 6,
       "other": 0,
-      "free_share_pct": 98.6,
+      "free_share_pct": 98.8,
       "free_min_price": 14043303.04,
       "free_by_rooms": {
         "0": 93,
         "1": 176,
-        "2": 148,
+        "2": 149,
         "3": 61
       }
     },
     "zhk-respect": {
       "project_name": "«РЕСПЕКТ», жилой квартал",
       "total": 479,
-      "free": 456,
-      "reserved": 23,
+      "free": 457,
+      "reserved": 22,
       "other": 0,
-      "free_share_pct": 95.2,
+      "free_share_pct": 95.4,
       "free_min_price": 11635252.2,
       "free_by_rooms": {
         "0": 74,
         "1": 166,
-        "2": 157,
+        "2": 158,
         "3": 59
       }
     },
@@ -47,8 +47,8 @@
       "free_share_pct": 93.4,
       "free_min_price": 6833541.91,
       "free_by_rooms": {
-        "0": 52,
-        "1": 60,
+        "0": 53,
+        "1": 59,
         "2": 74,
         "3": 70
       }
@@ -56,46 +56,46 @@
     "plus-pulkovskij": {
       "project_name": "ПЛЮС Пулковский, сити-квартал",
       "total": 238,
-      "free": 222,
-      "reserved": 16,
+      "free": 223,
+      "reserved": 15,
       "other": 0,
-      "free_share_pct": 93.3,
+      "free_share_pct": 93.7,
       "free_min_price": 5884550.0,
       "free_by_rooms": {
         "0": 71,
         "1": 58,
-        "2": 51,
+        "2": 52,
         "3": 42
       }
     },
     "galernaya-gavan": {
       "project_name": "«Галерная гавань», жилой комплекс",
       "total": 219,
-      "free": 210,
-      "reserved": 9,
+      "free": 212,
+      "reserved": 7,
       "other": 0,
-      "free_share_pct": 95.9,
+      "free_share_pct": 96.8,
       "free_min_price": 15286022.5,
       "free_by_rooms": {
         "0": 9,
-        "1": 61,
+        "1": 62,
         "2": 93,
-        "3": 40,
+        "3": 41,
         "4": 7
       }
     },
     "optimist-zhiloj-kompleks": {
       "project_name": "«Оптимист», жилой комплекс",
       "total": 194,
-      "free": 190,
-      "reserved": 4,
+      "free": 189,
+      "reserved": 5,
       "other": 0,
-      "free_share_pct": 97.9,
+      "free_share_pct": 97.4,
       "free_min_price": 9615359.0,
       "free_by_rooms": {
-        "0": 25,
-        "1": 77,
-        "2": 61,
+        "0": 26,
+        "1": 76,
+        "2": 60,
         "3": 24,
         "4": 3
       }
@@ -103,15 +103,15 @@
     "akvatoriya-premialnyj-dom": {
       "project_name": "«Акватория», премиальный дом",
       "total": 168,
-      "free": 163,
-      "reserved": 5,
+      "free": 160,
+      "reserved": 8,
       "other": 0,
-      "free_share_pct": 97.0,
+      "free_share_pct": 95.2,
       "free_min_price": 22869552.0,
       "free_by_rooms": {
         "1": 31,
         "2": 50,
-        "3": 70,
+        "3": 67,
         "4": 11,
         "5": 1
       }
@@ -119,14 +119,14 @@
     "industrial-avenir": {
       "project_name": "Апарт‐отель Industrial AVENIR",
       "total": 126,
-      "free": 104,
-      "reserved": 22,
+      "free": 105,
+      "reserved": 21,
       "other": 0,
-      "free_share_pct": 82.5,
+      "free_share_pct": 83.3,
       "free_min_price": 5656819.35,
       "free_by_rooms": {
         "0": 103,
-        "2": 1
+        "2": 2
       }
     },
     "ladozhsky": {
@@ -136,7 +136,7 @@
       "reserved": 11,
       "other": 0,
       "free_share_pct": 82.3,
-      "free_min_price": 5874072.0,
+      "free_min_price": 6920891.67,
       "free_by_rooms": {
         "0": 51
       }

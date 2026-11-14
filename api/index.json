@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:45:24+00:00",
+  "generated_at": "2026-11-14T11:54:08+00:00",
   "repository": "https://github.com/stasfactoryads-cloud/psk-official-data",
   "base_url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/",
   "alerts": [],
@@ -9,7 +9,7 @@
       "title": "Проекты: цены, ипотека, рассрочка, статусы",
       "description": "Структурные данные по проектам с источником и статусом проверки каждого поля. Ручные правки отдела продаж — в manual_overrides.",
       "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/projects.json",
-      "generated_at": "2026-11-13T12:45:24+00:00",
+      "generated_at": "2026-11-14T11:54:08+00:00",
       "count": 13
     },
     {
@@ -17,7 +17,7 @@
       "title": "Маркетинг: описания, УТП, фото и видео",
       "description": "Текст о проекте, преимущества, инфраструктура, прямые ссылки на фото (media.photos) и видео (media.videos).",
       "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/marketing.json",
-      "generated_at": "2026-11-13T12:44:48+00:00",
+      "generated_at": "2026-11-14T11:53:24+00:00",
       "count": 12
     },
     {
@@ -25,7 +25,7 @@
       "title": "Каталог лотов: все квартиры",
       "description": "Все квартиры по всем проектам: цена, площадь, этаж, статус, ипотечный платёж, планировка.",
       "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/flats.json",
-      "generated_at": "2026-11-13T12:44:25+00:00",
+      "generated_at": "2026-11-14T11:52:52+00:00",
       "count": 2283
     },
     {
@@ -33,11 +33,11 @@
       "title": "Срез наличия: в продаже и в броне",
       "description": "Свободно и в броне по каждому проекту и по каталогу в целом, минимальная цена свободного лота.",
       "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/availability.json",
-      "generated_at": "2026-11-13T12:44:25+00:00",
+      "generated_at": "2026-11-14T11:52:52+00:00",
       "totals": {
         "total": 2283,
-        "free": 2157,
-        "reserved": 126,
+        "free": 2159,
+        "reserved": 124,
         "other": 0
       }
     },
@@ -53,7 +53,7 @@
       "title": "Лендинги: посадочные страницы проектов",
       "description": "Все посадочные страницы по проектам, ссылки проверены запросом (HTTP-статус). Обновляется ежедневно.",
       "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/landings.json",
-      "generated_at": "2026-11-13T12:45:23+00:00"
+      "generated_at": "2026-11-14T11:54:07+00:00"
     },
     {
       "file": "useful.json",
@@ -68,7 +68,7 @@
       "title": "УТП проектов",
       "description": "Короткие УТП по каждому проекту: расположение, транспорт, квартиры, минимальная цена, особенности, условия покупки, застройщик.",
       "url": "https://raw.githubusercontent.com/stasfactoryads-cloud/psk-official-data/main/api/utp.json",
-      "generated_at": "2026-11-13T12:45:23+00:00"
+      "generated_at": "2026-11-14T11:54:07+00:00"
     }
   ]
 }
