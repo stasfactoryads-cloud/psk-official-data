@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T13:16:17+00:00",
+  "generated_at": "2026-11-17T14:01:14+00:00",
   "source": "https://psk-info.ru/api/projects/<slug>/",
   "count": 12,
   "projects": {
@@ -931,7 +931,7 @@
         ]
       },
       "tags": [
-        "Выгодная рассрочка"
+        "Рассрочка на 3 года"
       ],
       "landing_urls": [
         "https://gavan.psk-info.ru/",
@@ -1463,7 +1463,7 @@
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/0d04f5ac0864bab8a8f673a5265cc4bc66334c02.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/1c5917fab2a6da80073d95ba284491a06c3ea535.jpg"
         ],
-        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/79557dce15c7f93f6b3333655f0d4e99f118eb04.jpg",
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/dd70b581dbf315d27a0757a4e9c8afe550dc4065.jpg",
         "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/f2c5a7d5dcbce2c67d2e1c394b1fafe8462d0627.png",
         "facade_or_plan_images": [
           "https://storage.yandexcloud.net/psk-media/media/p/p/g/5a5ab77cf12d20fc67f3bf546b343b2104779df1.jpg",
@@ -2072,7 +2072,7 @@
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/a0f06c04c5bda1759cec9c195a26b731b14ac988.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/8caf3fe62aac56ad7645e5490b115203525e4f03.jpeg"
         ],
-        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/2ffcd448e32797c71b30e0ed72e393aff8a71cad.jpg",
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/8de2d006fda0875cdd8168b4d6fb919e313e1e37.jpg",
         "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/1987707702113edb3f6e1fc154a607899eb538a9.png",
         "facade_or_plan_images": [
           "https://storage.yandexcloud.net/psk-media/media/p/p/g/bdc1ef71821ed3edb5bcfef7431cb5df82018e1e.jpg",

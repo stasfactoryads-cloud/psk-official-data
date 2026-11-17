@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-16T13:16:02+00:00",
+  "generated_at": "2026-11-17T14:00:56+00:00",
   "source": "https://psk-info.ru/api/flats/",
   "totals": {
-    "total": 2281,
-    "free": 2154,
-    "reserved": 127,
+    "total": 2273,
+    "free": 2141,
+    "reserved": 132,
     "other": 0
   },
   "projects": {
     "assambleya-klubnyj-kvartal": {
       "project_name": "«Ассамблея», клубный квартал",
       "total": 485,
-      "free": 479,
-      "reserved": 6,
+      "free": 478,
+      "reserved": 7,
       "other": 0,
-      "free_share_pct": 98.8,
+      "free_share_pct": 98.6,
       "free_min_price": 14043303.04,
       "free_by_rooms": {
         "0": 93,
         "1": 176,
-        "2": 149,
+        "2": 148,
         "3": 61
       }
     },
     "zhk-respect": {
       "project_name": "«РЕСПЕКТ», жилой квартал",
-      "total": 479,
-      "free": 457,
-      "reserved": 22,
+      "total": 481,
+      "free": 456,
+      "reserved": 25,
       "other": 0,
-      "free_share_pct": 95.4,
+      "free_share_pct": 94.8,
       "free_min_price": 11635252.2,
       "free_by_rooms": {
         "0": 74,
-        "1": 166,
+        "1": 165,
         "2": 158,
         "3": 59
       }
@@ -41,46 +41,46 @@
     "sezony-vidovoj-kompleks": {
       "project_name": "«Сезоны», видовой комплекс",
       "total": 275,
-      "free": 254,
-      "reserved": 21,
+      "free": 251,
+      "reserved": 24,
       "other": 0,
-      "free_share_pct": 92.4,
+      "free_share_pct": 91.3,
       "free_min_price": 6833541.91,
       "free_by_rooms": {
-        "0": 53,
-        "1": 59,
+        "0": 51,
+        "1": 58,
         "2": 73,
         "3": 69
       }
     },
     "plus-pulkovskij": {
       "project_name": "ПЛЮС Пулковский, сити-квартал",
-      "total": 238,
-      "free": 224,
-      "reserved": 14,
+      "total": 236,
+      "free": 220,
+      "reserved": 16,
       "other": 0,
-      "free_share_pct": 94.1,
+      "free_share_pct": 93.2,
       "free_min_price": 5884550.0,
       "free_by_rooms": {
-        "0": 70,
-        "1": 60,
+        "0": 67,
+        "1": 59,
         "2": 52,
         "3": 42
       }
     },
     "galernaya-gavan": {
       "project_name": "«Галерная гавань», жилой комплекс",
-      "total": 218,
-      "free": 207,
-      "reserved": 11,
+      "total": 216,
+      "free": 206,
+      "reserved": 10,
       "other": 0,
-      "free_share_pct": 95.0,
+      "free_share_pct": 95.4,
       "free_min_price": 15286022.5,
       "free_by_rooms": {
         "0": 9,
         "1": 61,
         "2": 89,
-        "3": 41,
+        "3": 40,
         "4": 7
       }
     },
@@ -118,55 +118,54 @@
     },
     "industrial-avenir": {
       "project_name": "Апарт‐отель Industrial AVENIR",
-      "total": 126,
+      "total": 123,
       "free": 105,
-      "reserved": 21,
+      "reserved": 18,
       "other": 0,
-      "free_share_pct": 83.3,
+      "free_share_pct": 85.4,
       "free_min_price": 5656819.35,
       "free_by_rooms": {
-        "0": 103,
-        "2": 2
+        "0": 104,
+        "2": 1
       }
     },
     "ladozhsky": {
       "project_name": "Апарт‐отель Ladozhsky AVENIR",
-      "total": 61,
-      "free": 51,
-      "reserved": 10,
+      "total": 58,
+      "free": 49,
+      "reserved": 9,
       "other": 0,
-      "free_share_pct": 83.6,
+      "free_share_pct": 84.5,
       "free_min_price": 6920891.67,
       "free_by_rooms": {
-        "0": 51
+        "0": 49
       }
     },
     "bakunina33": {
       "project_name": "BAKUNINA 33, клубный дом",
       "total": 24,
-      "free": 22,
-      "reserved": 2,
+      "free": 20,
+      "reserved": 4,
       "other": 0,
-      "free_share_pct": 91.7,
-      "free_min_price": 34230000.0,
+      "free_share_pct": 83.3,
+      "free_min_price": 39765000.0,
       "free_by_rooms": {
-        "1": 1,
-        "2": 10,
-        "3": 5,
+        "2": 8,
+        "3": 6,
         "4": 6
       }
     },
     "korona": {
       "project_name": "«Северная корона», квартиры - резиденции",
       "total": 12,
-      "free": 7,
-      "reserved": 5,
+      "free": 8,
+      "reserved": 4,
       "other": 0,
-      "free_share_pct": 58.3,
+      "free_share_pct": 66.7,
       "free_min_price": 49628000.0,
       "free_by_rooms": {
         "1": 1,
-        "3": 5,
+        "3": 6,
         "2": 1
       }
     },
