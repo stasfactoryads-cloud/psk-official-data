@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:01:14+00:00",
+  "generated_at": "2026-11-18T13:36:16+00:00",
   "source": "https://psk-info.ru/api/projects/<slug>/",
   "count": 12,
   "projects": {
@@ -346,7 +346,7 @@
         "is_coming": false,
         "completion_percent": 48
       },
-      "min_price": "14043303.04",
+      "min_price": "12578021.04",
       "landing_url": "https://assambleya.psk-info.ru/",
       "virtual_tour_url": "https://assambleya.psk-info.ru/tour?hideHeader&pano=L",
       "genplan_url": null,
@@ -644,7 +644,7 @@
         "is_coming": false,
         "completion_percent": 50
       },
-      "min_price": "15286022.50",
+      "min_price": "13595592.50",
       "landing_url": "https://gavan.psk-info.ru/",
       "virtual_tour_url": "https://gavan.psk-info.ru/vtour",
       "genplan_url": null,
@@ -1488,17 +1488,17 @@
       "completion": {
         "year": 2025,
         "quarter": 4,
-        "year_max": 2027,
-        "quarter_max": 2
+        "year_max": 2028,
+        "quarter_max": 4
       },
       "status": {
-        "label": "Дома № 1— 8 сданы",
+        "label": "скоро в продаже новые корпуса",
         "released": false,
         "sellable": true,
         "is_coming": false,
-        "completion_percent": 60
+        "completion_percent": 70
       },
-      "min_price": "5842044.00",
+      "min_price": "5573232.00",
       "landing_url": null,
       "virtual_tour_url": "https://file.motionpix.ru/3dd/",
       "genplan_url": null,
@@ -1763,7 +1763,7 @@
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/29139a5e4f0c00eac536a03bdb5d745d23b50967.jpg",
           "https://storage.yandexcloud.net/psk-media/media/p/gi/i/a8dfec2b5e6fbd8194b665e9d6741f5e4e68ced4.jpg"
         ],
-        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/631e4b4663c795e4c9369fb7b2cabbe46fb6f938.jpg",
+        "photo_report_preview": "https://storage.yandexcloud.net/psk-media/media/project/image/78cae45d1d27cb79a1773a4143fb1e0aa3e97b29.jpg",
         "logo": "https://storage.yandexcloud.net/psk-media/media/p/p/g/168beda3f68745a1ac49827fdc7efc031f095f74.png",
         "facade_or_plan_images": [
           "https://storage.yandexcloud.net/psk-media/media/p/p/g/2fb9ae67b2ddedf4d0d2eec2e01f35155429b024.jpg",

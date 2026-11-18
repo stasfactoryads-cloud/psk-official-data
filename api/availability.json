@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-17T14:00:56+00:00",
+  "generated_at": "2026-11-18T13:35:57+00:00",
   "source": "https://psk-info.ru/api/flats/",
   "totals": {
-    "total": 2273,
+    "total": 2271,
     "free": 2141,
-    "reserved": 132,
+    "reserved": 130,
     "other": 0
   },
   "projects": {
     "assambleya-klubnyj-kvartal": {
       "project_name": "«Ассамблея», клубный квартал",
       "total": 485,
-      "free": 478,
-      "reserved": 7,
+      "free": 477,
+      "reserved": 8,
       "other": 0,
-      "free_share_pct": 98.6,
-      "free_min_price": 14043303.04,
+      "free_share_pct": 98.4,
+      "free_min_price": 12578021.04,
       "free_by_rooms": {
         "0": 93,
         "1": 176,
         "2": 148,
-        "3": 61
+        "3": 60
       }
     },
     "zhk-respect": {
@@ -40,15 +40,15 @@
     },
     "sezony-vidovoj-kompleks": {
       "project_name": "«Сезоны», видовой комплекс",
-      "total": 275,
-      "free": 251,
-      "reserved": 24,
+      "total": 274,
+      "free": 252,
+      "reserved": 22,
       "other": 0,
-      "free_share_pct": 91.3,
+      "free_share_pct": 92.0,
       "free_min_price": 6833541.91,
       "free_by_rooms": {
         "0": 51,
-        "1": 58,
+        "1": 59,
         "2": 73,
         "3": 69
       }
@@ -60,26 +60,26 @@
       "reserved": 16,
       "other": 0,
       "free_share_pct": 93.2,
-      "free_min_price": 5884550.0,
+      "free_min_price": 5613650.0,
       "free_by_rooms": {
-        "0": 67,
+        "0": 68,
         "1": 59,
-        "2": 52,
+        "2": 51,
         "3": 42
       }
     },
     "galernaya-gavan": {
       "project_name": "«Галерная гавань», жилой комплекс",
       "total": 216,
-      "free": 206,
-      "reserved": 10,
+      "free": 208,
+      "reserved": 8,
       "other": 0,
-      "free_share_pct": 95.4,
-      "free_min_price": 15286022.5,
+      "free_share_pct": 96.3,
+      "free_min_price": 13595592.5,
       "free_by_rooms": {
         "0": 9,
         "1": 61,
-        "2": 89,
+        "2": 91,
         "3": 40,
         "4": 7
       }
@@ -87,15 +87,15 @@
     "optimist-zhiloj-kompleks": {
       "project_name": "«Оптимист», жилой комплекс",
       "total": 194,
-      "free": 187,
-      "reserved": 7,
+      "free": 190,
+      "reserved": 4,
       "other": 0,
-      "free_share_pct": 96.4,
+      "free_share_pct": 97.9,
       "free_min_price": 9615359.0,
       "free_by_rooms": {
         "0": 24,
-        "1": 76,
-        "2": 60,
+        "1": 78,
+        "2": 61,
         "3": 24,
         "4": 3
       }
@@ -103,26 +103,26 @@
     "akvatoriya-premialnyj-dom": {
       "project_name": "«Акватория», премиальный дом",
       "total": 168,
-      "free": 160,
-      "reserved": 8,
+      "free": 157,
+      "reserved": 11,
       "other": 0,
-      "free_share_pct": 95.2,
+      "free_share_pct": 93.5,
       "free_min_price": 22869552.0,
       "free_by_rooms": {
         "1": 31,
         "2": 50,
-        "3": 67,
+        "3": 64,
         "4": 11,
         "5": 1
       }
     },
     "industrial-avenir": {
       "project_name": "Апарт‐отель Industrial AVENIR",
-      "total": 123,
+      "total": 122,
       "free": 105,
-      "reserved": 18,
+      "reserved": 17,
       "other": 0,
-      "free_share_pct": 85.4,
+      "free_share_pct": 86.1,
       "free_min_price": 5656819.35,
       "free_by_rooms": {
         "0": 104,
@@ -148,9 +148,10 @@
       "reserved": 4,
       "other": 0,
       "free_share_pct": 83.3,
-      "free_min_price": 39765000.0,
+      "free_min_price": 34230000.0,
       "free_by_rooms": {
-        "2": 8,
+        "1": 1,
+        "2": 7,
         "3": 6,
         "4": 6
       }
@@ -158,14 +159,13 @@
     "korona": {
       "project_name": "«Северная корона», квартиры - резиденции",
       "total": 12,
-      "free": 8,
-      "reserved": 4,
+      "free": 6,
+      "reserved": 6,
       "other": 0,
-      "free_share_pct": 66.7,
-      "free_min_price": 49628000.0,
+      "free_share_pct": 50.0,
+      "free_min_price": 50180000.0,
       "free_by_rooms": {
-        "1": 1,
-        "3": 6,
+        "3": 5,
         "2": 1
       }
     },
