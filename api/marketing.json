@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:36:16+00:00",
+  "generated_at": "2026-11-19T14:02:28+00:00",
   "source": "https://psk-info.ru/api/projects/<slug>/",
   "count": 12,
   "projects": {
@@ -1492,13 +1492,13 @@
         "quarter_max": 4
       },
       "status": {
-        "label": "скоро в продаже новые корпуса",
+        "label": "в продаже новые корпуса",
         "released": false,
         "sellable": true,
         "is_coming": false,
         "completion_percent": 70
       },
-      "min_price": "5573232.00",
+      "min_price": "5613650.00",
       "landing_url": null,
       "virtual_tour_url": "https://file.motionpix.ru/3dd/",
       "genplan_url": null,

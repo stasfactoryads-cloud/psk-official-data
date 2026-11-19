@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-18T13:35:57+00:00",
+  "generated_at": "2026-11-19T14:02:12+00:00",
   "source": "https://psk-info.ru/api/flats/",
   "totals": {
-    "total": 2271,
-    "free": 2141,
-    "reserved": 130,
+    "total": 2442,
+    "free": 2303,
+    "reserved": 139,
     "other": 0
   },
   "projects": {
@@ -25,76 +25,76 @@
     },
     "zhk-respect": {
       "project_name": "«РЕСПЕКТ», жилой квартал",
-      "total": 481,
-      "free": 456,
-      "reserved": 25,
+      "total": 480,
+      "free": 454,
+      "reserved": 26,
       "other": 0,
-      "free_share_pct": 94.8,
+      "free_share_pct": 94.6,
       "free_min_price": 11635252.2,
       "free_by_rooms": {
         "0": 74,
         "1": 165,
         "2": 158,
-        "3": 59
+        "3": 57
+      }
+    },
+    "plus-pulkovskij": {
+      "project_name": "ПЛЮС Пулковский, сити-квартал",
+      "total": 409,
+      "free": 389,
+      "reserved": 20,
+      "other": 0,
+      "free_share_pct": 95.1,
+      "free_min_price": 5613650.0,
+      "free_by_rooms": {
+        "0": 106,
+        "1": 159,
+        "2": 82,
+        "3": 42
       }
     },
     "sezony-vidovoj-kompleks": {
       "project_name": "«Сезоны», видовой комплекс",
       "total": 274,
-      "free": 252,
-      "reserved": 22,
+      "free": 251,
+      "reserved": 23,
       "other": 0,
-      "free_share_pct": 92.0,
+      "free_share_pct": 91.6,
       "free_min_price": 6833541.91,
       "free_by_rooms": {
-        "0": 51,
+        "0": 50,
         "1": 59,
         "2": 73,
         "3": 69
       }
     },
-    "plus-pulkovskij": {
-      "project_name": "ПЛЮС Пулковский, сити-квартал",
-      "total": 236,
-      "free": 220,
-      "reserved": 16,
-      "other": 0,
-      "free_share_pct": 93.2,
-      "free_min_price": 5613650.0,
-      "free_by_rooms": {
-        "0": 68,
-        "1": 59,
-        "2": 51,
-        "3": 42
-      }
-    },
     "galernaya-gavan": {
       "project_name": "«Галерная гавань», жилой комплекс",
       "total": 216,
-      "free": 208,
-      "reserved": 8,
+      "free": 207,
+      "reserved": 9,
       "other": 0,
-      "free_share_pct": 96.3,
+      "free_share_pct": 95.8,
       "free_min_price": 13595592.5,
       "free_by_rooms": {
         "0": 9,
         "1": 61,
         "2": 91,
-        "3": 40,
+        "3": 39,
         "4": 7
       }
     },
     "optimist-zhiloj-kompleks": {
       "project_name": "«Оптимист», жилой комплекс",
       "total": 194,
-      "free": 190,
-      "reserved": 4,
+      "free": 189,
+      "reserved": 5,
       "other": 0,
-      "free_share_pct": 97.9,
+      "free_share_pct": 97.4,
       "free_min_price": 9615359.0,
       "free_by_rooms": {
         "0": 24,
-        "1": 78,
+        "1": 77,
         "2": 61,
         "3": 24,
         "4": 3
@@ -125,17 +125,17 @@
       "free_share_pct": 86.1,
       "free_min_price": 5656819.35,
       "free_by_rooms": {
-        "0": 104,
-        "2": 1
+        "0": 103,
+        "2": 2
       }
     },
     "ladozhsky": {
       "project_name": "Апарт‐отель Ladozhsky AVENIR",
-      "total": 58,
+      "total": 57,
       "free": 49,
-      "reserved": 9,
+      "reserved": 8,
       "other": 0,
-      "free_share_pct": 84.5,
+      "free_share_pct": 86.0,
       "free_min_price": 6920891.67,
       "free_by_rooms": {
         "0": 49
@@ -148,10 +148,9 @@
       "reserved": 4,
       "other": 0,
       "free_share_pct": 83.3,
-      "free_min_price": 34230000.0,
+      "free_min_price": 40768000.0,
       "free_by_rooms": {
-        "1": 1,
-        "2": 7,
+        "2": 8,
         "3": 6,
         "4": 6
       }
@@ -159,14 +158,14 @@
     "korona": {
       "project_name": "«Северная корона», квартиры - резиденции",
       "total": 12,
-      "free": 6,
-      "reserved": 6,
+      "free": 4,
+      "reserved": 8,
       "other": 0,
-      "free_share_pct": 50.0,
-      "free_min_price": 50180000.0,
+      "free_share_pct": 33.3,
+      "free_min_price": 85848000.0,
       "free_by_rooms": {
-        "3": 5,
-        "2": 1
+        "2": 1,
+        "3": 3
       }
     },
     "korona_apart": {
