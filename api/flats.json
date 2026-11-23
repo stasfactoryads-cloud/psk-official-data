@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:57:33+00:00",
+  "generated_at": "2026-11-23T15:34:16+00:00",
   "source": "https://psk-info.ru/api/flats/",
   "count": 2430,
   "flats": [
@@ -40,7 +40,7 @@
       "id": 395407,
       "number": "60",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 0,
       "area": 21.5,
       "floor": 1,
@@ -53,7 +53,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -251,7 +251,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 3,
+      "booking_days": 2,
       "finishing": "С отделкой",
       "assignment": true,
       "leasing": false,
@@ -284,7 +284,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 6,
+      "booking_days": 4,
       "finishing": "С отделкой",
       "assignment": true,
       "leasing": false,
@@ -350,7 +350,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 3,
+      "booking_days": 2,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -812,7 +812,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 4,
+      "booking_days": 2,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -944,7 +944,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 5,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -1010,7 +1010,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 3,
+      "booking_days": 2,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -1043,7 +1043,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -1142,7 +1142,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 5,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -1307,7 +1307,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -2198,7 +2198,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -2231,7 +2231,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 5,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -3089,7 +3089,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 2,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -3254,7 +3254,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 3,
+      "booking_days": 2,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -3386,7 +3386,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 27,
+      "booking_days": 26,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -4277,7 +4277,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 1,
+      "booking_days": 6,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -4297,7 +4297,7 @@
       "id": 336297,
       "number": "428",
       "type": "apartments",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 0,
       "area": 24.4,
       "floor": 4,
@@ -4574,7 +4574,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -4838,7 +4838,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -7126,7 +7126,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 11,
+      "booking_days": 10,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -7380,7 +7380,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 5,
+      "booking_days": 3,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -7413,7 +7413,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 11,
+      "booking_days": 10,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -7477,7 +7477,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -7508,7 +7508,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -7539,7 +7539,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -8115,7 +8115,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -8210,7 +8210,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -8536,7 +8536,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -8618,7 +8618,7 @@
       "id": 335043,
       "number": "59",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 0,
       "area": 27.65,
       "floor": 5,
@@ -8631,7 +8631,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -8788,7 +8788,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -9110,7 +9110,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -9161,7 +9161,7 @@
       "id": 415866,
       "number": "34",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 0,
       "area": 25.89,
       "floor": 5,
@@ -9172,7 +9172,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -9403,7 +9403,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 2,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -9500,7 +9500,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 2,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -10284,7 +10284,7 @@
       "tags": [
         "Рассрочка"
       ],
-      "booking_days": 12,
+      "booking_days": 11,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -10606,7 +10606,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 18,
+      "booking_days": 17,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -10738,7 +10738,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 13,
+      "booking_days": 11,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -11412,7 +11412,7 @@
       "id": 394942,
       "number": "53",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 1,
       "area": 34.9,
       "floor": 5,
@@ -11425,7 +11425,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -12105,7 +12105,7 @@
       "id": 487552,
       "number": "39",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 1,
       "area": 34.53,
       "floor": 4,
@@ -12118,7 +12118,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -12961,7 +12961,7 @@
       "id": 100569,
       "number": "733",
       "type": "apartments",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 0,
       "area": 39.23,
       "floor": 7,
@@ -12974,7 +12974,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -13071,7 +13071,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -14193,7 +14193,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -14312,7 +14312,7 @@
       "id": 139316,
       "number": "89",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 1,
       "area": 37.6,
       "floor": 2,
@@ -14325,7 +14325,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -14345,7 +14345,7 @@
       "id": 139582,
       "number": "132",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 1,
       "area": 36.7,
       "floor": 3,
@@ -14358,7 +14358,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -14543,7 +14543,7 @@
       "id": 139539,
       "number": "89",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 1,
       "area": 37.7,
       "floor": 2,
@@ -14556,7 +14556,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -15117,7 +15117,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 6,
+      "booking_days": 4,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -15496,7 +15496,7 @@
       "id": 395402,
       "number": "55",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 1,
       "area": 41.2,
       "floor": 5,
@@ -15866,7 +15866,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -16089,7 +16089,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 13,
+      "booking_days": 11,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -16615,7 +16615,7 @@
       "id": 451000,
       "number": "20",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 0,
       "area": 24.52,
       "floor": 4,
@@ -16626,7 +16626,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 9,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -16719,7 +16719,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 8,
+      "booking_days": 7,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -16750,7 +16750,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -16907,7 +16907,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 4,
+      "booking_days": 2,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -17824,7 +17824,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 69,
+      "booking_days": 68,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -20264,7 +20264,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 9,
+      "booking_days": 8,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -20487,7 +20487,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 7,
+      "booking_days": 6,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -20520,7 +20520,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -20553,7 +20553,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -20778,7 +20778,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 3,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -22103,7 +22103,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 3,
+      "booking_days": 2,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -25628,7 +25628,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 55,
+      "booking_days": 53,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -26115,7 +26115,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 5,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -26771,7 +26771,7 @@
       "id": 416040,
       "number": "208",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 1,
       "area": 42.74,
       "floor": 5,
@@ -26782,7 +26782,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -28017,7 +28017,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 10,
+      "booking_days": 9,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -29800,7 +29800,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -30677,7 +30677,7 @@
       "tags": [
         "Рассрочка на 3 года"
       ],
-      "booking_days": 8,
+      "booking_days": 6,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -34038,7 +34038,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 5,
+      "booking_days": 3,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -35109,7 +35109,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 6,
+      "booking_days": 4,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -36250,7 +36250,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -37704,7 +37704,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -38802,7 +38802,7 @@
       "id": 394912,
       "number": "23",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 3,
       "area": 73.7,
       "floor": 4,
@@ -38815,7 +38815,7 @@
       "tags": [
         "военная ипотека"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -41168,7 +41168,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 71,
+      "booking_days": 70,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -41424,7 +41424,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 4,
+      "booking_days": 2,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -42771,7 +42771,7 @@
       "id": 374427,
       "number": "343",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 1,
       "area": 42.51,
       "floor": 11,
@@ -42784,7 +42784,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -42974,7 +42974,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 9,
+      "booking_days": 7,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -48342,7 +48342,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 52,
+      "booking_days": 51,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -48693,7 +48693,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 24,
+      "booking_days": 22,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -49910,7 +49910,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 3,
+      "booking_days": 2,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -50251,7 +50251,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 88,
+      "booking_days": 87,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -50271,7 +50271,7 @@
       "id": 146478,
       "number": "397",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 1,
       "area": 42.7,
       "floor": 13,
@@ -50594,7 +50594,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 47,
+      "booking_days": 46,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -54714,7 +54714,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 19,
+      "booking_days": 17,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -55703,7 +55703,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -56215,7 +56215,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 30,
+      "booking_days": 29,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -56911,7 +56911,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 32,
+      "booking_days": 31,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -56973,7 +56973,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 33,
+      "booking_days": 31,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -57258,7 +57258,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 2,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -58957,7 +58957,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 13,
+      "booking_days": 12,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -59266,7 +59266,7 @@
       "id": 401863,
       "number": "301",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 2,
       "area": 60.85,
       "floor": 4,
@@ -59279,7 +59279,7 @@
       "tags": [
         "Рассрочка на 3 года"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -59407,7 +59407,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 81,
+      "booking_days": 80,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -60541,7 +60541,7 @@
       "id": 146548,
       "number": "467",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 2,
       "area": 60.5,
       "floor": 8,
@@ -60552,7 +60552,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -61097,7 +61097,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 12,
+      "booking_days": 10,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -61285,7 +61285,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 7,
+      "booking_days": 6,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -62281,7 +62281,7 @@
       "id": 146375,
       "number": "294",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 2,
       "area": 64.5,
       "floor": 4,
@@ -62292,7 +62292,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "С отделкой",
       "assignment": false,
       "leasing": false,
@@ -62345,7 +62345,7 @@
       "id": 374509,
       "number": "425",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 2,
       "area": 69.77,
       "floor": 11,
@@ -62358,7 +62358,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 5,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -63869,7 +63869,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -65143,7 +65143,7 @@
       "tags": [
         "Рассрочка на 3 года"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -65531,7 +65531,7 @@
       "tags": [
         "Рассрочка на 3 года"
       ],
-      "booking_days": 1,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -65871,7 +65871,7 @@
       "id": 373786,
       "number": "37",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 2,
       "area": 66.38,
       "floor": 5,
@@ -65884,7 +65884,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": null,
+      "booking_days": 13,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -65946,7 +65946,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 30,
+      "booking_days": 29,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -66123,7 +66123,7 @@
       "id": 338961,
       "number": "40",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 3,
       "area": 79.72,
       "floor": 6,
@@ -66185,7 +66185,7 @@
       "id": 401809,
       "number": "247",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 3,
       "area": 81.52,
       "floor": 5,
@@ -66198,7 +66198,7 @@
       "tags": [
         "Рассрочка на 3 года"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -66231,7 +66231,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": 6,
+      "booking_days": 4,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -66962,7 +66962,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 53,
+      "booking_days": 52,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -66993,7 +66993,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 2,
+      "booking_days": null,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -67523,7 +67523,7 @@
       "id": 401828,
       "number": "266",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 3,
       "area": 85.0,
       "floor": 9,
@@ -67536,7 +67536,7 @@
       "tags": [
         "Рассрочка на 3 года"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -68236,7 +68236,7 @@
       "tags": [
         "Рассрочка на 3 года"
       ],
-      "booking_days": 8,
+      "booking_days": 7,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -68267,7 +68267,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 49,
+      "booking_days": 48,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -68750,7 +68750,7 @@
       "tags": [
         "Рассрочка на 3 года"
       ],
-      "booking_days": 4,
+      "booking_days": 3,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -69193,7 +69193,7 @@
       "id": 374731,
       "number": "647",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 3,
       "area": 88.11,
       "floor": 6,
@@ -69206,7 +69206,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -69226,7 +69226,7 @@
       "id": 401738,
       "number": "176",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 3,
       "area": 84.85,
       "floor": 8,
@@ -69239,7 +69239,7 @@
       "tags": [
         "Рассрочка на 3 года"
       ],
-      "booking_days": null,
+      "booking_days": 6,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -69839,7 +69839,7 @@
       "id": 86031,
       "number": "46",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 1,
       "area": 48.9,
       "floor": 9,
@@ -70132,7 +70132,7 @@
       "id": 146867,
       "number": "786",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 3,
       "area": 90.7,
       "floor": 7,
@@ -70337,7 +70337,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 70,
+      "booking_days": 68,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -70849,7 +70849,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 7,
+      "booking_days": 6,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -71008,7 +71008,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 80,
+      "booking_days": 79,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -71074,7 +71074,7 @@
       "tags": [
         "Выгодная рассрочка"
       ],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -71497,7 +71497,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 88,
+      "booking_days": 87,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -71559,7 +71559,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 86,
+      "booking_days": 84,
       "finishing": "Предчистовая",
       "assignment": false,
       "leasing": false,
@@ -72327,7 +72327,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -72473,7 +72473,7 @@
       "id": 85990,
       "number": "28",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 2,
       "area": 72.8,
       "floor": 6,
@@ -72484,7 +72484,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -73824,7 +73824,7 @@
       "id": 86015,
       "number": "78",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 2,
       "area": 79.9,
       "floor": 7,
@@ -73835,7 +73835,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -74072,7 +74072,7 @@
       "id": 87543,
       "number": "226",
       "type": "flat",
-      "status": "Бронь",
+      "status": "Свободно",
       "rooms": 1,
       "area": 55.0,
       "floor": 8,
@@ -74083,7 +74083,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 2,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -74585,7 +74585,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 2,
+      "booking_days": null,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -75136,7 +75136,7 @@
       "id": 431820,
       "number": "13",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 3,
       "area": 93.99,
       "floor": 5,
@@ -75147,7 +75147,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -75322,7 +75322,7 @@
       "id": 431828,
       "number": "21",
       "type": "flat",
-      "status": "Свободно",
+      "status": "Бронь",
       "rooms": 3,
       "area": 93.37,
       "floor": 7,
@@ -75333,7 +75333,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": null,
+      "booking_days": 1,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -76110,7 +76110,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -76389,7 +76389,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -76761,7 +76761,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 7,
+      "booking_days": 5,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -76792,7 +76792,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 5,
+      "booking_days": 4,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -77195,7 +77195,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 7,
+      "booking_days": 6,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -77288,7 +77288,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 3,
+      "booking_days": 2,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
@@ -77693,7 +77693,7 @@
       "min_mortgage": null,
       "discount": false,
       "tags": [],
-      "booking_days": 6,
+      "booking_days": 5,
       "finishing": "Без отделки",
       "assignment": false,
       "leasing": false,
